@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+
+# 开发期临时文件（截图 / 调试脚本）
+_*.png
+_*.js
+_*.html

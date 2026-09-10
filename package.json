@@ -1,0 +1,14 @@
+{
+  "name": "ai-industry-daily",
+  "version": "1.0.0",
+  "private": true,
+  "description": "每日 AI / 智能制造资讯聚合：词云筛选 + 双板块行业简报（移动端 H5）",
+  "scripts": {
+    "collect": "node collector/run.js",
+    "collect:dry": "node collector/run.js --dry-run",
+    "serve": "node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

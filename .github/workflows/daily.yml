@@ -1,0 +1,57 @@
+name: 每日资讯采集
+
+on:
+  schedule:
+    # 北京时间 08:00（UTC 00:00）
+    - cron: '0 0 * * *'
+    # 北京时间 20:00（UTC 12:00）
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '指定日期（YYYY-MM-DD，留空=今天，北京时间）'
+        required: false
+      dry_run:
+        description: '只抓取不调用大模型（跳过摘要与简报）'
+        type: boolean
+        default: false
+
+# 同一天早晚两次运行需要串行，避免同时写同一个 data/YYYY-MM-DD.json
+concurrency:
+  group: collector
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 采集 + 生成摘要与简报
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date=${{ inputs.date }}"; fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          node collector/run.js $ARGS
+
+      - name: 提交数据
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "无数据变化，跳过提交"
+          else
+            git commit -m "data: $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') 更新"
+            git push
+          fi

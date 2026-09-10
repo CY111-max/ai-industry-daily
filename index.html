@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0f172a" />
+<title>AI 智造日报</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#141a24; --ink2:#5b6677; --ink3:#8b95a5;
+    --line:#e6e9ef; --accent:#1d63ff; --accent-soft:#e8efff; --warn:#b8860b;
+    --radius:14px; --shadow:0 1px 2px rgba(16,24,40,.06),0 6px 20px rgba(16,24,40,.05);
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  .wrap{max-width:640px;margin:0 auto;padding:0 12px 40px}
+
+  /* 顶栏 */
+  header{
+    position:sticky;top:0;z-index:20;background:rgba(245,246,248,.92);
+    backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line);
+    margin:0 -12px 10px;padding:10px 12px calc(10px + env(safe-area-inset-top,0)/4);
+  }
+  .hrow{display:flex;align-items:center;gap:8px}
+  .title{font-size:17px;font-weight:700;letter-spacing:.2px;flex:1}
+  .title small{display:block;font-size:11px;font-weight:400;color:var(--ink3);letter-spacing:0}
+  .datebar{display:flex;align-items:center;gap:6px;margin-top:8px}
+  .datebar .d{font-size:14px;font-weight:600}
+  .datebar .week{font-size:12px;color:var(--ink3)}
+  .btn{
+    border:1px solid var(--line);background:var(--card);color:var(--ink);
+    border-radius:10px;padding:6px 10px;font-size:13px;cursor:pointer;
+  }
+  .btn:active{transform:scale(.97)}
+  .btn.ghost{background:transparent}
+  .btn.small{padding:3px 8px;font-size:12px;border-radius:8px}
+  .spacer{flex:1}
+  .spin{display:inline-block;animation:sp .9s linear infinite}
+  @keyframes sp{to{transform:rotate(360deg)}}
+
+  /* 通用卡片 */
+  .card{background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);margin:10px 0;padding:12px 14px}
+  .sec-title{display:flex;align-items:center;gap:6px;font-size:13px;font-weight:700;color:var(--ink2);margin:16px 2px 6px}
+  .sec-title .dot{width:6px;height:6px;border-radius:50%;background:var(--accent)}
+
+  /* 词云 */
+  .cloud{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:baseline;padding:4px 0 2px}
+  .word{
+    cursor:pointer;line-height:1.15;padding:2px 4px;border-radius:8px;
+    border:1px solid transparent;transition:background .15s,border-color .15s;
+  }
+  .word:active{background:var(--accent-soft)}
+  .word.on{background:var(--accent-soft);border-color:#bcd2ff;color:#0b3fbf}
+  .word .n{font-size:10px;color:var(--ink3);vertical-align:super;margin-left:2px}
+  .word.on .n{color:#0b3fbf}
+  .cloud-hint{font-size:12px;color:var(--ink3);margin-top:6px}
+  .addword{font-size:13px;color:var(--accent);border:1px dashed #bcd2ff;background:#f7faff;border-radius:999px;padding:3px 10px;cursor:pointer}
+
+  /* 筛选栏 */
+  .filterbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:8px}
+  .chip{
+    font-size:12px;background:var(--accent);color:#fff;border-radius:999px;
+    padding:3px 9px;display:inline-flex;gap:5px;align-items:center;cursor:pointer;
+  }
+  .chip .x{opacity:.85;font-size:13px;line-height:1}
+  .chip.clear{background:#eef1f6;color:var(--ink2)}
+
+  /* 列表 */
+  .listhead{display:flex;align-items:baseline;gap:8px;margin:14px 2px 2px}
+  .listhead b{font-size:14px}
+  .listhead span{font-size:12px;color:var(--ink3)}
+  .item{display:block;text-decoration:none;color:inherit}
+  .item h3{margin:0 0 4px;font-size:15px;line-height:1.45;font-weight:600}
+  .item .meta{font-size:12px;color:var(--ink3);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .item .digest{margin:6px 0 0;font-size:13.5px;color:var(--ink2)}
+  .src{background:#eef1f6;color:var(--ink2);border-radius:6px;padding:1px 6px;font-size:11px}
+  mark{background:transparent;color:inherit}
+  mark.hit{background:#fff3c4;border-radius:3px;padding:0 1px}
+  mark.on{background:#ffe08a;font-weight:600;border-radius:3px;padding:0 1px}
+
+  /* 简报 */
+  .brief-sum{font-size:14.5px;line-height:1.75}
+  .part{margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
+  .part:first-of-type{border-top:0;padding-top:0}
+  .part h4{margin:0 0 6px;font-size:14.5px}
+  .sub{margin:8px 0 0}
+  .sub b{font-size:12.5px;color:var(--accent);display:block;margin-bottom:2px}
+  .sub ul{margin:0;padding-left:18px}
+  .sub li{font-size:13.5px;margin:2px 0;color:var(--ink)}
+  .empty{color:var(--ink3);font-size:13px;padding:14px 2px;text-align:center}
+
+  /* 底栏/浮层 */
+  .overlay{position:fixed;inset:0;background:rgba(12,18,28,.42);z-index:40;opacity:0;pointer-events:none;transition:opacity .18s}
+  .overlay.show{opacity:1;pointer-events:auto}
+  .sheet{
+    position:fixed;left:0;right:0;bottom:0;z-index:41;background:var(--card);
+    border-radius:18px 18px 0 0;padding:14px 16px calc(16px + env(safe-area-inset-bottom));
+    transform:translateY(102%);transition:transform .22s ease;max-height:76vh;overflow:auto;
+    max-width:640px;margin:0 auto;
+  }
+  .sheet.show{transform:translateY(0)}
+  .sheet h3{margin:2px 0 6px;font-size:18px}
+  .sheet .def{font-size:14px;color:var(--ink2);line-height:1.7}
+  .sheet .muted{font-size:12px;color:var(--ink3);margin-top:6px}
+  .sheet .actions{display:flex;gap:8px;margin-top:14px}
+  .sheet .actions .btn{flex:1;text-align:center;padding:9px 10px;font-size:14px}
+  .sheet .actions .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .sheet .actions .btn.danger{color:#c0392b;border-color:#f0c9c4}
+  .dlist{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+  .dlist .btn{padding:6px 10px;font-size:13px}
+  .dlist .btn.cur{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .kwrow{display:flex;gap:8px;margin-top:10px}
+  .kwrow input{flex:1;border:1px solid var(--line);border-radius:9px;padding:8px 10px;font-size:14px;background:#fafbfd}
+  .kwlist{margin-top:10px}
+  .kwitem{display:flex;gap:8px;align-items:flex-start;border-top:1px solid var(--line);padding:8px 0;font-size:13px}
+  .kwitem b{min-width:74px}
+  .kwitem span{flex:1;color:var(--ink2)}
+
+  .toast{
+    position:fixed;left:50%;bottom:calc(28px + env(safe-area-inset-bottom));transform:translateX(-50%) translateY(10px);
+    background:rgba(20,26,36,.92);color:#fff;font-size:13px;padding:8px 14px;border-radius:999px;
+    z-index:60;opacity:0;pointer-events:none;transition:.2s;max-width:86vw;text-align:center;
+  }
+  .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  .offline{background:#fff8e6;border:1px solid #f2dfae;color:#8a6d1b;font-size:12.5px;border-radius:10px;padding:8px 10px;margin:10px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="hrow">
+      <div class="title">AI 智造日报<small id="updated">加载中…</small></div>
+      <button class="btn ghost small" id="btnHistory">历史</button>
+      <button class="btn small" id="btnRefresh">刷新</button>
+    </div>
+    <div class="datebar">
+      <button class="btn ghost small" id="btnPrev">‹</button>
+      <span class="d" id="dateLabel">—</span>
+      <span class="week" id="weekLabel"></span>
+      <span class="spacer"></span>
+      <button class="btn ghost small" id="btnNext">›</button>
+      <button class="btn ghost small" id="btnToday">今天</button>
+    </div>
+  </header>
+
+  <div id="offline" class="offline" style="display:none">离线：展示的是本机缓存内容</div>
+
+  <!-- 词云 -->
+  <div class="sec-title"><span class="dot"></span>今日热词（点击查看释义 / 勾选筛选）</div>
+  <div class="card">
+    <div class="cloud" id="cloud"></div>
+    <div class="filterbar" id="filterbar"></div>
+    <div class="cloud-hint" id="cloudHint"></div>
+  </div>
+
+  <!-- 资讯列表 -->
+  <div class="listhead"><b>资讯</b><span id="listCount"></span></div>
+  <div id="list"></div>
+
+  <!-- 每日简报 -->
+  <div class="sec-title"><span class="dot"></span>AI 每日简报</div>
+  <div class="card" id="briefing"></div>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<div class="sheet" id="sheet"></div>
+<div class="toast" id="toast"></div>
+
+<script>
+/* =======================================================================
+ * LIB：与 DOM 无关的纯逻辑（取数/缓存/词典匹配/格式化/简报拼装）
+ * 迁移微信小程序时，这一整块可直接复用，只替换下层 UI。
+ * ===================================================================== */
+const LIB = (function () {
+  // 预置关键词词典（词 + 中文释义），用户可再加自定义词
+  const PRESET = [
+    { w: '大模型', d: '参数规模巨大、经海量数据预训练的 AI 模型，具备通用理解与生成能力。' },
+    { w: '工业大模型', d: '面向工业场景训练的行业大模型，用于工艺优化、设备运维、质量检测等。' },
+    { w: '具身智能', d: '拥有物理身体、能与环境交互并从中学习的智能体，典型如人形机器人。' },
+    { w: '人形机器人', d: '外形与运动方式接近人的机器人，目标替代通用体力劳动。' },
+    { w: '机器人', d: '可编程、可自主执行任务的机器装置；含工业、服务、人形等类别。' },
+    { w: '机器视觉', d: '用摄像头加算法让机器“看懂”图像，用于检测、测量与定位。' },
+    { w: '数字孪生', d: '物理实体的虚拟镜像，实时映射运行状态以支持仿真与优化。' },
+    { w: '算力', d: '计算能力（GPU、集群规模等），AI 训练与推理的基础资源。' },
+    { w: '工业机器人', d: '产线上可编程的机械臂等自动化设备，用于焊接、搬运、装配等。' },
+    { w: '工业互联网', d: '连接设备、产线与信息系统的工业网络，实现数据采集与协同。' },
+    { w: '智能制造', d: '用 AI 与数据驱动生产，实现柔性、自动、可预测的制造方式。' },
+    { w: '智能体', d: '能自主规划并调用工具完成任务的 AI 程序（Agent）。' },
+    { w: '世界模型', d: '让 AI 在内部模拟世界运行规律、预测未来的模型。' },
+    { w: '融资', d: '企业获得外部资金（天使轮、A 轮等），反映资本对该赛道的关注。' },
+    { w: '政策', d: '政府发布的规划、补贴、试点与标准等，影响产业方向与节奏。' },
+    { w: '标准', d: '行业技术或安全规范，常预示产业走向成熟并抬高准入门槛。' },
+    { w: '芯片', d: '半导体器件，是 AI 算力与终端智能的核心硬件。' },
+    { w: '传感器', d: '把物理量转换为电信号的器件，是机器感知环境的入口。' },
+    { w: '自动驾驶', d: '车辆依靠感知与算法自主行驶的技术（L2–L5）。' },
+    { w: '边缘计算', d: '在设备或现场就近完成计算，低时延、少上云。' },
+    { w: '5G', d: '第五代移动通信，为工业现场提供高带宽、低时延连接。' },
+    { w: '工业软件', d: '用于设计、仿真与生产管理的软件，如 CAD、CAE、MES 等。' },
+    { w: '产线', d: '生产线，制造环节的物理载体；“产线变化”是落地进展的直接体现。' },
+    { w: '产业链', d: '上下游企业构成的供应与协作体系，决定成本与交付能力。' },
+  ];
+
+  const SUB_LABELS = {
+    part1: [['launch', '落地进展'], ['line', '产线变化'], ['risk', '机遇风险'], ['policy', '政策']],
+    part2: [['finance', '投融资'], ['capital', '资本动向'], ['chain', '产业链'], ['corp', '企业机会风险']],
+  };
+  const PART_TITLES = { part1: '① 智能制造产业影响', part2: '② 市场与金融资本市场影响' };
+
+  const KEY_INDEX = 'aid_index';
+  const KEY_DAY = 'aid_day_';
+  const KEY_SEL = 'aid_sel';
+  const KEY_CUSTOM = 'aid_custom';
+
+  const readCache = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
+  const writeCache = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
+
+  const allWords = (custom) => PRESET.concat(custom || []);
+
+  /** 词的释义（预置优先，其次自定义）。 */
+  function defOf(word, custom) {
+    const hit = allWords(custom).find((x) => x.w === word);
+    return hit ? hit.d : '（暂无释义，可在“＋自定义词”里补充）';
+  }
+
+  /** 一条资讯命中的词（标题 + AI 摘要 + 来源）。 */
+  function matchWords(item, custom) {
+    const hay = `${item.title || ''} ${item.digest || ''} ${item.source || ''}`;
+    return allWords(custom).filter((k) => hay.includes(k.w)).map((k) => k.w);
+  }
+
+  /** 当日热词及频次。 */
+  function heat(items, custom) {
+    const m = new Map();
+    for (const it of items) for (const w of matchWords(it, custom)) m.set(w, (m.get(w) || 0) + 1);
+    return [...m.entries()].map(([w, n]) => ({ w, n })).sort((a, b) => b.n - a.n || a.w.localeCompare(b.w));
+  }
+
+  /** 按勾选的词过滤（并集/OR）；未勾选时返回全部。 */
+  function filterItems(items, selected, custom) {
+    if (!selected || !selected.length) return items;
+    const set = new Set(selected);
+    return items.filter((it) => matchWords(it, custom).some((w) => set.has(w)));
+  }
+
+  /** 北京时间格式化。 */
+  function fmtTime(iso) {
+    if (!iso) return '';
+    const t = new Date(iso);
+    if (isNaN(t)) return '';
+    const bj = new Date(t.getTime() + 8 * 3600 * 1000);
+    const now = new Date(Date.now() + 8 * 3600 * 1000);
+    const sameDay = bj.toISOString().slice(0, 10) === now.toISOString().slice(0, 10);
+    const hh = String(bj.getUTCHours()).padStart(2, '0');
+    const mm = String(bj.getUTCMinutes()).padStart(2, '0');
+    if (sameDay) return `${hh}:${mm}`;
+    return `${bj.getUTCMonth() + 1}月${bj.getUTCDate()}日 ${hh}:${mm}`;
+  }
+  const WEEK = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+  function fmtDate(dateStr) {
+    const d = new Date(`${dateStr}T00:00:00Z`);
+    if (isNaN(d)) return dateStr;
+    return `${d.getUTCMonth() + 1}月${d.getUTCDate()}日`;
+  }
+  function weekOf(dateStr) {
+    const d = new Date(`${dateStr}T00:00:00Z`);
+    return isNaN(d) ? '' : WEEK[d.getUTCDay()];
+  }
+  function fmtStamp(iso) {
+    if (!iso) return '';
+    const bj = new Date(new Date(iso).getTime() + 8 * 3600 * 1000);
+    const p = (n) => String(n).padStart(2, '0');
+    return `${bj.getUTCFullYear()}-${p(bj.getUTCMonth() + 1)}-${p(bj.getUTCDate())} ${p(bj.getUTCHours())}:${p(bj.getUTCMinutes())}`;
+  }
+
+  const esc = (s) => String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+  /** 标出命中的词（selected 高亮更重）。 */
+  function highlight(text, hitWords, selected) {
+    let html = esc(text);
+    const sel = new Set(selected || []);
+    const words = (hitWords || []).slice().sort((a, b) => b.length - a.length);
+    for (const w of words) {
+      const cls = sel.has(w) ? 'on' : 'hit';
+      html = html.split(esc(w)).join(`<mark class="${cls}">${esc(w)}</mark>`);
+    }
+    return html;
+  }
+
+  /** 简报 → 便于复制的纯文本。 */
+  function briefingText(date, b) {
+    if (!b) return '';
+    const lines = [`AI 智造日报 · ${date}`, ''];
+    if (b.summary) lines.push(`【总览】${b.summary}`, '');
+    for (const part of ['part1', 'part2']) {
+      const block = b[part];
+      if (!block) continue;
+      lines.push(PART_TITLES[part]);
+      for (const [k, label] of SUB_LABELS[part]) {
+        const arr = block[k] || [];
+        if (!arr.length) continue;
+        lines.push(`· ${label}`);
+        for (const li of arr) lines.push(`  - ${li}`);
+      }
+      lines.push('');
+    }
+    return lines.join('\n').trim();
+  }
+
+  return {
+    PRESET, SUB_LABELS, PART_TITLES,
+    KEY_INDEX, KEY_DAY, KEY_SEL, KEY_CUSTOM,
+    readCache, writeCache, allWords, defOf, matchWords, heat, filterItems,
+    fmtTime, fmtDate, weekOf, fmtStamp, esc, highlight, briefingText,
+  };
+})();
+
+/* =======================================================================
+ * UI 层
+ * ===================================================================== */
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const state = {
+    index: LIB.readCache(LIB.KEY_INDEX),
+    date: null,
+    day: null,
+    selected: LIB.readCache(LIB.KEY_SEL) || [],
+    custom: LIB.readCache(LIB.KEY_CUSTOM) || [],
+    offline: false,
+  };
+  const DATA_BASE = new URLSearchParams(location.search).get('base') || 'data/';
+  const bust = () => `?t=${Date.now()}`;
+
+  /* ---------- 取数（缓存优先，后台更新） ---------- */
+  async function fetchJson(name, force) {
+    const res = await fetch(DATA_BASE + name + bust(), { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  }
+
+  async function loadIndex(force) {
+    if (!force && state.index) { paintDates(); }
+    try {
+      const idx = await fetchJson('index.json', force);
+      state.index = idx;
+      LIB.writeCache(LIB.KEY_INDEX, idx);
+      state.offline = false;
+    } catch (e) {
+      state.offline = true;
+    }
+    paintDates();
+    return state.index;
+  }
+
+  async function loadDay(date, force) {
+    const cached = LIB.readCache(LIB.KEY_DAY + date);
+    if (cached && !force) { state.day = cached; state.date = date; render(); }
+    try {
+      const day = await fetchJson(`${date}.json`, force);
+      LIB.writeCache(LIB.KEY_DAY + date, day);
+      state.day = day; state.date = date; state.offline = false;
+      render();
+    } catch (e) {
+      state.offline = true;
+      if (!cached) { state.day = null; state.date = date; render(); }
+    }
+    paintOffline();
+  }
+
+  function paintOffline() { $('offline').style.display = state.offline ? 'block' : 'none'; }
+
+  function paintDates() {
+    const idx = state.index;
+    const dates = (idx && idx.dates) || [];
+    if (!state.date) state.date = (idx && idx.latest) || dates[0] || null;
+    $('dateLabel').textContent = state.date ? LIB.fmtDate(state.date) : '—';
+    $('weekLabel').textContent = state.date ? LIB.weekOf(state.date) : '';
+    const i = dates.indexOf(state.date);
+    $('btnPrev').disabled = i < 0 || i >= dates.length - 1;
+    $('btnNext').disabled = i <= 0;
+    $('btnPrev').style.opacity = $('btnPrev').disabled ? .35 : 1;
+    $('btnNext').style.opacity = $('btnNext').disabled ? .35 : 1;
+  }
+
+  /* ---------- 渲染 ---------- */
+  function render() {
+    paintDates();
+    const items = (state.day && state.day.items) || [];
+    const words = LIB.heat(items, state.custom);
+    renderCloud(words);
+    renderFilterBar();
+    renderList(items);
+    renderBriefing();
+    const upd = state.day && state.day.updatedAt;
+    $('updated').textContent = upd ? `更新于 ${LIB.fmtStamp(upd)}` : (state.date ? '暂无数据' : '加载中…');
+  }
+
+  function renderCloud(words) {
+    const el = $('cloud');
+    el.innerHTML = '';
+    if (!words.length) {
+      el.innerHTML = '<div class="empty">当日暂无命中热词的资讯</div>';
+      $('cloudHint').textContent = '';
+      $('cloudHint').innerHTML = '可点右侧「＋自定义词」补充词库；或等待下次更新。';
+      el.appendChild(addWordBtn());
+      return;
+    }
+    const max = words[0].n, min = words[words.length - 1].n;
+    for (const { w, n } of words) {
+      const t = max === min ? 1 : (n - min) / (max - min);
+      const size = 13 + 13 * Math.sqrt(t);          // 13–26px
+      const weight = n >= Math.max(3, max * 0.6) ? 700 : 500;
+      const b = document.createElement('span');
+      b.className = 'word' + (state.selected.includes(w) ? ' on' : '');
+      b.style.fontSize = size.toFixed(1) + 'px';
+      b.style.fontWeight = weight;
+      b.dataset.w = w;
+      b.innerHTML = LIB.esc(w) + `<span class="n">${n}</span>`;
+      b.addEventListener('click', () => openWordSheet(w, n));
+      el.appendChild(b);
+    }
+    el.appendChild(addWordBtn());
+    $('cloudHint').textContent = `共 ${words.length} 个热词 · 点击词查看释义，弹窗内可勾选筛选`;
+  }
+
+  function addWordBtn() {
+    const b = document.createElement('span');
+    b.className = 'addword';
+    b.textContent = '＋ 自定义词';
+    b.addEventListener('click', openCustomSheet);
+    return b;
+  }
+
+  function renderFilterBar() {
+    const el = $('filterbar');
+    el.innerHTML = '';
+    if (!state.selected.length) { el.innerHTML = '<span class="cloud-hint">未筛选，显示全部资讯</span>'; return; }
+    for (const w of state.selected) {
+      const c = document.createElement('span');
+      c.className = 'chip';
+      c.innerHTML = `${LIB.esc(w)} <span class="x">✕</span>`;
+      c.addEventListener('click', () => toggleWord(w, false));
+      el.appendChild(c);
+    }
+    const clr = document.createElement('span');
+    clr.className = 'chip clear';
+    clr.textContent = '清空筛选';
+    clr.addEventListener('click', () => { state.selected = []; persistSel(); render(); });
+    el.appendChild(clr);
+  }
+
+  function renderList(items) {
+    const shown = LIB.filterItems(items, state.selected, state.custom);
+    $('listCount').textContent = state.selected.length
+      ? `筛选出 ${shown.length} / ${items.length} 条`
+      : `共 ${items.length} 条`;
+    const el = $('list');
+    el.innerHTML = '';
+    if (!shown.length) {
+      el.innerHTML = `<div class="card"><div class="empty">${items.length ? '当前筛选条件下没有资讯' : '当日暂无资讯'}</div></div>`;
+      return;
+    }
+    for (const it of shown) {
+      const hits = LIB.matchWords(it, state.custom);
+      const a = document.createElement('a');
+      a.className = 'card item';
+      a.href = it.url; a.target = '_blank'; a.rel = 'noopener';
+      a.innerHTML =
+        `<h3>${LIB.highlight(it.title, hits, state.selected)}</h3>` +
+        `<div class="meta"><span class="src">${LIB.esc(it.source)}</span><span>${LIB.fmtTime(it.time)}</span></div>` +
+        (it.digest ? `<p class="digest">${LIB.highlight(it.digest, hits, state.selected)}</p>` : '');
+      el.appendChild(a);
+    }
+  }
+
+  function renderBriefing() {
+    const el = $('briefing');
+    const b = state.day && state.day.briefing;
+    if (!b) {
+      el.innerHTML = '<div class="empty">该日尚未生成简报<br><span style="font-size:12px">每日 08:00 与 20:00（北京时间）自动生成</span></div>';
+      return;
+    }
+    let html = b.summary ? `<div class="brief-sum">${LIB.esc(b.summary)}</div>` : '';
+    for (const part of ['part1', 'part2']) {
+      const block = b[part];
+      if (!block) continue;
+      let inner = '';
+      for (const [k, label] of LIB.SUB_LABELS[part]) {
+        const arr = block[k] || [];
+        if (!arr.length) continue;
+        inner += `<div class="sub"><b>${label}</b><ul>${arr.map((x) => `<li>${LIB.esc(x)}</li>`).join('')}</ul></div>`;
+      }
+      if (!inner) continue;
+      html += `<div class="part"><h4>${LIB.PART_TITLES[part]}</h4>${inner}</div>`;
+    }
+    html += `<div style="margin-top:12px"><button class="btn small" id="btnCopy">复制简报全文</button></div>`;
+    el.innerHTML = html;
+    $('btnCopy').addEventListener('click', copyBriefing);
+  }
+
+  async function copyBriefing() {
+    const txt = LIB.briefingText(state.date, state.day && state.day.briefing);
+    try {
+      await navigator.clipboard.writeText(txt);
+      toast('已复制简报全文');
+    } catch {
+      const ta = document.createElement('textarea');
+      ta.value = txt; document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); toast('已复制简报全文'); } catch { toast('复制失败，请长按选择'); }
+      ta.remove();
+    }
+  }
+
+  /* ---------- 交互 ---------- */
+  function persistSel() { LIB.writeCache(LIB.KEY_SEL, state.selected); }
+  function toggleWord(w, on) {
+    const has = state.selected.includes(w);
+    if (on === undefined ? !has : on) {
+      if (!has) state.selected.push(w);
+    } else {
+      state.selected = state.selected.filter((x) => x !== w);
+    }
+    persistSel(); render();
+  }
+
+  function toast(msg) {
+    const t = $('toast');
+    t.textContent = msg; t.classList.add('show');
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => t.classList.remove('show'), 2000);
+  }
+
+  function openSheet(html, onMount) {
+    $('sheet').innerHTML = html;
+    $('overlay').classList.add('show');
+    $('sheet').classList.add('show');
+    if (onMount) onMount();
+  }
+  function closeSheet() {
+    $('overlay').classList.remove('show');
+    $('sheet').classList.remove('show');
+  }
+  $('overlay').addEventListener('click', closeSheet);
+
+  function openWordSheet(w, n) {
+    const on = state.selected.includes(w);
+    openSheet(
+      `<h3>${LIB.esc(w)}</h3>
+       <div class="def">${LIB.esc(LIB.defOf(w, state.custom))}</div>
+       <div class="muted">今日命中 ${n} 条资讯</div>
+       <div class="actions">
+         <button class="btn ${on ? 'danger' : 'primary'}" id="sw">${on ? '移出筛选' : '加入筛选'}</button>
+         <button class="btn" id="only">只看该词</button>
+       </div>`,
+      () => {
+        $('sw').addEventListener('click', () => { toggleWord(w, !on); closeSheet(); });
+        $('only').addEventListener('click', () => { state.selected = [w]; persistSel(); render(); closeSheet(); });
+      }
+    );
+  }
+
+  function openHistorySheet() {
+    const dates = (state.index && state.index.dates) || [];
+    if (!dates.length) { toast('暂无历史数据'); return; }
+    openSheet(
+      `<h3>历史日期</h3><div class="muted">保留最近 30 天</div><div class="dlist" id="dl"></div>`,
+      () => {
+        const dl = $('dl');
+        for (const d of dates) {
+          const b = document.createElement('button');
+          b.className = 'btn' + (d === state.date ? ' cur' : '');
+          b.textContent = `${LIB.fmtDate(d)} ${LIB.weekOf(d)}`;
+          b.addEventListener('click', () => { closeSheet(); state.date = d; loadDay(d, false); });
+          dl.appendChild(b);
+        }
+      }
+    );
+  }
+
+  function openCustomSheet() {
+    const list = LIB.allWords(state.custom);
+    openSheet(
+      `<h3>自定义关键词</h3>
+       <div class="muted">新增的词会立刻出现在词云中，并参与筛选</div>
+       <div class="kwrow"><input id="kwW" placeholder="关键词，如 灵巧手" maxlength="12" /><input id="kwD" placeholder="释义（可留空）" maxlength="40" /></div>
+       <div class="actions"><button class="btn primary" id="kwAdd">添加</button></div>
+       <div class="kwlist" id="kwList"></div>`,
+      () => {
+        const draw = () => {
+          const wrap = $('kwList');
+          wrap.innerHTML = '';
+          const customs = state.custom || [];
+          if (!customs.length) { wrap.innerHTML = '<div class="muted">还没有自定义词</div>'; return; }
+          customs.forEach((c, i) => {
+            const row = document.createElement('div');
+            row.className = 'kwitem';
+            row.innerHTML = `<b>${LIB.esc(c.w)}</b><span>${LIB.esc(c.d || '')}</span>`;
+            const del = document.createElement('button');
+            del.className = 'btn small'; del.textContent = '删除';
+            del.addEventListener('click', () => {
+              state.custom.splice(i, 1);
+              LIB.writeCache(LIB.KEY_CUSTOM, state.custom);
+              state.selected = state.selected.filter((w) => w !== c.w);
+              persistSel(); draw(); render();
+            });
+            row.appendChild(del);
+            wrap.appendChild(row);
+          });
+        };
+        $('kwAdd').addEventListener('click', () => {
+          const w = $('kwW').value.trim();
+          const d = $('kwD').value.trim() || '（自定义词，暂无释义）';
+          if (!w) return toast('请输入关键词');
+          if (list.some((x) => x.w === w)) return toast('该词已存在');
+          state.custom.push({ w, d });
+          LIB.writeCache(LIB.KEY_CUSTOM, state.custom);
+          $('kwW').value = ''; $('kwD').value = '';
+          draw(); render(); toast(`已添加「${w}」`);
+        });
+        draw();
+      }
+    );
+  }
+
+  /* ---------- 顶栏动作 ---------- */
+  function go(offset) {
+    const dates = (state.index && state.index.dates) || [];
+    const i = dates.indexOf(state.date);
+    const j = i + offset;
+    if (j < 0 || j >= dates.length) return;
+    state.date = dates[j];
+    loadDay(state.date, false);
+  }
+  $('btnPrev').addEventListener('click', () => go(-1));
+  $('btnNext').addEventListener('click', () => go(1));
+  $('btnToday').addEventListener('click', () => {
+    const l = state.index && state.index.latest;
+    if (!l) return toast('暂无数据');
+    state.date = l; loadDay(l, true);
+  });
+  $('btnHistory').addEventListener('click', openHistorySheet);
+  $('btnRefresh').addEventListener('click', async () => {
+    const btn = $('btnRefresh');
+    btn.innerHTML = '<span class="spin">↻</span>';
+    await loadIndex(true);
+    const l = (state.index && state.index.latest) || state.date;
+    if (l) await loadDay(l, true);
+    btn.textContent = '刷新';
+    toast(state.offline ? '离线，未能获取最新' : '已获取最新数据');
+  });
+
+  /* ---------- 启动：先渲染缓存，再后台更新 ---------- */
+  (async function boot() {
+    paintDates();
+    if (state.index) {
+      const l = state.index.latest;
+      const cached = l && LIB.readCache(LIB.KEY_DAY + l);
+      if (cached) { state.day = cached; state.date = l; render(); }
+    }
+    await loadIndex(false);
+    const l = (state.index && state.index.latest) || state.date;
+    if (l) await loadDay(l, false);
+    paintOffline();
+  })();
+})();
+</script>
+</body>
+</html>
