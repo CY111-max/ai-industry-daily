@@ -354,7 +354,19 @@ const LIB = (function () {
       state.offline = true;
     }
     paintDates();
+    pruneCache();
     return state.index;
+  }
+
+  /** 本机只保留最近 7 天快照，避免 localStorage 越用越满。 */
+  function pruneCache() {
+    const keep = new Set(((state.index && state.index.dates) || []).slice(0, 7).map((d) => LIB.KEY_DAY + d));
+    const drop = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith(LIB.KEY_DAY) && !keep.has(k)) drop.push(k);
+    }
+    drop.forEach((k) => localStorage.removeItem(k));
   }
 
   async function loadDay(date, force) {
@@ -365,6 +377,8 @@ const LIB = (function () {
       LIB.writeCache(LIB.KEY_DAY + date, day);
       state.day = day; state.date = date; state.offline = false;
       render();
+      // 后台刷新到的是新内容（不是手动刷新）时，悄悄提示一下
+      if (cached && !force && day.updatedAt !== cached.updatedAt) toast(`已更新 ${LIB.fmtStamp(day.updatedAt)}`);
     } catch (e) {
       state.offline = true;
       if (!cached) { state.day = null; state.date = date; render(); }
