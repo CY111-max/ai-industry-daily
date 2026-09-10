@@ -24,28 +24,76 @@ data/                       # Actions 产出：YYYY-MM-DD.json + index.json（�
 serve.js                    # 本地预览用静态服务器
 ```
 
-## 部署（一次性）
+## 部署（一次性，全程网页操作）
 
-1. **新建公开仓库**，把本项目推上去：
+### 1. 注册 GitHub
 
-   ```bash
-   git remote add origin https://github.com/<你的用户名>/ai-industry-daily.git
-   git push -u origin main
-   ```
+打开 https://github.com/signup ，填邮箱 → 设密码 → 取用户名（英文/数字，例如 `chenyou-ai`）→ 收邮件验证。
+用户名后面会出现在网址里，想好再定。
 
-2. **加 API Key**：仓库 → Settings → Secrets and variables → Actions → New repository secret
+### 2. 新建仓库
+
+右上角 `+` → **New repository**：
+
+- Repository name：`ai-industry-daily`
+- 选 **Public**（必须是公开，Pages 才免费且能读数据）
+- 不要勾 "Add a README file"，其他保持默认
+- 点 **Create repository**
+
+### 3. 上传文件
+
+在上传页点 **uploading an existing file**（或 Add file → Upload files）。
+
+在文件资源管理器里打开 `C:\Users\33723\ai-industry-daily`，**按住 Ctrl 逐个选中下面这 8 项**，一起拖进网页的虚线框：
+
+```
+index.html   collector   data   .github   .gitignore   README.md   package.json   serve.js
+```
+
+> ⚠️ **不要**整个文件夹拖，也不要把 `.git` 拖进去 —— 那是本机的版本记录，传上去会凭空多出几百个无用文件。
+
+等文件列表出来后点 **Commit changes**。上传完回到仓库首页，确认根目录同时有这几项：
+
+```
+index.html    collector/    data/    README.md    .github/
+```
+
+> **`.github` 没传上去怎么办**（这是最容易漏的一步，它里面装着定时任务）：
+> Add file → **Create new file**，文件名里输入 `.github/workflows/daily.yml`（斜杠会自动建成文件夹），
+> 把本机 `.github/workflows/daily.yml` 的内容整段粘进去，Commit。
+> 传对了的话，仓库顶部会出现 **Actions** 标签页。
+
+### 4. 申请 DeepSeek Key 并加进仓库
+
+1. 打开 https://platform.deepseek.com 注册登录 → 左侧 **API keys** → **创建 API key** → 复制那串 `sk-` 开头的字符（**只显示一次，先存好**）
+2. 回 GitHub 仓库 → **Settings** → 左侧 **Secrets and variables** → **Actions** → 绿色按钮 **New repository secret**
    - Name：`DEEPSEEK_API_KEY`
-   - Secret：你的 DeepSeek Key（在 https://platform.deepseek.com 申请）
+   - Secret：粘贴刚才的 Key
+   - 点 **Add secret**
 
-   > Key 只存在于仓库 Secret 中，由 Actions 以环境变量注入，**不会写进代码或提交到仓库**。API Key 一旦泄露请立刻到 DeepSeek 后台吊销重发。
+> Key 只存在仓库的加密 Secret 里，运行时以环境变量注入，**不会出现在代码或提交记录中**。一旦泄露，去 DeepSeek 后台吊销重发即可。
 
-3. **开启 Pages**：Settings → Pages → Source 选 `Deploy from a branch`，Branch 选 `main` / `root`，保存。
-   几分钟后访问 `https://<你的用户名>.github.io/ai-industry-daily/`。
+### 5. 开启网页托管（GitHub Pages）
 
-4. **跑一次**：Actions → 每日资讯采集 → Run workflow。
-   首次跑完（约 1–2 分钟）刷页面即可看到当日资讯与简报。
+**Settings** → 左侧 **Pages** → Source 选 `Deploy from a branch` →
+Branch 选 **main**、目录选 **/ (root)** → **Save**。
 
-之后每天 08:00 和 20:00 自动更新，无需干预。
+等 1–2 分钟，页面上方会显示网址：
+
+```
+https://<你的用户名>.github.io/ai-industry-daily/
+```
+
+用手机浏览器打开这个网址即可，建议加到主屏幕当 App 用。
+
+### 6. 手动跑第一次
+
+仓库顶部 **Actions** 标签 → 左侧 **每日资讯采集** → 右侧 **Run workflow** → 绿色按钮。
+约 1–2 分钟跑完（第一次最慢），回到 Pages 网址刷新，就能看到当日资讯 + 摘要 + 双板块简报。
+
+之后每天 **08:00 / 20:00（北京时间）**自动更新，不用再管。
+
+> 每次跑完 Actions 会自动提交一个 `data:` 开头的 commit，这是正常的——数据就是这么更新的。
 
 ## 本地运行
 
