@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-11",
+  "generation": "morning",
+  "updatedAt": "2026-09-11T01:39:17.494Z",
+  "items": [
+    {
+      "id": "bcb264ab46506afa8cf13f4eeb8ab50b",
+      "title": "帕西尼如何把百万年演化的触觉赋予机器人",
+      "source": "OFweek机器人",
+      "time": "2026-09-11T09:15:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-8120-30702615.html",
+      "digest": "帕西尼借鉴人类皮下帕西尼小体的信号滤波机制，研发机器人触觉感知技术，以赋予机器人精细触觉能力。"
+    },
+    {
+      "id": "5cc7c78702693cf2a41f8d4a286ec2be",
+      "title": "消息称微软计划未来 6 年将数据中心容量提升至 38GW，达当前 3 倍有余",
+      "source": "IT之家",
+      "time": "2026-09-11T01:13:50.000Z",
+      "url": "https://www.ithome.com/1/001/109.htm",
+      "digest": "彭博社称微软计划到2032年将数据中心容量提升至38GW，为当前12GW的三倍以上，含自有与租用容量。"
+    },
+    {
+      "id": "c5784d78464f146a588d464eb896e784",
+      "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-09-11T00:31:05.000Z",
+      "url": "http://www.geekpark.net/news/370157",
+      "digest": "深度求索发布DeepSeek V4.1 Flash，552B参数MoE模型，原生多模态，基准测试超越V4 Pro，最高降价60%。"
+    },
+    {
+      "id": "fd1e94823877daac09bc8e4fca4fabf9",
+      "title": "OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体",
+      "source": "IT之家",
+      "time": "2026-09-11T00:28:22.000Z",
+      "url": "https://www.ithome.com/1/001/091.htm",
+      "digest": "OpenAI将GPT-Live-1引入API，支持全双工语音、打断处理与工具调用，可用于预订、客服等电话语音智能体。"
+    },
+    {
+      "id": "3865db9bf6fc2d1fc3d0bd4aee807ad6",
+      "title": "环球音乐与 ElevenLabs 达成合作，共同打造授权人工智能音乐平台",
+      "source": "IT之家",
+      "time": "2026-09-11T00:20:13.000Z",
+      "url": "https://www.ithome.com/1/001/089.htm",
+      "digest": "环球音乐与ElevenLabs达成多年许可协议，将共建基于授权音乐和艺人参与的AI音乐创作平台，为其首份主流唱片公司合作。"
+    },
+    {
+      "id": "6368815cc1f1a758ec067eebae314d2c",
+      "title": "马斯克 SpaceXAI 团队将直播用 Grok Bot 从零开始建立一家公司，从创意构思、产品开发到实际工作部署",
+      "source": "IT之家",
+      "time": "2026-09-11T00:16:52.000Z",
+      "url": "https://www.ithome.com/1/001/088.htm",
+      "digest": "马斯克旗下SpaceXAI团队宣布9月15日至17日直播，展示用Grok Bot从创意、产品开发到工程部署建立一家公司。"
+    },
+    {
+      "id": "609a47b9619a1ad00e5f3aa28cba89a6",
+      "title": "你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧",
+      "source": "IT之家",
+      "time": "2026-09-10T23:55:21.000Z",
+      "url": "https://www.ithome.com/1/001/080.htm",
+      "digest": "美国国防部首席技术官迈克尔在国防工业会议上驳斥Anthropic的AI末日论，称担忧源于对技术变革的恐惧，风险可通过市场与政府缓解。"
+    },
+    {
+      "id": "2891d0cdeec4c8edb6c388faa968ffa3",
+      "title": "商汤科技 AI 办公智能体“小浣熊”移动端 App 上线，提供苹果 iOS / 安卓版本",
+      "source": "IT之家",
+      "time": "2026-09-10T23:51:32.000Z",
+      "url": "https://www.ithome.com/1/001/079.htm",
+      "digest": "商汤科技AI办公智能体“小浣熊”移动端App上线，支持iOS与安卓，可通过语音指令让手机发令、电脑持续执行任务。"
+    },
+    {
+      "id": "5b7008587e8a912d105ee824ce7fe3d1",
+      "title": "“AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听",
+      "source": "IT之家",
+      "time": "2026-09-10T23:43:14.000Z",
+      "url": "https://www.ithome.com/1/001/076.htm",
+      "digest": "“AI教父”辛顿接受BBC采访时称，AI导致人类灭绝的概率约10%，并非危言耸听，但无人能给出合理估计。"
+    },
+    {
+      "id": "dda1d95d4c6cfde9c6e644127f60a078",
+      "title": "OpenAI Agents API 开放公测：支持代码执行、工具调用和跨上下文任务运行，为开发者提供云端智能体基础设施",
+      "source": "IT之家",
+      "time": "2026-09-10T23:31:21.000Z",
+      "url": "https://www.ithome.com/1/001/072.htm",
+      "digest": "OpenAI推出Agents API公测版，复用Codex智能体执行框架，开发者一次调用即可创建可执行多步骤任务的云端智能体。"
+    },
+    {
+      "id": "9f37f85ac8df128637d06fe99e345407",
+      "title": "加快推进“AI＋制造” ：六级架构＋六大任务",
+      "source": "智能制造网",
+      "time": "2026-09-10T17:42:28.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195457.html",
+      "digest": "中国工业互联网研究院院长鲁春丛在全球工业互联网大会作报告，提出以六级架构和六大任务加快推进“AI+制造”。"
+    },
+    {
+      "id": "18f5bdd9c367bfedaefb8f7d6631d516",
+      "title": "车企争抢人形机器人 先撞上续航成本与数字化门槛",
+      "source": "智能制造网",
+      "time": "2026-09-10T13:47:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195464.html",
+      "digest": "摩根士丹利预计2050年人形机器人市场或达5万亿美元，宝马、雷诺、奔驰、特斯拉等车企已在工厂测试相关设备。"
+    },
+    {
+      "id": "a489a83beb4d4fa1928b94b0c5daa106",
+      "title": "下一场具身智能竞争，不在机器人本身",
+      "source": "智能制造网",
+      "time": "2026-09-10T13:47:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195462.html",
+      "digest": "猛士汽车总装车间部署国产重载机器人转运车架，涂装与总装物流线已应用检测打磨机器人及常态化作业的人形机器人。"
+    },
+    {
+      "id": "15142cd98f70061c7bb56a411dc39ef5",
+      "title": "补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池",
+      "source": "爱范儿",
+      "time": "2026-09-10T13:46:20.000Z",
+      "url": "https://www.ifanr.com/1679668?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "吉利银河TT在杭州上市，5款车型补贴后12.99万元起，全系800V平台、宁德时代定制电池及激光雷达辅助驾驶。"
+    },
+    {
+      "id": "089d371bb7d466cb3c8c6946300a52b2",
+      "title": "微信，悄悄迈出 AI 社交的第一步",
+      "source": "极客公园",
+      "time": "2026-09-10T13:36:57.000Z",
+      "url": "http://www.geekpark.net/news/370155",
+      "digest": "微信小范围测试「小微AI社交」，两个AI可代为沟通并请求授权，交流留在独立空间，不进入原有聊天框。"
+    },
+    {
+      "id": "705d3fabadb9007c6aad63dcac508729",
+      "title": "蚂蚁数科推出 Agentar 金融版 助力金融机构打造智能体超级工厂",
+      "source": "雷峰网",
+      "time": "2026-09-10T10:49:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+      "digest": "蚂蚁数科在外滩大会发布Agentar金融版，预置十大金融智能体专家团，覆盖智能投顾、财富管理等场景，助金融机构搭建智能体工厂。"
+    },
+    {
+      "id": "2be8cbf36d8bbf847720b045e68b7198",
+      "title": "蚂蚁陈亮：能力决定AI能做什么，可信决定社会敢把什么交给AI",
+      "source": "雷峰网",
+      "time": "2026-09-10T10:47:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/X2TDF0nWzEIkJnmf.html",
+      "digest": "蚂蚁大安全CTO陈亮在外滩大会表示，Agent代表用户执行交易时，可信与安全是AI规模化的前提，蚂蚁正构建智能体时代安全能力。"
+    },
+    {
+      "id": "75ee928c208e23e2ee11e09f44cda571",
+      "title": "智象未来 vivago R1 全球上线，国内版本「够搭」全新升级发布：从 15 秒到5 分钟，AI 视频创作进入单反级交付时代",
+      "source": "雷峰网",
+      "time": "2026-09-10T10:43:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/7VtjXHgiuTlhpNkU.html",
+      "digest": "智象未来旗下内容创作智能体vivago R1全球上线，国内版「够搭」升级，可一次输出5分钟视频并支持多轮延长。"
+    },
+    {
+      "id": "3fb650b0cbd0203ea0902da1c1c2699a",
+      "title": "中国公司牵头ECCV Workshop！多模态AI大牛轮番登台，全球64支团队组团解题",
+      "source": "雷峰网",
+      "time": "2026-09-10T10:13:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/leQr2T2GhOFUoUUP.html",
+      "digest": "ECCV 2026期间，钛动科技牵头发起MARS2 Workshop，为大会唯一由中国科技公司主办的Agentic Commerce方向Workshop。"
+    },
+    {
+      "id": "5b7cf1abb9d9b21b449bd38a862c3fca",
+      "title": "中国工业互联网研究院发布“工联智安”智能体",
+      "source": "智能制造网",
+      "time": "2026-09-04T09:02:58.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195455.html",
+      "digest": "中国工业互联网研究院安全研究所在2026全球工业互联网大会发布“工联智安”智能体，应对智能化、自主化网络攻击。"
+    }
+  ],
+  "briefing": {
+    "summary": "9月11日，AI基础设施与智能体生态加速落地：微软计划2032年将数据中心容量提升至38GW，OpenAI开放Agents API公测并上线GPT-Live-1语音模型，DeepSeek发布V4.1 Flash大模型。制造端，中国工业互联网研究院提出“AI+制造”六级架构与六大任务，车企加速人形机器人产线测试。资本端，马斯克旗下无聊公司融资30亿美元，环球音乐与ElevenLabs达成AI音乐授权合作。",
+    "part1": {
+      "launch": [
+        "中国工业互联网研究院发布“工联智安”智能体，用于应对智能化、自主化网络攻击。",
+        "商汤科技AI办公智能体“小浣熊”移动端App上线，支持iOS与安卓，可通过语音指令让手机发令、电脑持续执行任务。",
+        "蚂蚁数科发布Agentar金融版，预置十大金融智能体专家团，覆盖智能投顾、财富管理等场景。",
+        "智象未来vivago R1全球上线，国内版“够搭”升级，可一次输出5分钟视频并支持多轮延长。",
+        "中国工业互联网研究院院长鲁春丛提出以六级架构和六大任务加快推进“AI+制造”。"
+      ],
+      "line": [
+        "猛士汽车总装车间部署国产重载机器人转运车架，涂装与总装物流线已应用检测打磨机器人及常态化作业的人形机器人。",
+        "宝马、雷诺、奔驰、特斯拉等车企已在工厂测试人形机器人设备，但续航成本与数字化门槛成为落地障碍。"
+      ],
+      "risk": [
+        "摩根士丹利预计2050年人形机器人市场或达5万亿美元，但车企争抢人形机器人先撞上续航成本与数字化门槛。",
+        "美国国防部首席技术官迈克尔驳斥Anthropic“AI末日论”，称担忧源于对技术革命的恐惧，风险可通过市场与政府缓解。",
+        "“AI教父”辛顿称AI导致人类灭绝的概率约10%，并非危言耸听。"
+      ],
+      "policy": [
+        "中国工业互联网研究院院长鲁春丛在全球工业互联网大会提出以六级架构和六大任务加快推进“AI+制造”。"
+      ]
+    },
+    "part2": {
+      "finance": [
+        "马斯克旗下“无聊公司”融资30亿美元。",
+        "环球音乐与ElevenLabs达成多年许可协议，共建基于授权音乐和艺人参与的AI音乐创作平台，为其首份主流唱片公司合作。"
+      ],
+      "capital": [
+        "微软计划未来6年将数据中心容量提升至38GW，达当前12GW的三倍有余，含自有与租用容量。"
+      ],
+      "chain": [
+        "OpenAI推出Agents API公测版，复用Codex智能体执行框架，开发者一次调用即可创建可执行多步骤任务的云端智能体。",
+        "OpenAI将GPT-Live-1引入API，支持全双工语音、打断处理与工具调用，可用于预订、客服等电话语音智能体。",
+        "深度求索发布DeepSeek V4.1 Flash，552B参数MoE模型，原生多模态，基准测试超越V4 Pro，最高降价60%。"
+      ],
+      "corp": [
+        "微信小范围测试“小微AI社交”，两个AI可代为沟通并请求授权，交流留在独立空间，不进入原有聊天框。",
+        "蚂蚁大安全CTO陈亮表示，Agent代表用户执行交易时，可信与安全是AI规模化的前提，蚂蚁正构建智能体时代安全能力。",
+        "钛动科技牵头发起ECCV 2026 MARS2 Workshop，为大会唯一由中国科技公司主办的Agentic Commerce方向Workshop。",
+        "吉利银河TT在杭州上市，5款车型补贴后12.99万元起，全系800V平台、宁德时代定制电池及激光雷达辅助驾驶。"
+      ]
+    },
+    "date": "2026-09-11"
+  }
+}
