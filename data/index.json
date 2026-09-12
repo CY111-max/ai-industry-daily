@@ -1,9 +1,35 @@
 {
+  "batches": [
+    {
+      "id": "2026-09-12",
+      "date": "2026-09-12",
+      "slot": null,
+      "generation": "morning",
+      "count": 11,
+      "updatedAt": "2026-09-12T01:45:17.302Z"
+    },
+    {
+      "id": "2026-09-11",
+      "date": "2026-09-11",
+      "slot": null,
+      "generation": "evening",
+      "count": 43,
+      "updatedAt": "2026-09-11T15:19:58.845Z"
+    },
+    {
+      "id": "2026-09-10",
+      "date": "2026-09-10",
+      "slot": null,
+      "generation": "evening",
+      "count": 108,
+      "updatedAt": "2026-09-10T12:39:11.941Z"
+    }
+  ],
   "dates": [
     "2026-09-12",
     "2026-09-11",
     "2026-09-10"
   ],
   "latest": "2026-09-12",
-  "updatedAt": "2026-09-12T01:45:17.302Z"
+  "updatedAt": "2026-09-12T10:02:51.837Z"
 }

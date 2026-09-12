@@ -271,6 +271,18 @@ const LIB = (function () {
     const d = new Date(`${dateStr}T00:00:00Z`);
     return isNaN(d) ? '' : WEEK[d.getUTCDay()];
   }
+  /* ---- 批次（每天 09:00 / 21:00 各一份全量快照） ---- */
+
+  /** index → 批次数组（新的在前）。兼容早期只有 dates 的旧格式。 */
+  function batches(index) {
+    if (!index) return [];
+    if (Array.isArray(index.batches) && index.batches.length) return index.batches;
+    return (index.dates || []).map((d) => ({ id: d, date: d, slot: null, count: null }));
+  }
+  const latestBatch = (index) => batches(index)[0] || null;
+  const slotText = (slot) => (slot ? `${slot.slice(0, 2)}:${slot.slice(2)}` : '全天');
+  const batchLabel = (b) => (b ? `${fmtDate(b.date)} ${slotText(b.slot)}` : '—');
+
   function fmtStamp(iso) {
     if (!iso) return '';
     const bj = new Date(new Date(iso).getTime() + 8 * 3600 * 1000);
@@ -318,6 +330,7 @@ const LIB = (function () {
     KEY_INDEX, KEY_DAY, KEY_SEL, KEY_CUSTOM,
     readCache, writeCache, allWords, defOf, matchWords, heat, filterItems,
     fmtTime, fmtDate, weekOf, fmtStamp, esc, highlight, briefingText,
+    batches, latestBatch, slotText, batchLabel,
   };
 })();
 
@@ -328,7 +341,7 @@ const LIB = (function () {
   const $ = (id) => document.getElementById(id);
   const state = {
     index: LIB.readCache(LIB.KEY_INDEX),
-    date: null,
+    batchId: null,   // 当前查看的批次，如 2026-09-12-0900（旧数据为 2026-09-10 这种「全天」）
     day: null,
     selected: LIB.readCache(LIB.KEY_SEL) || [],
     custom: LIB.readCache(LIB.KEY_CUSTOM) || [],
@@ -359,9 +372,9 @@ const LIB = (function () {
     return state.index;
   }
 
-  /** 本机只保留最近 7 天快照，避免 localStorage 越用越满。 */
+  /** 本机只保留最近 7 个批次快照，避免 localStorage 越用越满。 */
   function pruneCache() {
-    const keep = new Set(((state.index && state.index.dates) || []).slice(0, 7).map((d) => LIB.KEY_DAY + d));
+    const keep = new Set(LIB.batches(state.index).slice(0, 7).map((b) => LIB.KEY_DAY + b.id));
     const drop = [];
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
@@ -370,33 +383,37 @@ const LIB = (function () {
     drop.forEach((k) => localStorage.removeItem(k));
   }
 
-  async function loadDay(date, force) {
-    const cached = LIB.readCache(LIB.KEY_DAY + date);
-    if (cached && !force) { state.day = cached; state.date = date; render(); }
+  let loadSeq = 0;   // 用户快速连点切换时，只认最后一次请求的结果
+  async function loadDay(batchId, force) {
+    const seq = ++loadSeq;
+    const cached = LIB.readCache(LIB.KEY_DAY + batchId);
+    if (cached && !force) { state.day = cached; state.batchId = batchId; render(); }
     try {
-      const day = await fetchJson(`${date}.json`, force);
-      LIB.writeCache(LIB.KEY_DAY + date, day);
-      state.day = day; state.date = date; state.offline = false;
+      const day = await fetchJson(`${batchId}.json`, force);
+      LIB.writeCache(LIB.KEY_DAY + batchId, day);
+      if (seq !== loadSeq) return;
+      state.day = day; state.batchId = batchId; state.offline = false;
       render();
       // 后台刷新到的是新内容（不是手动刷新）时，悄悄提示一下
       if (cached && !force && day.updatedAt !== cached.updatedAt) toast(`已更新 ${LIB.fmtStamp(day.updatedAt)}`);
     } catch (e) {
+      if (seq !== loadSeq) return;
       state.offline = true;
-      if (!cached) { state.day = null; state.date = date; render(); }
+      if (!cached) { state.day = null; state.batchId = batchId; render(); }
     }
     paintOffline();
   }
 
   function paintOffline() { $('offline').style.display = state.offline ? 'block' : 'none'; }
 
+  /** 顶栏：批次标签 + 前后切换按钮可用性。批次数组新的在前，故 ‹ 更早、› 更新。 */
   function paintDates() {
-    const idx = state.index;
-    const dates = (idx && idx.dates) || [];
-    if (!state.date) state.date = (idx && idx.latest) || dates[0] || null;
-    $('dateLabel').textContent = state.date ? LIB.fmtDate(state.date) : '—';
-    $('weekLabel').textContent = state.date ? LIB.weekOf(state.date) : '';
-    const i = dates.indexOf(state.date);
-    $('btnPrev').disabled = i < 0 || i >= dates.length - 1;
+    const bs = LIB.batches(state.index);
+    if (!state.batchId && bs.length) state.batchId = bs[0].id;
+    const i = bs.findIndex((b) => b.id === state.batchId);
+    $('dateLabel').textContent = i < 0 ? '—' : LIB.batchLabel(bs[i]);
+    $('weekLabel').textContent = i < 0 ? '' : LIB.weekOf(bs[i].date);
+    $('btnPrev').disabled = i < 0 || i >= bs.length - 1;
     $('btnNext').disabled = i <= 0;
     $('btnPrev').style.opacity = $('btnPrev').disabled ? .35 : 1;
     $('btnNext').style.opacity = $('btnNext').disabled ? .35 : 1;
@@ -412,7 +429,7 @@ const LIB = (function () {
     renderList(items);
     renderBriefing();
     const upd = state.day && state.day.updatedAt;
-    $('updated').textContent = upd ? `更新于 ${LIB.fmtStamp(upd)}` : (state.date ? '暂无数据' : '加载中…');
+    $('updated').textContent = upd ? `更新于 ${LIB.fmtStamp(upd)}` : (state.batchId ? '暂无数据' : '加载中…');
   }
 
   function renderCloud(words) {
@@ -497,7 +514,7 @@ const LIB = (function () {
     const el = $('briefing');
     const b = state.day && state.day.briefing;
     if (!b) {
-      el.innerHTML = '<div class="empty">该日尚未生成简报<br><span style="font-size:12px">每日 08:00 与 20:00（北京时间）自动生成</span></div>';
+      el.innerHTML = '<div class="empty">该批次尚未生成简报<br><span style="font-size:12px">每日 09:00 与 21:00（北京时间）自动生成</span></div>';
       return;
     }
     let html = b.summary ? `<div class="brief-sum">${LIB.esc(b.summary)}</div>` : '';
@@ -519,7 +536,8 @@ const LIB = (function () {
   }
 
   async function copyBriefing() {
-    const txt = LIB.briefingText(state.date, state.day && state.day.briefing);
+    const day = state.day || {};
+    const txt = LIB.briefingText(`${LIB.batchLabel(day)}`.trim() || day.date, day.briefing);
     try {
       await navigator.clipboard.writeText(txt);
       toast('已复制简报全文');
@@ -580,18 +598,18 @@ const LIB = (function () {
   }
 
   function openHistorySheet() {
-    const dates = (state.index && state.index.dates) || [];
-    if (!dates.length) { toast('暂无历史数据'); return; }
+    const bs = LIB.batches(state.index);
+    if (!bs.length) { toast('暂无历史数据'); return; }
     openSheet(
-      `<h3>历史日期</h3><div class="muted">保留最近 30 天</div><div class="dlist" id="dl"></div>`,
+      `<h3>历史批次</h3><div class="muted">每天 09:00 / 21:00 各一份全量快照，保留最近 30 天</div><div class="dlist" id="dl"></div>`,
       () => {
         const dl = $('dl');
-        for (const d of dates) {
-          const b = document.createElement('button');
-          b.className = 'btn' + (d === state.date ? ' cur' : '');
-          b.textContent = `${LIB.fmtDate(d)} ${LIB.weekOf(d)}`;
-          b.addEventListener('click', () => { closeSheet(); state.date = d; loadDay(d, false); });
-          dl.appendChild(b);
+        for (const b of bs) {
+          const el = document.createElement('button');
+          el.className = 'btn' + (b.id === state.batchId ? ' cur' : '');
+          el.textContent = `${LIB.batchLabel(b)}${b.count == null ? '' : ` · ${b.count} 条`}`;
+          el.addEventListener('click', () => { closeSheet(); loadDay(b.id, false); });
+          dl.appendChild(el);
         }
       }
     );
@@ -643,28 +661,28 @@ const LIB = (function () {
   }
 
   /* ---------- 顶栏动作 ---------- */
-  function go(offset) {
-    const dates = (state.index && state.index.dates) || [];
-    const i = dates.indexOf(state.date);
-    const j = i + offset;
-    if (j < 0 || j >= dates.length) return;
-    state.date = dates[j];
-    loadDay(state.date, false);
+  /** step：+1 = 看更早的批次，-1 = 看更新的批次。 */
+  function go(step) {
+    const bs = LIB.batches(state.index);
+    const i = bs.findIndex((b) => b.id === state.batchId);
+    const j = i + step;
+    if (i < 0 || j < 0 || j >= bs.length) return;
+    loadDay(bs[j].id, false);
   }
-  $('btnPrev').addEventListener('click', () => go(-1));
-  $('btnNext').addEventListener('click', () => go(1));
+  $('btnPrev').addEventListener('click', () => go(1));    // ‹ 更早
+  $('btnNext').addEventListener('click', () => go(-1));   // › 更新
   $('btnToday').addEventListener('click', () => {
-    const l = state.index && state.index.latest;
+    const l = LIB.latestBatch(state.index);
     if (!l) return toast('暂无数据');
-    state.date = l; loadDay(l, true);
+    loadDay(l.id, true);
   });
   $('btnHistory').addEventListener('click', openHistorySheet);
   $('btnRefresh').addEventListener('click', async () => {
     const btn = $('btnRefresh');
     btn.innerHTML = '<span class="spin">↻</span>';
     await loadIndex(true);
-    const l = (state.index && state.index.latest) || state.date;
-    if (l) await loadDay(l, true);
+    const l = LIB.latestBatch(state.index);
+    if (l) await loadDay(l.id, true);
     btn.textContent = '刷新';
     toast(state.offline ? '离线，未能获取最新' : '已获取最新数据');
   });
@@ -673,13 +691,13 @@ const LIB = (function () {
   (async function boot() {
     paintDates();
     if (state.index) {
-      const l = state.index.latest;
-      const cached = l && LIB.readCache(LIB.KEY_DAY + l);
-      if (cached) { state.day = cached; state.date = l; render(); }
+      const l = LIB.latestBatch(state.index);
+      const cached = l && LIB.readCache(LIB.KEY_DAY + l.id);
+      if (cached) { state.day = cached; state.batchId = l.id; render(); }
     }
     await loadIndex(false);
-    const l = (state.index && state.index.latest) || state.date;
-    if (l) await loadDay(l, false);
+    const l = LIB.latestBatch(state.index);
+    if (l) await loadDay(l.id, false);
     paintOffline();
   })();
 })();
