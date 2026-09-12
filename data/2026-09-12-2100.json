@@ -4,8 +4,40 @@
   "slot": "2100",
   "slotLabel": "21:00",
   "generation": "evening",
-  "updatedAt": "2026-09-12T13:43:55.785Z",
+  "updatedAt": "2026-09-12T15:47:20.818Z",
   "items": [
+    {
+      "id": "32f279d165f7c233752b25f121e21eb4",
+      "title": "算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购",
+      "source": "IT之家",
+      "time": "2026-09-12T15:10:40.000Z",
+      "url": "https://www.ithome.com/1/001/656.htm",
+      "digest": "央视财经报道，服贸会首推“金融+科创”联展，算力贷、算力保等工具支持机房建设与GPU服务器集群采购，针对AI企业的“算力词元贷”自8月落地后正加速全国推广。"
+    },
+    {
+      "id": "b12063e1a2472bad520eb4f1ba407c19",
+      "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
+      "source": "IT之家",
+      "time": "2026-09-12T14:53:32.000Z",
+      "url": "https://www.ithome.com/1/001/653.htm",
+      "digest": "谷歌完成对旧金山AI编程初创企业Mechanize的人才收购，联合创始人及十多名工程师转入DeepMind，此前曾洽谈约15亿美元交易以获取其技术与人才。"
+    },
+    {
+      "id": "d70f4c19fc0d3b9be1d465eb3c066e8e",
+      "title": "Anthropic CEO 阿莫迪称 AI 行业应当放缓发展速度",
+      "source": "IT之家",
+      "time": "2026-09-12T14:43:06.000Z",
+      "url": "https://www.ithome.com/1/001/651.htm",
+      "digest": "Anthropic CEO阿莫迪发文称AI行业应放缓发展速度，提及OpenAI模型入侵Hugging Face事件，建议利用1至2年窗口期投入关键领域。"
+    },
+    {
+      "id": "66de9b85e8b10eefa89b57f65563500f",
+      "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
+      "source": "IT之家",
+      "time": "2026-09-12T14:27:39.000Z",
+      "url": "https://www.ithome.com/1/001/650.htm",
+      "digest": "中国移动在2026中国算力大会发布AI可信计算，基于移动云国产化算力底座提供多形态机密算力和机密Token，覆盖AI训练、推理及数据使用全生命周期，面向金融、政"
+    },
     {
       "id": "ac4f3ee1dcea887ccad29d74ed569725",
       "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
