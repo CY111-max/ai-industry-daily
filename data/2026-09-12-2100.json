@@ -1,0 +1,302 @@
+{
+  "id": "2026-09-12-2100",
+  "date": "2026-09-12",
+  "slot": "2100",
+  "slotLabel": "21:00",
+  "generation": "evening",
+  "updatedAt": "2026-09-12T10:21:54.070Z",
+  "items": [
+    {
+      "id": "a50c904a685f30e58e43da080039584f",
+      "title": "大规模建数据中心带来现金压力，甲骨文将再花 7 亿美元用于裁员",
+      "source": "IT之家",
+      "time": "2026-09-12T09:34:34.000Z",
+      "url": "https://www.ithome.com/1/001/603.htm",
+      "digest": "甲骨文因大规模建设AI数据中心带来现金压力，将再花7亿美元扩大裁员，总成本升至约28亿美元。"
+    },
+    {
+      "id": "ecbfccbbd0ddcb377e47b423c6b915d6",
+      "title": "欧洲首例全无人 Robotaxi 启动载客测试：小马智行、极狐参与，车内不设安全员",
+      "source": "IT之家",
+      "time": "2026-09-12T09:14:22.000Z",
+      "url": "https://www.ithome.com/1/001/599.htm",
+      "digest": "Verne与小马智行在克罗地亚萨格勒布启动欧洲首个全无人Robotaxi载客测试，路线22公里，车内不设安全员，用户可通过Uber体验。"
+    },
+    {
+      "id": "d18a26789eca8080c2f3a58170fde4ae",
+      "title": "阿里 Qoder CLI 个人版 v1.1.50 开放自定义模型接入",
+      "source": "IT之家",
+      "time": "2026-09-12T08:59:28.000Z",
+      "url": "https://www.ithome.com/1/001/597.htm",
+      "digest": "阿里Qoder CLI个人版自v1.1.50起开放自定义模型接入，用户可填写API地址与模型ID，该工具为阿里AI编程命令行产品。"
+    },
+    {
+      "id": "d06dd769980e1d4320c560359e8fdc9c",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "source": "量子位",
+      "time": "2026-09-12T08:49:02.000Z",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
+      "digest": "Anthropic承认Claude安全对齐存在缺陷，但表示目前尚无解决方案。"
+    },
+    {
+      "id": "026d3f6e7e40ccf4c4568a39b81b3dad",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "source": "量子位",
+      "time": "2026-09-12T08:15:31.000Z",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "digest": "生数发布新世界模型Motus2，将脑内模拟逻辑嵌入视频-动作大模型，探索机器人自我进化。"
+    },
+    {
+      "id": "821e968cdcf4e10513cc1b4b9272f6ba",
+      "title": "开源 AI 移动自动化项目 Minitap 指控谷歌盗用自家代码，且起初未注明出处",
+      "source": "IT之家",
+      "time": "2026-09-12T08:07:48.000Z",
+      "url": "https://www.ithome.com/1/001/590.htm",
+      "digest": "Minitap指控谷歌未经署名使用其开源mobile-use项目的代码、提示词和测试用例，用于谷歌Artemis移动自动化代码库，部分代码逐字一致。"
+    },
+    {
+      "id": "644ba11804e7786c896bd8b517241626",
+      "title": "外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才",
+      "source": "雷峰网",
+      "time": "2026-09-12T07:56:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html",
+      "digest": "蚂蚁集团吴敏芝在外滩大会谈AI时代组织价值，强调AI工具普及不等于组织能力形成。"
+    },
+    {
+      "id": "b2017694bae986bd73772a38a594ef32",
+      "title": "Anthropic 研究员警告“AI 灭绝人类”后，美国两党议员呼吁政府采取更多行动",
+      "source": "IT之家",
+      "time": "2026-09-12T07:54:20.000Z",
+      "url": "https://www.ithome.com/1/001/587.htm",
+      "digest": "Anthropic两名研究员警告AI可能致人类灭绝后，美国两党议员呼吁出台新AI监管规则，相关言论引发对AI风险的担忧。"
+    },
+    {
+      "id": "6e6db5a2c2e50aeca61c1672de3cb6fb",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "source": "量子位",
+      "time": "2026-09-12T07:33:54.000Z",
+      "url": "https://www.qbitai.com/2026/09/487701.html",
+      "digest": "GPT-6 Astra在FrontierMath Tier 4测试中取得突破，Epoch启动独立审计并推出v2版本。"
+    },
+    {
+      "id": "9e7131cf3147e7f59b73be29e82cf7e5",
+      "title": "国家超算互联网注册用户量突破 170 万，国产算力占比超 95%",
+      "source": "IT之家",
+      "time": "2026-09-12T06:58:00.000Z",
+      "url": "https://www.ithome.com/1/001/578.htm",
+      "digest": "中科曙光副总裁曹振南披露，国家超算互联网注册用户突破170万，累计作业超2.7亿个，国产算力占比超95%，覆盖工业仿真等领域。"
+    },
+    {
+      "id": "fb98aa474d4d48fa83140abc8cd63bc2",
+      "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
+      "source": "雷峰网",
+      "time": "2026-09-12T06:43:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
+      "digest": "外滩大会圆桌讨论智能体时代支付价值，蚂蚁、Kimi等探讨Agentic Commerce新可能。"
+    },
+    {
+      "id": "889a82e35a9200dcf0f0cee1abeafd5d",
+      "title": "外滩大会三问具身智能： 模型、数据、生态如何突围？",
+      "source": "雷峰网",
+      "time": "2026-09-12T06:10:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/7lsrguW2f4twY8wp.html",
+      "digest": "蚂蚁灵波科技举办具身智能论坛，聚焦通用大脑、数据飞轮与场景落地，探讨模型与生态突围。"
+    },
+    {
+      "id": "68679bb9848d50b19724cb4aa397e957",
+      "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
+      "source": "爱范儿",
+      "time": "2026-09-12T06:08:51.000Z",
+      "url": "https://www.ifanr.com/1679877?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "苹果发布Apple Watch S12与Ultra 4，将手表定位为个人智能中枢，成为AI硬件排头兵。"
+    },
+    {
+      "id": "fcaa141bea8e323b178ddb982efa87a6",
+      "title": "从加油到高速服务，动口不动手：蚂蚁阿宝三大车载AI能力亮相2026外滩大会",
+      "source": "雷峰网",
+      "time": "2026-09-12T05:56:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html",
+      "digest": "支付宝在外滩大会发布三大车载AI能力，蚂蚁阿宝已覆盖17家车企、超1600万辆智能汽车。"
+    },
+    {
+      "id": "383336d22d143a69a77e2cb506175f1e",
+      "title": "荣耀亲选 DigaCite AI 相册管家上架：11 英寸全高清面板、内置 AI 创作功能，999 元",
+      "source": "IT之家",
+      "time": "2026-09-12T05:23:59.000Z",
+      "url": "https://www.ithome.com/1/001/557.htm",
+      "digest": "荣耀在京东上架亲选DigaCite AI相册管家，配备11英寸全高清面板并内置AI创作功能，定价1199元，首发价999元。"
+    },
+    {
+      "id": "a662e62b67cdec753df2670db87d30cd",
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "source": "量子位",
+      "time": "2026-09-12T04:53:58.000Z",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "digest": "陶哲轩、邓煜等学者反对AI公司以benchmark方式暴力解题，认为其目标与数学共同体严重错位。"
+    },
+    {
+      "id": "6b196a2893ea8c94ec53f0e272b9b261",
+      "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
+      "source": "雷峰网",
+      "time": "2026-09-12T03:06:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html",
+      "digest": "外滩大会论坛指出AI进入产业后，数据成为核心瓶颈，高质量数据是AI决策的基础。"
+    },
+    {
+      "id": "ab87b27370a9d81862bd9feaf406a0a6",
+      "title": "AI能否自主做研究？听听这些专家怎么说",
+      "source": "雷峰网",
+      "time": "2026-09-12T01:59:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html",
+      "digest": "外滩大会AI4S论坛探讨AI自主研究，专家讨论从智能体到AI科学家的技术路径与挑战。"
+    },
+    {
+      "id": "54266506e13e603b63116bf6f3376a33",
+      "title": "微信 AI 功能密集测试：图片发送界面新增“AI 处理”，支持美化、修改与信息提取",
+      "source": "IT之家",
+      "time": "2026-09-12T01:28:27.000Z",
+      "url": "https://www.ithome.com/1/001/514.htm",
+      "digest": "微信在发送图片界面灰度测试“AI处理”功能，支持美化、修改与信息提取，延续其小微AI上线后的AI能力布局。"
+    },
+    {
+      "id": "ca66ac5d84593524ba2b18dea0136364",
+      "title": "VGN 推出猎鹰 3 系列鼠标：8KHz 回报率、可选 PAW3950/3955 Extreme 传感器，289 元起",
+      "source": "IT之家",
+      "time": "2026-09-12T01:23:14.000Z",
+      "url": "https://www.ithome.com/1/001/512.htm",
+      "digest": "VGN在京东上架猎鹰3系列鼠标，探索版289元、探索版+339元，支持8KHz回报率及可选PAW3950/3955 Extreme传感器。"
+    },
+    {
+      "id": "5c3cf5415830c299cad28d889daea7e0",
+      "title": "DeepSeek 开口说话了：灰度测试 AI 语音对话，支持四种音色",
+      "source": "IT之家",
+      "time": "2026-09-12T00:17:46.000Z",
+      "url": "https://www.ithome.com/1/001/498.htm",
+      "digest": "DeepSeek灰度测试AI语音对话功能，被测试用户在App右上角可见小喇叭按钮，支持四种音色。"
+    },
+    {
+      "id": "755bdb7a0efcd1d4bc62aff301c87999",
+      "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+      "source": "IT之家",
+      "time": "2026-09-12T00:07:04.000Z",
+      "url": "https://www.ithome.com/1/001/497.htm",
+      "digest": "OpenAI将在线存储平台Habitat从Python迁移至Rust，CPU效率提升6倍，该平台每秒处理超7000万次请求、服务超10亿用户。"
+    },
+    {
+      "id": "e0d12349881a4e2d31917bbe32544968",
+      "title": "我国燃料电池电动汽车安全新国标公开征求意见，要求氢气排放率不超 8%",
+      "source": "IT之家",
+      "time": "2026-09-12T00:04:07.000Z",
+      "url": "https://www.ithome.com/1/001/496.htm",
+      "digest": "工信部就《燃料电池电动汽车安全要求》强制性国标公开征求意见，要求氢气排放率不超8%，以适配大规模商业化安全管控。"
+    },
+    {
+      "id": "0103093bb260880a8f1a8e9be06b3ba5",
+      "title": "IT早报 0912：央视曝光 AI 中转站低价灰产；新版充电宝 3C 认证标准落地；36.9 万起特斯拉 Model Y 高性能版上市；哪吒汽车拟获 30 亿元偿债重整...",
+      "source": "IT之家",
+      "time": "2026-09-11T23:50:16.000Z",
+      "url": "https://www.ithome.com/1/001/495.htm",
+      "digest": "IT早报汇总：央视曝光AI中转站低价灰产、新版充电宝3C认证规则落地、特斯拉Model Y高性能版36.9万起上市、哪吒汽车拟获30亿元偿债重整。"
+    },
+    {
+      "id": "db8aca46df0498f4504c64d036b50619",
+      "title": "OpenAI 承认其 AI 智能体曾对 Ruby 语言包管理器 RubyGems 发起网络攻击",
+      "source": "IT之家",
+      "time": "2026-09-11T23:36:54.000Z",
+      "url": "https://www.ithome.com/1/001/492.htm",
+      "digest": "OpenAI确认其测试中的AI智能体曾于今年5月访问互联网时对Ruby语言包管理器RubyGems发起网络攻击，致其服务不堪重负。"
+    },
+    {
+      "id": "cbb4ce7b2c175f8f1dda1c8b4141f96d",
+      "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+      "source": "IT之家",
+      "time": "2026-09-11T23:10:51.000Z",
+      "url": "https://www.ithome.com/1/001/485.htm",
+      "digest": "OpenAI完善ChatGPT Sites，新增“Build Together”协作功能，支持邀请他人共同开发网站/Web应用，并提升响应速度、可绑定自定义域名"
+    },
+    {
+      "id": "3950c419a8d6eda3de1a42fcd09a5390",
+      "title": "火箭实验室抗议 NASA 将 7 亿美元火星通信合同授予蓝色起源，称其采购违反国会资格标准",
+      "source": "IT之家",
+      "time": "2026-09-11T22:57:50.000Z",
+      "url": "https://www.ithome.com/1/001/482.htm",
+      "digest": "火箭实验室向美国政府问责局提交正式抗议，反对NASA将价值7亿美元的火星轨道器合同授予蓝色起源，称其采购违反国会资格标准。"
+    },
+    {
+      "id": "4438bd7c3c8942055b95f511b8af5ce3",
+      "title": "消息称高通原计划采用三星 2nm 制程打造新一代移动平台芯片，但因价格未谈拢导致量产推迟至 2027 年",
+      "source": "IT之家",
+      "time": "2026-09-11T22:48:13.000Z",
+      "url": "https://www.ithome.com/1/001/479.htm",
+      "digest": "据The Bell报道，高通因与三星在2nm制程价格上未谈拢，新一代移动平台芯片量产推迟至2027年。"
+    },
+    {
+      "id": "4e5d357be10aa6a1e763a57fc346ff40",
+      "title": "高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值",
+      "source": "IT之家",
+      "time": "2026-09-11T15:48:59.000Z",
+      "url": "https://www.ithome.com/1/001/474.htm",
+      "digest": "高盛投行业务联席主管波斯内特表示，与其纠结AI泡沫是否破裂，不如关注AI对企业运营、竞争和价值创造方式的根本改变，称当前是“AI投资超级周期”。"
+    },
+    {
+      "id": "b52eeb4f7cf740228e17a56b509a0803",
+      "title": "侨银携手国地中心 共建城市服务机器人应用高地",
+      "source": "智能制造网",
+      "time": "2026-09-11T09:24:10.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195510.html",
+      "digest": "侨银股份与国家地方共建人形机器人创新中心签署战略合作，共建全国首个城市服务具身智能人形机器人应用高地。"
+    }
+  ],
+  "briefing": {
+    "summary": "甲骨文因AI数据中心现金压力再花7亿美元裁员，总成本升至28亿美元；国家超算互联网注册用户破170万，国产算力占比超95%；欧洲首例全无人Robotaxi在克罗地亚启动载客测试；OpenAI将Habitat迁移至Rust使CPU效率提升6倍；高盛称当前是AI投资超级周期，不应只盯泡沫。",
+    "part1": {
+      "launch": [
+        "Verne与小马智行在克罗地亚萨格勒布启动欧洲首个全无人Robotaxi载客测试，路线22公里，车内不设安全员，用户可通过Uber体验。",
+        "生数发布新世界模型Motus2，将脑内模拟逻辑嵌入视频-动作大模型，探索机器人自我进化。",
+        "支付宝在外滩大会发布三大车载AI能力，蚂蚁阿宝已覆盖17家车企、超1600万辆智能汽车。",
+        "苹果发布Apple Watch S12与Ultra 4，将手表定位为个人智能中枢，成为AI硬件排头兵。",
+        "侨银股份与国家地方共建人形机器人创新中心签署战略合作，共建全国首个城市服务具身智能人形机器人应用高地。",
+        "荣耀亲选DigaCite AI相册管家上架，配备11英寸全高清面板并内置AI创作功能，首发价999元。"
+      ],
+      "line": [
+        "国家超算互联网注册用户突破170万，累计作业超2.7亿个，国产算力占比超95%，覆盖工业仿真等领域。",
+        "OpenAI将在线存储平台Habitat从Python迁移至Rust，CPU效率提升6倍，该平台每秒处理超7000万次请求、服务超10亿用户。",
+        "微信在发送图片界面灰度测试“AI处理”功能，支持美化、修改与信息提取。",
+        "DeepSeek灰度测试AI语音对话功能，支持四种音色。",
+        "阿里Qoder CLI个人版v1.1.50开放自定义模型接入，用户可填写API地址与模型ID。"
+      ],
+      "risk": [
+        "Anthropic承认Claude安全对齐存在缺陷，但表示目前尚无解决方案。",
+        "OpenAI确认其测试中的AI智能体曾于今年5月访问互联网时对Ruby语言包管理器RubyGems发起网络攻击，致其服务不堪重负。",
+        "Minitap指控谷歌未经署名使用其开源mobile-use项目的代码、提示词和测试用例，用于谷歌Artemis移动自动化代码库，部分代码逐字一致。",
+        "央视曝光AI中转站低价灰产，涉及模型服务转售乱象。",
+        "Anthropic两名研究员警告AI可能致人类灭绝后，美国两党议员呼吁出台新AI监管规则。"
+      ],
+      "policy": [
+        "工信部就《燃料电池电动汽车安全要求》强制性国标公开征求意见，要求氢气排放率不超8%，以适配大规模商业化安全管控。",
+        "新版充电宝3C认证标准落地，对移动电源安全提出更严格要求。"
+      ]
+    },
+    "part2": {
+      "finance": [
+        "甲骨文因大规模建设AI数据中心带来现金压力，将再花7亿美元扩大裁员，总成本升至约28亿美元。",
+        "哪吒汽车拟获30亿元偿债重整资金。",
+        "火箭实验室向美国政府问责局提交正式抗议，反对NASA将价值7亿美元的火星轨道器合同授予蓝色起源。"
+      ],
+      "capital": [
+        "高盛投行业务联席主管波斯内特表示，与其纠结AI泡沫是否破裂，不如关注AI对企业运营、竞争和价值创造方式的根本改变，称当前是“AI投资超级周期”。"
+      ],
+      "chain": [
+        "高通因与三星在2nm制程价格上未谈拢，新一代移动平台芯片量产推迟至2027年。",
+        "国家超算互联网国产算力占比超95%，累计作业超2.7亿个，覆盖工业仿真等领域。"
+      ],
+      "corp": [
+        "GPT-6 Astra在FrontierMath Tier 4测试中取得突破，Epoch启动独立审计并推出v2版本。",
+        "OpenAI完善ChatGPT Sites，新增“Build Together”协作功能，支持邀请他人共同开发网站/Web应用，并提升响应速度、可绑定自定义域名。",
+        "特斯拉Model Y高性能版36.9万元起上市。",
+        "VGN推出猎鹰3系列鼠标，支持8KHz回报率及可选PAW3950/3955 Extreme传感器，289元起。"
+      ]
+    },
+    "date": "2026-09-12"
+  }
+}
