@@ -1,0 +1,281 @@
+{
+  "id": "2026-09-13-2100",
+  "date": "2026-09-13",
+  "slot": "2100",
+  "slotLabel": "21:00",
+  "generation": "evening",
+  "updatedAt": "2026-09-13T14:39:18.254Z",
+  "items": [
+    {
+      "id": "b32f72a7b60f53b74ac4fcae739f7025",
+      "title": "蚂蚁灵波开源三款 LingBot-World 2.0 世界模型：Small 参数 1.3B 面向消费级单卡 GPU 设计",
+      "source": "IT之家",
+      "time": "2026-09-13T14:34:46.000Z",
+      "url": "https://www.ithome.com/1/001/863.htm",
+      "digest": "蚂蚁灵波科技开源LingBot-World 2.0三款世界模型，其中Small版参数1.3B，面向消费级单卡GPU设计。"
+    },
+    {
+      "id": "7a8f15701dac5d5fcfdea06c84487182",
+      "title": "安全性能位居全球第一梯队，中核集团华龙一号 2.0 版创新成果亮相",
+      "source": "IT之家",
+      "time": "2026-09-13T13:45:44.000Z",
+      "url": "https://www.ithome.com/1/001/854.htm",
+      "digest": "中核集团推介华龙一号2.0版，采用中国标准，关键设备100%国产化，安全性能居全球大型压水堆第一梯队。"
+    },
+    {
+      "id": "70062356a318171e0ccdedacb1371fd9",
+      "title": "谷歌 DeepMind 安全研究员离职，称 AI 五年内造成巨大危害的概率高得吓人",
+      "source": "IT之家",
+      "time": "2026-09-13T12:21:32.000Z",
+      "url": "https://www.ithome.com/1/001/843.htm",
+      "digest": "谷歌DeepMind通用人工智能安全团队研究员Josh Engels离职加入METR，称未来五年AI造成巨大危害概率高得吓人。"
+    },
+    {
+      "id": "ba759c13739b122dd48d2d0230b0ed03",
+      "title": "华为乾崑智驾 ADS 5 加持，东风奕境安全技术讲解会明日举行",
+      "source": "IT之家",
+      "time": "2026-09-13T12:16:20.000Z",
+      "url": "https://www.ithome.com/1/001/842.htm",
+      "digest": "奕境汽车宣布9月14日在武汉举行安全技术讲解会，涉及华为乾崑智驾ADS 5与奕境天穹智盾。"
+    },
+    {
+      "id": "19416ec06e96937701b5799ae995a5a0",
+      "title": "Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人",
+      "source": "IT之家",
+      "time": "2026-09-13T11:32:25.000Z",
+      "url": "https://www.ithome.com/1/001/834.htm",
+      "digest": "Waymo自动驾驶出租车监测到乘客持上膛步枪并协助报警，旧金山警方拦停后逮捕两名未成年人。"
+    },
+    {
+      "id": "626590151e3be514629fedf89db49016",
+      "title": "小鹏机器人自己走下产线，具身智能的竞争换了个赛道？",
+      "source": "OFweek机器人",
+      "time": "2026-09-13T11:14:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-8420-30702808.html",
+      "digest": "文章讨论小鹏机器人自主走下产线，指出具身智能竞争正从实验室演示转向产线落地。"
+    },
+    {
+      "id": "ac00dd65e58b78b946d4f5064cd5ddef",
+      "title": "机器人进厂打工，又被广东先赚到钱了！",
+      "source": "OFweek机器人",
+      "time": "2026-09-13T11:06:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-8420-30702804.html",
+      "digest": "小鹏机器人启用全球首条高阶通用人形机器人自动化产线，首台IRON完成自动化总装并自主走下产线。"
+    },
+    {
+      "id": "eca783a262bd2146110af62b78bf92f4",
+      "title": "智谱宣布完成约 50 亿美元融资，用于下一代 GLM 基础模型研发等",
+      "source": "IT之家",
+      "time": "2026-09-13T10:50:49.000Z",
+      "url": "https://www.ithome.com/1/001/833.htm",
+      "digest": "智谱宣布完成约50亿美元融资，含20亿美元股份配售及30亿美元可转债，用于下一代GLM基础模型研发等。"
+    },
+    {
+      "id": "5eafdac10760dcc9eb3aff5a42df946b",
+      "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
+      "source": "雷峰网",
+      "time": "2026-09-13T10:30:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
+      "digest": "斜跃智能完成数亿元天使+轮融资，线性资本等参投，资金用于具身基础模型训练、算力数据基建及家庭机器人本体研发。"
+    },
+    {
+      "id": "91ac70b66a4b0a9ce46e0e005a38d0e6",
+      "title": "中国科大等团队实现具有可证明安全性的量子安全定位，定位精度优于 75 米",
+      "source": "IT之家",
+      "time": "2026-09-13T09:54:21.000Z",
+      "url": "https://www.ithome.com/1/001/825.htm",
+      "digest": "中国科大郭光灿团队联合广东工业大学，实现具有可证明安全性的量子安全定位，定位精度优于75米。"
+    },
+    {
+      "id": "e69264f50783f25bad3ad46c3dc2e64d",
+      "title": "英国试点 AI 训练营，帮助待业青年破解就业难题",
+      "source": "IT之家",
+      "time": "2026-09-13T09:45:43.000Z",
+      "url": "https://www.ithome.com/1/001/822.htm",
+      "digest": "英国政府据《卫报》报道在普雷斯顿试点AI训练营，面向待业青年开展培训，以同时应对AI技能缺口与青年失业问题。"
+    },
+    {
+      "id": "cfa036c4269b3c77ae29fbdef39797b7",
+      "title": "多位 AI 行业高管呼吁放缓前沿模型研发，分析称芯片股短期承压",
+      "source": "IT之家",
+      "time": "2026-09-13T09:20:17.000Z",
+      "url": "https://www.ithome.com/1/001/819.htm",
+      "digest": "据彭博社报道，多位AI行业高管呼吁放缓前沿模型研发，市场观察人士称芯片及供应链板块股价短期或承压，但算力基础设施投入仍强劲。"
+    },
+    {
+      "id": "055f1384677d2b244a0335c2768acc78",
+      "title": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态",
+      "source": "雷峰网",
+      "time": "2026-09-13T09:16:00.000Z",
+      "url": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
+      "digest": "绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，基于后摩M50本地AI算力打造家庭AI中枢。"
+    },
+    {
+      "id": "050018b611ca1f927b5f786755e0e074",
+      "title": "蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业",
+      "source": "雷峰网",
+      "time": "2026-09-13T09:13:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html",
+      "digest": "蚂蚁数科在外滩大会围绕绿色能源、智能终端等领域达成31项合作，推动AI智能体、区块链等技术落地。"
+    },
+    {
+      "id": "2175520b8938acaa98a1b201be3ea4fd",
+      "title": "大模型牌桌上，蚂蚁如何出牌？",
+      "source": "雷峰网",
+      "time": "2026-09-13T08:22:00.000Z",
+      "url": "https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html",
+      "digest": "雷峰网梳理蚂蚁在外滩大会的AI布局，展示搭载灵波通用大脑的药房分拣机器人等具身智能应用。"
+    },
+    {
+      "id": "15e1f2cb2ff33ca9b1f82d2bbe5d1862",
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "source": "量子位",
+      "time": "2026-09-13T07:38:20.000Z",
+      "url": "https://www.qbitai.com/2026/09/488672.html",
+      "digest": "Generalist AI的GEN-1.5模型经3-12秒单次示范即可适应10类短程任务，平均成功率59%，少量梯度更新后升至83%。"
+    },
+    {
+      "id": "1127446b3666aca5f0dd8611fc49816c",
+      "title": "赛洛斯推出 V12 鼠标：PAW NEXT I 传感器，nRF54H20 主控，349 元",
+      "source": "IT之家",
+      "time": "2026-09-13T04:10:08.000Z",
+      "url": "https://www.ithome.com/1/001/742.htm",
+      "digest": "外设品牌赛洛斯推出V12鼠标，搭载原相PAW NEXT I传感器与Nordic nRF54H20主控，到手价349元。"
+    },
+    {
+      "id": "08242d41f99b9f9f1ffe54e1da2a2acf",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "source": "量子位",
+      "time": "2026-09-13T03:13:00.000Z",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "digest": "OpenAI CEO奥特曼表示公司2026年内不会IPO，并赞同Anthropic CEO放缓AI开发的呼吁，涉及AI安全与资本进程。"
+    },
+    {
+      "id": "372a1f9dc85c386ff05929cfbd76b01b",
+      "title": "曜越推出 AI 工作站机箱 AX1000，支持双 SSI-EEB 系统强劲配置",
+      "source": "IT之家",
+      "time": "2026-09-13T02:10:13.000Z",
+      "url": "https://www.ithome.com/1/001/715.htm",
+      "digest": "曜越推出AI工作站机箱AX1000，采用左右双系统设计，两侧均支持XL-ATX/SSI-EEB主板并各提供10条扩展槽。"
+    },
+    {
+      "id": "b38d1ce560295f257639a59e9c4e788d",
+      "title": "贝尔金推出新款桌面充电基座：支持苹果 iPhone 25W + AirPods 5W 无线充，429 元",
+      "source": "IT之家",
+      "time": "2026-09-13T02:05:21.000Z",
+      "url": "https://www.ithome.com/1/001/714.htm",
+      "digest": "贝尔金在京东上架二合一可折叠磁吸无线充，支持iPhone 25W、AirPods 5W无线充及5W有线输出，定价429元。"
+    },
+    {
+      "id": "6f2b87b3a13aed0b2a0312c7f16ca765",
+      "title": "Anthropic CEO 阿莫迪呼吁放缓前沿 AI 模型开发后，xAI 马斯克、OpenAI 奥尔特曼等业界大佬赞同",
+      "source": "IT之家",
+      "time": "2026-09-13T01:45:22.000Z",
+      "url": "https://www.ithome.com/1/001/709.htm",
+      "digest": "Anthropic CEO阿莫迪呼吁放缓前沿AI开发，xAI马斯克、OpenAI奥尔特曼等业界人士表示赞同，并提及模型入侵事件。"
+    },
+    {
+      "id": "4b6fca5426773df0e5c2b4562d7190ed",
+      "title": "绿联海外发布 Nexode Air Slim 100W 超薄充电器，2C+1A",
+      "source": "IT之家",
+      "time": "2026-09-13T00:56:35.000Z",
+      "url": "https://www.ithome.com/1/001/698.htm",
+      "digest": "绿联在英国推出Nexode Air Slim 100W超薄充电器，采用卡片式折叠英规插脚，配2C+1A接口，售价59.99英镑。"
+    },
+    {
+      "id": "7dc599feede774dcbb56ebdd549c0740",
+      "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+      "source": "极客公园",
+      "time": "2026-09-13T00:22:31.000Z",
+      "url": "http://www.geekpark.net/news/370228",
+      "digest": "OpenAI CEO Sam Altman称公司今年不会上市、明年才IPO，并强调需优先解决AI安全风险；同期苹果iPhone 18 Pro开启全球预购。"
+    },
+    {
+      "id": "7f591ba33051a2d1c4dcf28faebf475d",
+      "title": "vivo X500 标准版真机曝光，搭载天玑 9600M 八核处理器",
+      "source": "IT之家",
+      "time": "2026-09-13T00:05:39.000Z",
+      "url": "https://www.ithome.com/1/001/691.htm",
+      "digest": "博主曝光vivo X500标准版真机，搭载天玑9600M八核处理器，为消费电子新品动态。"
+    },
+    {
+      "id": "d28b174adaeddf287b982cbe3a7dc91f",
+      "title": "IT早报 0913：央视探访无堂食外卖后厨看到店员徒手抓烤鸡；全国多所高校买商品房当学生宿舍；DeepSeek 灰度测试 AI 语音对话；“支付宝假 App”上热搜...",
+      "source": "IT之家",
+      "time": "2026-09-12T23:46:49.000Z",
+      "url": "https://www.ithome.com/1/001/688.htm",
+      "digest": "IT早报汇总：外卖新规实施三月，央视探访发现后厨违规；多所高校购商品房作宿舍；DeepSeek灰度测试AI语音对话。"
+    },
+    {
+      "id": "04593a2136e01681591d8cdae6ce15f2",
+      "title": "育儿博主曝光 Meta AI 可抓取日常数据“汇总生成隐私家庭信息”，官方紧急修复",
+      "source": "IT之家",
+      "time": "2026-09-12T23:40:32.000Z",
+      "url": "https://www.ithome.com/1/001/685.htm",
+      "digest": "Meta确认修复Meta AI功能缺陷，此前该功能被曝可抓取用户日常数据并汇总生成含儿童在内的隐私家庭信息。"
+    },
+    {
+      "id": "f555c4df69e05c38da72a62b1d9325de",
+      "title": "A20 Pro 芯片 AI 跑分曝光：苹果 iPhone 18 Pro NPU 较前代最高增幅 51.53%",
+      "source": "IT之家",
+      "time": "2026-09-12T23:12:01.000Z",
+      "url": "https://www.ithome.com/1/001/675.htm",
+      "digest": "苹果iPhone 18 Pro的A20 Pro芯片GeekBench AI跑分曝光，NPU较前代最高提升51.53%。"
+    },
+    {
+      "id": "8eb5a7c262fd81ccff32379f54a22f89",
+      "title": "奥尔特曼确认：OpenAI 今年不会上市",
+      "source": "IT之家",
+      "time": "2026-09-12T22:42:59.000Z",
+      "url": "https://www.ithome.com/1/001/669.htm",
+      "digest": "OpenAI CEO奥尔特曼接受《财富》采访确认公司今年不会上市，称基于AI安全领域现状不急于推进IPO。"
+    }
+  ],
+  "briefing": {
+    "summary": "9月13日，具身智能与AI基础模型成为焦点：小鹏IRON人形机器人自主走下全球首条高阶通用人形机器人自动化产线，蚂蚁灵波开源1.3B世界模型面向消费级单卡GPU，智谱完成约50亿美元融资用于下一代GLM研发。同时，OpenAI、Anthropic等高管呼吁放缓前沿模型开发，芯片股短期承压；蚂蚁数科外滩大会达成31项AI合作，产业落地加速。",
+    "part1": {
+      "launch": [
+        "小鹏机器人IRON完成全球首条高阶通用人形机器人自动化产线总装并自主走下产线，标志具身智能从实验室演示转向产线落地。",
+        "蚂蚁灵波开源LingBot-World 2.0三款世界模型，其中Small版参数1.3B，面向消费级单卡GPU设计。",
+        "绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，基于后摩M50本地AI算力打造家庭AI中枢。",
+        "蚂蚁数科在外滩大会围绕绿色能源、智能终端等领域达成31项AI合作，推动AI智能体、区块链等技术落地。",
+        "中核集团推介华龙一号2.0版，采用中国标准，关键设备100%国产化，安全性能居全球大型压水堆第一梯队。",
+        "中国科大郭光灿团队联合广东工业大学实现具有可证明安全性的量子安全定位，定位精度优于75米。"
+      ],
+      "line": [
+        "小鹏机器人启用全球首条高阶通用人形机器人自动化产线，首台IRON完成自动化总装并自主走下产线。",
+        "蚂蚁在外滩大会展示搭载灵波通用大脑的药房分拣机器人等具身智能应用，推动智能体走进千行百业。",
+        "Generalist AI的GEN-1.5导航模型经3-12秒单次示范即可适应10类短程任务，平均成功率59%，少量梯度更新后升至83%，可零样本通吃四种机器人本体。"
+      ],
+      "risk": [
+        "谷歌DeepMind通用人工智能安全团队研究员Josh Engels离职加入METR，称未来五年AI造成巨大危害概率高得吓人。",
+        "多位AI行业高管呼吁放缓前沿模型研发，市场观察人士称芯片及供应链板块股价短期或承压，但算力基础设施投入仍强劲。",
+        "Anthropic CEO阿莫迪呼吁放缓前沿AI模型开发后，xAI马斯克、OpenAI奥尔特曼等业界大佬赞同，并提及模型入侵事件。",
+        "育儿博主曝光Meta AI可抓取日常数据汇总生成含儿童在内的隐私家庭信息，官方紧急修复该功能缺陷。"
+      ],
+      "policy": [
+        "英国政府据《卫报》报道在普雷斯顿试点AI训练营，面向待业青年开展培训，以同时应对AI技能缺口与青年失业问题。"
+      ]
+    },
+    "part2": {
+      "finance": [
+        "智谱宣布完成约50亿美元融资，含20亿美元股份配售及30亿美元可转债，用于下一代GLM基础模型研发等。",
+        "斜跃智能完成数亿元天使+轮融资，线性资本等参投，资金用于具身基础模型训练、算力数据基建及家庭机器人本体研发。"
+      ],
+      "capital": [
+        "OpenAI CEO奥尔特曼确认公司2026年内不会IPO，称基于AI安全领域现状不急于推进IPO，并赞同Anthropic CEO放缓AI开发的呼吁。"
+      ],
+      "chain": [
+        "苹果iPhone 18 Pro的A20 Pro芯片GeekBench AI跑分曝光，NPU较前代最高提升51.53%。",
+        "曜越推出AI工作站机箱AX1000，采用左右双系统设计，两侧均支持XL-ATX/SSI-EEB主板并各提供10条扩展槽。",
+        "赛洛斯推出V12鼠标，搭载原相PAW NEXT I传感器与Nordic nRF54H20主控，到手价349元。"
+      ],
+      "corp": [
+        "华为乾崑智驾ADS 5加持，东风奕境宣布9月14日在武汉举行安全技术讲解会，涉及奕境天穹智盾。",
+        "Waymo自动驾驶出租车监测到乘客携带上膛步枪并协助报警，旧金山警方拦停后逮捕两名未成年人。",
+        "DeepSeek灰度测试AI语音对话功能，vivo X500标准版真机曝光搭载天玑9600M八核处理器。"
+      ]
+    },
+    "date": "2026-09-13"
+  }
+}
