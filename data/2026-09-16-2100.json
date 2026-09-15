@@ -1,0 +1,45 @@
+{
+  "id": "2026-09-16-2100",
+  "date": "2026-09-16",
+  "slot": "2100",
+  "slotLabel": "21:00",
+  "generation": "evening",
+  "updatedAt": "2026-09-15T17:14:27.277Z",
+  "items": [
+    {
+      "id": "cab60a8c4d9128095c89536b12abb503",
+      "title": "Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元",
+      "source": "IT之家",
+      "time": "2026-09-15T15:57:09.000Z",
+      "url": "https://www.ithome.com/1/002/818.htm",
+      "digest": "Meta上线Meta One订阅服务，将Facebook、Instagram、WhatsApp订阅与更高AI使用额度打包，面向AI重度用户、创作者和商业用户，最"
+    },
+    {
+      "id": "0298cf8a764d8f49fba5efbbee4c04a5",
+      "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
+      "source": "雷峰网",
+      "time": "2026-09-15T15:07:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+      "digest": "美团在2026百大发型师生态大会发布首个“手艺人Agent”，为发型师等提供线上运营问答、经营数据分析、作品管理发布等AI支持。"
+    }
+  ],
+  "briefing": {
+    "summary": "9月15日，Meta推出最高499美元/月的Meta One订阅，将社交平台与更高AI额度打包，标志消费级AI付费分层加速；美团发布首个“手艺人Agent”，切入发型师线上运营与作品管理场景，显示垂直行业Agent正从通用工具转向具体职业工作流。当日智能制造产线、政策及投融资、资本动向等维度暂无新增资讯，产业影响主要体现为AI应用向消费与本地生活服务端渗透，对制造端直接拉动有限。",
+    "part1": {
+      "launch": [],
+      "line": [],
+      "risk": [],
+      "policy": []
+    },
+    "part2": {
+      "finance": [],
+      "capital": [],
+      "chain": [],
+      "corp": [
+        "[object Object]",
+        "[object Object]"
+      ]
+    },
+    "date": "2026-09-16"
+  }
+}
