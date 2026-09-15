@@ -1,0 +1,128 @@
+{
+  "id": "2026-09-15-0900",
+  "date": "2026-09-15",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-09-15T00:51:56.614Z",
+  "items": [
+    {
+      "id": "ad836c39bb9c2a3e522ebcafce1f725b",
+      "title": "AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与",
+      "source": "IT之家",
+      "time": "2026-09-15T00:47:26.000Z",
+      "url": "https://www.ithome.com/1/002/375.htm",
+      "digest": "中国通信企业协会在雄安启动AI-eSIM团体标准编制，中国移动、电信、联通及腾讯云、阿里云等参与，旨在统一产业链交互范式。"
+    },
+    {
+      "id": "5f249b4d945c7669533e41f576f99294",
+      "title": "联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起",
+      "source": "IT之家",
+      "time": "2026-09-15T00:39:08.000Z",
+      "url": "https://www.ithome.com/1/002/373.htm",
+      "digest": "联想来酷斗战者AI NAS 900系列私有云主机开售，搭载飞牛fnOS系统，6999元起，Pro版配Ultra X9售17999元。"
+    },
+    {
+      "id": "7a5f515538cbc6ad471d5cc4af440c4a",
+      "title": "请更新：苹果 iOS / iPadOS 27 共修复 126 个安全漏洞，百度等团队参与贡献",
+      "source": "IT之家",
+      "time": "2026-09-15T00:10:30.000Z",
+      "url": "https://www.ithome.com/1/002/368.htm",
+      "digest": "苹果iOS/iPadOS 27修复126个安全漏洞，含多个内核高风险问题，百度安全团队等中国开发者参与漏洞报告。"
+    },
+    {
+      "id": "7bea93e15e1c59e4f46eef6087bebe5a",
+      "title": "Meta 对 Instagram 应用 AI 修图功能新增付费限制，需订阅 Meta One 会员使用",
+      "source": "IT之家",
+      "time": "2026-09-15T00:00:35.000Z",
+      "url": "https://www.ithome.com/1/002/366.htm",
+      "digest": "Meta对Instagram部分AI修图功能加付费限制，用户超出额度需订阅每月7.99美元的Meta One Core会员。"
+    },
+    {
+      "id": "1a3ecaf2a2745bf375c8e35ace343de2",
+      "title": "CG3M 版微星 Claw 8 EX AI+ 掌机曝光：10 核 Xe3，最高 90 INT8 TOPS",
+      "source": "IT之家",
+      "time": "2026-09-14T23:52:09.000Z",
+      "url": "https://www.ithome.com/1/002/363.htm",
+      "digest": "微星Claw 8 EX AI+新增CG3M版本曝光，采用英特尔锐炫G3平台，最高90 INT8 TOPS，售价1499美元。"
+    },
+    {
+      "id": "684aab7ab1e105082a26affb8db512f2",
+      "title": "代码显示：苹果 Siri AI 可替换为 Anthropic Claude 或 OpenAI ChatGPT",
+      "source": "IT之家",
+      "time": "2026-09-14T23:21:30.000Z",
+      "url": "https://www.ithome.com/1/002/353.htm",
+      "digest": "开发者挖掘iOS 27与macOS发现，苹果新版Siri AI架构可接入Anthropic Claude、OpenAI GPT-5.6等第三方模型。"
+    },
+    {
+      "id": "e7500e44e98d88d50cccd796e0495267",
+      "title": "苹果 iOS 27 家庭 AI 功能强制捆绑 2TB 及以上 iCloud+ 套餐：单摄像头月费 9.99 美元、五摄像头 59.99 美元，引 iPhone 用户不满",
+      "source": "IT之家",
+      "time": "2026-09-14T23:06:29.000Z",
+      "url": "https://www.ithome.com/1/002/348.htm",
+      "digest": "苹果要求订阅每月9.99美元起的2TB iCloud+套餐，才能在iOS 27中使用Apple Intelligence Home搭配HomeKit摄像头，引发"
+    },
+    {
+      "id": "5968941e38c56ee53cfa1849839426c6",
+      "title": "OpenAI 联合创始人布罗克曼：人类已迈入通用人工智能时代",
+      "source": "IT之家",
+      "time": "2026-09-14T22:45:38.000Z",
+      "url": "https://www.ithome.com/1/002/341.htm",
+      "digest": "OpenAI联合创始人格雷格·布罗克曼在a16z采访中称，人类已迈入通用人工智能（AGI）时代。"
+    },
+    {
+      "id": "1a9d987bdbd18bc77641a8a7affc4399",
+      "title": "马斯克旗下 X 和 SpaceXAI 动议撤回针对苹果和 OpenAI 的诉讼指控",
+      "source": "IT之家",
+      "time": "2026-09-14T22:33:48.000Z",
+      "url": "https://www.ithome.com/1/002/338.htm",
+      "digest": "马斯克旗下X Corp.和SpaceXAI提交动议，撤回2025年针对苹果与OpenAI的数十亿美元反垄断诉讼，法官已批准。"
+    },
+    {
+      "id": "a4122e1b38441b29e5ae7d342ec1909d",
+      "title": "苹果 iOS / iPadOS 26.7 正式版发布：修复安全问题",
+      "source": "IT之家",
+      "time": "2026-09-14T22:29:39.000Z",
+      "url": "https://www.ithome.com/1/002/337.htm",
+      "digest": "苹果发布iOS/iPadOS 26.7正式版，主要包含安全修复，未加入新功能，供不升级大版本的用户使用。"
+    },
+    {
+      "id": "c63e01d6551ae0ff886b24aab7fc8ca1",
+      "title": "苹果儿童安全功能随 iOS 27 等更新上线：新增时间额度，可阻止血腥暴力及裸露内容",
+      "source": "IT之家",
+      "time": "2026-09-14T17:16:21.000Z",
+      "url": "https://www.ithome.com/1/002/326.htm",
+      "digest": "苹果儿童安全功能随iOS 27、iPadOS 27和macOS 27上线，新增时间额度管理，可阻止血腥暴力及裸露内容。"
+    }
+  ],
+  "briefing": {
+    "summary": "今日AI产业呈现标准与终端双线推进：中国通信企业协会启动AI-eSIM团体标准，三大运营商及腾讯云、阿里云参与，统一产业链交互范式；联想来酷斗战者AI NAS 900系列开售，6999元起，搭载飞牛fnOS系统。苹果iOS 27修复126个漏洞，百度等团队贡献；Siri AI可接入Claude或ChatGPT，但家庭AI功能强制捆绑2TB iCloud+套餐引发不满。Meta对Instagram AI修图加付费限制，OpenAI布罗克曼宣称人类已迈入AGI时代。",
+    "part1": {
+      "launch": [
+        "中国通信企业协会在雄安启动AI-eSIM团体标准编制，中国移动、电信、联通及腾讯云、阿里云等参与，旨在统一产业链交互范式。",
+        "联想来酷斗战者AI NAS 900系列私有云主机开售，搭载飞牛fnOS系统，6999元起，Pro版配Ultra X9售17999元。"
+      ],
+      "line": [],
+      "risk": [
+        "苹果iOS 27家庭AI功能强制捆绑2TB及以上iCloud+套餐，单摄像头月费9.99美元、五摄像头59.99美元，引发iPhone用户不满。",
+        "Meta对Instagram部分AI修图功能加付费限制，用户超出额度需订阅每月7.99美元的Meta One Core会员。"
+      ],
+      "policy": []
+    },
+    "part2": {
+      "finance": [],
+      "capital": [
+        "马斯克旗下X Corp.和SpaceXAI提交动议，撤回2025年针对苹果与OpenAI的数十亿美元反垄断诉讼，法官已批准。"
+      ],
+      "chain": [
+        "苹果iOS/iPadOS 27共修复126个安全漏洞，含多个内核高风险问题，百度安全团队等中国开发者参与漏洞报告。",
+        "代码显示苹果新版Siri AI架构可接入Anthropic Claude、OpenAI GPT-5.6等第三方模型。"
+      ],
+      "corp": [
+        "微星Claw 8 EX AI+掌机新增CG3M版本曝光，采用英特尔锐炫G3平台，最高90 INT8 TOPS，售价1499美元。",
+        "OpenAI联合创始人格雷格·布罗克曼在a16z采访中称，人类已迈入通用人工智能（AGI）时代。"
+      ]
+    },
+    "date": "2026-09-15"
+  }
+}
