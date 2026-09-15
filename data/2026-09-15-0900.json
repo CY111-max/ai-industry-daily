@@ -4,8 +4,80 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-09-15T00:51:56.614Z",
+  "updatedAt": "2026-09-15T01:54:16.560Z",
   "items": [
+    {
+      "id": "b37a78fe3b944da4b6f3651e3c90e55d",
+      "title": "人形机器人打起口水仗：梅卡曼德创始人质疑银河通用营收造假，人形机器人IPO趋严",
+      "source": "OFweek机器人",
+      "time": "2026-09-15T09:25:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-12008-30703084.html",
+      "digest": "梅卡曼德创始人质疑银河通用营收造假，银河通用回应称网络流传均属不实信息，具身智能行业IPO审核趋严。"
+    },
+    {
+      "id": "725a8de608cc0a6953aae62912ac6324",
+      "title": "梅卡曼德“狙击”银河通用，具身智能上市窗口只剩6个月",
+      "source": "OFweek机器人",
+      "time": "2026-09-15T09:20:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-12003-30703081.html",
+      "digest": "梅卡曼德CEO邵天兰公开点名估值200亿元的银河通用，批评其借数采中心及地方政府合作虚增营收，具身智能上市窗口收窄。"
+    },
+    {
+      "id": "fa6b36fc5b9a6d50e579e8a606470962",
+      "title": "在手订单超41亿！李泽湘投的箱式仓储机器人，冲击港股IPO",
+      "source": "OFweek机器人",
+      "time": "2026-09-15T09:15:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-8321202-8120-30703100.html",
+      "digest": "仓储机器人企业海柔创新9月13日更新港股上市申请，在手订单超41亿元，有望成为港股ACR第一股。"
+    },
+    {
+      "id": "b26761b1e69da762c6d51f32b10c3125",
+      "title": "白宫科技顾问抨击 Anthropic 和 OpenAI：你们要自己制造安全产品，别老想着靠政府干预",
+      "source": "IT之家",
+      "time": "2026-09-15T01:52:25.000Z",
+      "url": "https://www.ithome.com/1/002/409.htm",
+      "digest": "白宫科技顾问萨克斯称Anthropic与OpenAI应自行制造安全AI产品，无需政府干预，并抨击Anthropic CEO呼吁放缓AI发展的主张。"
+    },
+    {
+      "id": "1153ed44d0ae8b0c91463365d9cf0138",
+      "title": "谷歌调整内部政策，允许全体工程师使用 Anthropic Claude",
+      "source": "IT之家",
+      "time": "2026-09-15T01:39:05.000Z",
+      "url": "https://www.ithome.com/1/002/405.htm",
+      "digest": "谷歌向全体工程师开放Anthropic Claude模型使用权限，通过内部平台Antigravity提供Opus 5，定位为Gemini的补充。"
+    },
+    {
+      "id": "c9accc846833deae3d69a3215a8ee4ba",
+      "title": "共享单车重要新规：互联网租赁自行车国家标准发布，要求车辆具有唯一性编码",
+      "source": "IT之家",
+      "time": "2026-09-15T01:21:09.000Z",
+      "url": "https://www.ithome.com/1/002/390.htm",
+      "digest": "市场监管总局发布互联网租赁自行车国家标准，要求车辆具唯一性编码并加装车载智能终端，规范运营服务全流程。"
+    },
+    {
+      "id": "dfcc232a845f2674cbb23da0540e477d",
+      "title": "iQOO 16 官宣 9 月 29 日发布，号称标准版产品力超 Pro Max",
+      "source": "IT之家",
+      "time": "2026-09-15T01:20:49.000Z",
+      "url": "https://www.ithome.com/1/002/388.htm",
+      "digest": "iQOO宣布iQOO 16将于9月29日发布并开售，定位性能旗舰，号称标准版产品力超Pro Max。"
+    },
+    {
+      "id": "535e32489b931236ce0f50e12dacef56",
+      "title": "创见推出 DDR5-6400 工业内存模组：单条 64GB，CUDIMM / CSODIMM 形态",
+      "source": "IT之家",
+      "time": "2026-09-15T01:10:09.000Z",
+      "url": "https://www.ithome.com/1/002/384.htm",
+      "digest": "创见推出6400MT/s工业级DDR5 CUDIMM/CSODIMM内存模组，单条容量64GB，集成CKD芯片与温度传感器。"
+    },
+    {
+      "id": "4da2ab2e9148e92edb906f7f28072fb4",
+      "title": "Stellantis 与加拿大工会 Unifor 谈判陷入僵局，安大略省 Brampton 工厂前途未定",
+      "source": "IT之家",
+      "time": "2026-09-15T01:05:35.000Z",
+      "url": "https://www.ithome.com/1/002/381.htm",
+      "digest": "Stellantis与加拿大工会Unifor谈判陷入僵局，安大略Brampton工厂或因贸易争端面临关闭并出售给第三方。"
+    },
     {
       "id": "ad836c39bb9c2a3e522ebcafce1f725b",
       "title": "AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与",
@@ -93,34 +165,63 @@
       "time": "2026-09-14T17:16:21.000Z",
       "url": "https://www.ithome.com/1/002/326.htm",
       "digest": "苹果儿童安全功能随iOS 27、iPadOS 27和macOS 27上线，新增时间额度管理，可阻止血腥暴力及裸露内容。"
+    },
+    {
+      "id": "3668597fa74a70cbdd23e35edf322212",
+      "title": "因克斯完成超3亿元B轮融资，加速具身智能硬件基础设施布局",
+      "source": "智能制造网",
+      "time": "2026-09-14T11:56:30.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195552.html",
+      "digest": "因克斯完成超3亿元B轮融资，中信金石、纳爱斯、苏创投等参投，老股东持续追投，加速具身智能硬件基础设施布局。"
+    },
+    {
+      "id": "c2bd7b16773a6e3fff10fefe0bf39c74",
+      "title": "小马智行全球首发第四代广汽领程T9自动驾驶重卡",
+      "source": "智能制造网",
+      "time": "2026-09-11T10:43:58.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195554.html",
+      "digest": "小马智行与广汽领程联合打造的L4级自动驾驶重卡在汉诺威商用车展全球首发，并发布Robotruck全球化战略，两年内进军欧洲和中东。"
     }
   ],
   "briefing": {
-    "summary": "今日AI产业呈现标准与终端双线推进：中国通信企业协会启动AI-eSIM团体标准，三大运营商及腾讯云、阿里云参与，统一产业链交互范式；联想来酷斗战者AI NAS 900系列开售，6999元起，搭载飞牛fnOS系统。苹果iOS 27修复126个漏洞，百度等团队贡献；Siri AI可接入Claude或ChatGPT，但家庭AI功能强制捆绑2TB iCloud+套餐引发不满。Meta对Instagram AI修图加付费限制，OpenAI布罗克曼宣称人类已迈入AGI时代。",
+    "summary": "9月15日，具身智能行业风波不断：梅卡曼德创始人公开质疑银河通用营收造假，行业IPO审核趋严，上市窗口收窄；海柔创新更新港股招股书，在手订单超41亿元，冲击港股ACR第一股。AI领域，谷歌向全体工程师开放Anthropic Claude，苹果Siri可接入第三方模型，OpenAI联创宣称人类已迈入AGI时代。资本端，因克斯完成超3亿元B轮融资，小马智行全球首发L4自动驾驶重卡。政策方面，AI-eSIM团体标准启动编制，三大运营商参与。",
     "part1": {
       "launch": [
-        "中国通信企业协会在雄安启动AI-eSIM团体标准编制，中国移动、电信、联通及腾讯云、阿里云等参与，旨在统一产业链交互范式。",
-        "联想来酷斗战者AI NAS 900系列私有云主机开售，搭载飞牛fnOS系统，6999元起，Pro版配Ultra X9售17999元。"
+        "小马智行与广汽领程联合打造的L4级自动驾驶重卡在汉诺威商用车展全球首发，并发布Robotruck全球化战略，计划两年内进军欧洲和中东。",
+        "联想来酷斗战者AI NAS 900系列私有云主机开售，搭载飞牛fnOS系统，6999元起，Pro版配Ultra X9售17999元。",
+        "创见推出DDR5-6400工业内存模组，单条容量64GB，CUDIMM/CSODIMM形态，集成CKD芯片与温度传感器。"
       ],
-      "line": [],
+      "line": [
+        "谷歌向全体工程师开放Anthropic Claude模型使用权限，通过内部平台Antigravity提供Opus 5，定位为Gemini的补充。",
+        "苹果iOS 27家庭AI功能强制捆绑2TB及以上iCloud+套餐，单摄像头月费9.99美元、五摄像头59.99美元，引发iPhone用户不满。"
+      ],
       "risk": [
-        "苹果iOS 27家庭AI功能强制捆绑2TB及以上iCloud+套餐，单摄像头月费9.99美元、五摄像头59.99美元，引发iPhone用户不满。",
-        "Meta对Instagram部分AI修图功能加付费限制，用户超出额度需订阅每月7.99美元的Meta One Core会员。"
+        "梅卡曼德创始人邵天兰公开质疑银河通用营收造假，称其借数采中心及地方政府合作虚增营收，银河通用回应称网络流传均属不实信息。",
+        "具身智能行业IPO审核趋严，上市窗口收窄，梅卡曼德CEO称上市窗口只剩6个月。",
+        "Stellantis与加拿大工会Unifor谈判陷入僵局，安大略Brampton工厂或因贸易争端面临关闭并出售给第三方。"
       ],
-      "policy": []
+      "policy": [
+        "中国通信企业协会在雄安启动AI-eSIM团体标准编制，中国移动、电信、联通及腾讯云、阿里云等参与，旨在统一产业链交互范式。",
+        "市场监管总局发布互联网租赁自行车国家标准，要求车辆具唯一性编码并加装车载智能终端，规范运营服务全流程。"
+      ]
     },
     "part2": {
-      "finance": [],
+      "finance": [
+        "因克斯完成超3亿元B轮融资，中信金石、纳爱斯、苏创投等参投，老股东持续追投，加速具身智能硬件基础设施布局。",
+        "海柔创新9月13日更新港股上市申请，在手订单超41亿元，有望成为港股ACR第一股。"
+      ],
       "capital": [
-        "马斯克旗下X Corp.和SpaceXAI提交动议，撤回2025年针对苹果与OpenAI的数十亿美元反垄断诉讼，法官已批准。"
+        "马斯克旗下X Corp.和SpaceXAI提交动议，撤回2025年针对苹果与OpenAI的数十亿美元反垄断诉讼，法官已批准。",
+        "Meta对Instagram部分AI修图功能加付费限制，用户超出额度需订阅每月7.99美元的Meta One Core会员。"
       ],
       "chain": [
-        "苹果iOS/iPadOS 27共修复126个安全漏洞，含多个内核高风险问题，百度安全团队等中国开发者参与漏洞报告。",
-        "代码显示苹果新版Siri AI架构可接入Anthropic Claude、OpenAI GPT-5.6等第三方模型。"
+        "苹果iOS/iPadOS 27修复126个安全漏洞，含多个内核高风险问题，百度安全团队等中国开发者参与漏洞报告。",
+        "开发者挖掘iOS 27与macOS发现，苹果新版Siri AI架构可接入Anthropic Claude、OpenAI GPT-5.6等第三方模型。"
       ],
       "corp": [
-        "微星Claw 8 EX AI+掌机新增CG3M版本曝光，采用英特尔锐炫G3平台，最高90 INT8 TOPS，售价1499美元。",
-        "OpenAI联合创始人格雷格·布罗克曼在a16z采访中称，人类已迈入通用人工智能（AGI）时代。"
+        "白宫科技顾问萨克斯抨击Anthropic和OpenAI应自行制造安全AI产品，无需政府干预，并批评Anthropic CEO呼吁放缓AI发展的主张。",
+        "OpenAI联合创始人格雷格·布罗克曼在a16z采访中称，人类已迈入通用人工智能（AGI）时代。",
+        "微星Claw 8 EX AI+掌机新增CG3M版本曝光，采用英特尔锐炫G3平台，最高90 INT8 TOPS，售价1499美元。"
       ]
     },
     "date": "2026-09-15"
