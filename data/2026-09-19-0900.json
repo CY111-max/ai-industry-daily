@@ -1,0 +1,83 @@
+{
+  "id": "2026-09-19-0900",
+  "date": "2026-09-19",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-09-19T00:33:43.376Z",
+  "items": [
+    {
+      "id": "43a1ca85d7ab2df42220f1539bd937ec",
+      "title": "TP-Link 普联公布旗下首批 Wi-Fi 8 路由器，基于 IEEE 802.11bn 标准打造",
+      "source": "IT之家",
+      "time": "2026-09-19T00:14:31.000Z",
+      "url": "https://www.ithome.com/1/004/371.htm",
+      "digest": "TP-Link发布首批Wi-Fi 8产品Archer 8 Ultra与Deco 8 Ultra，基于IEEE 802.11bn标准，该标准仍在认证中。"
+    },
+    {
+      "id": "8e07d0c4bed4cf9ab71994fa258cf5bc",
+      "title": "传折叠屏 iPhone 维修费 8000 元，苹果：价格未公布；腾讯 Chatterfly 输入法开启内测；软高管：AI 训练是「人类历史上最大规模的劳动盗窃」｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-09-19T00:01:42.000Z",
+      "url": "http://www.geekpark.net/news/370608",
+      "digest": "谷歌Gemini 4 Pro疑似以gemini-3.8-flash名称偷跑，多项基准测试分数领先竞品，结果尚未获独立验证。"
+    },
+    {
+      "id": "b4e9341f3e31549bfbd3a03bbd7185cf",
+      "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
+      "source": "IT之家",
+      "time": "2026-09-18T23:13:06.000Z",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "digest": "《纽约时报》诉微软、OpenAI版权案中申请简易判决，提交内部材料，微软高管称训练AI是最大规模劳动窃取。"
+    },
+    {
+      "id": "a434d41ed209f31eaee8f577d820624b",
+      "title": "Claude Code 宣布添加支持“AI 通用说明书”AGENTS.md",
+      "source": "IT之家",
+      "time": "2026-09-18T22:45:05.000Z",
+      "url": "https://www.ithome.com/1/004/351.htm",
+      "digest": "Anthropic在Claude Code 2.1.277版本中新增对AGENTS.md的支持，为AI编程工具提供通用说明书格式。"
+    },
+    {
+      "id": "7ff77023a50304cbdc698554d7373b4e",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "source": "量子位",
+      "time": "2026-09-18T15:58:21.000Z",
+      "url": "https://www.qbitai.com/2026/09/492426.html",
+      "digest": "无问芯穹与专精特新企业华环电子签署战略合作，结合光网络与AI基础设施能力，探索国产异构算力方向。"
+    },
+    {
+      "id": "ac4f3ee1dcea887ccad29d74ed569725",
+      "title": "AI 时代的「4399」，可把我玩嗨了｜AI 上新",
+      "source": "极客公园",
+      "time": "2026-09-12T13:03:04.000Z",
+      "url": "http://www.geekpark.net/news/370227",
+      "digest": "Meta在美国推出Pocket，用户无需写代码即可用AI生成小游戏与工具并发布至信息流，供他人游玩和二次修改。"
+    }
+  ],
+  "briefing": {
+    "summary": "今日AI与智能制造资讯聚焦于网络设备、AI算力基础设施及版权争议。TP-Link发布首批Wi-Fi 8路由器，推动无线连接升级；无问芯穹与华环电子合作探索国产异构算力，助力AI基础设施自主化；微软高管内部言论曝光，引发AI训练版权风险关注；Claude Code新增AGENTS.md支持，提升AI编程工具标准化。整体看，硬件创新与算力自主化并进，但法律与伦理风险持续发酵。",
+    "part1": {
+      "launch": [
+        "TP-Link发布首批Wi-Fi 8路由器Archer 8 Ultra和Deco 8 Ultra，基于IEEE 802.11bn标准，该标准仍在认证中。"
+      ],
+      "line": [],
+      "risk": [
+        "微软高管内部称训练AI是“人类历史上最大规模劳动窃取”，在《纽约时报》诉微软、OpenAI版权案中曝光，加剧AI版权法律风险。"
+      ],
+      "policy": []
+    },
+    "part2": {
+      "finance": [],
+      "capital": [],
+      "chain": [
+        "无问芯穹与华环电子签署战略合作，结合光网络与AI基础设施能力，探索国产异构算力方向。"
+      ],
+      "corp": [
+        "Anthropic在Claude Code 2.1.277版本中新增对AGENTS.md的支持，为AI编程工具提供通用说明书格式。",
+        "Meta在美国推出Pocket，用户无需写代码即可用AI生成小游戏与工具并发布至信息流，供他人游玩和二次修改。"
+      ]
+    },
+    "date": "2026-09-19"
+  }
+}
