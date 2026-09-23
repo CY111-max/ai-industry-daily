@@ -1,0 +1,46 @@
+{
+  "id": "2026-09-24-2100",
+  "date": "2026-09-24",
+  "slot": "2100",
+  "slotLabel": "21:00",
+  "generation": "evening",
+  "updatedAt": "2026-09-23T17:25:38.870Z",
+  "items": [
+    {
+      "id": "e8323ae7c3fbe656f082002ff56e7cca",
+      "title": "Anthropic 工程师解释为何 Claude 写作变差：模型被训练成写给 AI 看而非写给人看",
+      "source": "IT之家",
+      "time": "2026-09-23T15:34:48.000Z",
+      "url": "https://www.ithome.com/1/006/510.htm",
+      "digest": "Anthropic 工程师克尼恩称，Claude 后续模型优化侧重数学与代码，并接受面向 AI 撰写技术解释的训练，导致写作能力下降。"
+    },
+    {
+      "id": "a5968fa9766f70171fe4b36312bce49d",
+      "title": "谷歌推出 Gemini 3.8 Flash / Flash-Lite 文本转语音模型，每一行台词都能精确控制",
+      "source": "IT之家",
+      "time": "2026-09-23T15:31:11.000Z",
+      "url": "https://www.ithome.com/1/006/509.htm",
+      "digest": "谷歌发布 Gemini 3.8 Flash 与 Flash-Lite 文本转语音模型，支持逐行台词精确控制，并用于 Gemini Notebook、Google"
+    }
+  ],
+  "briefing": {
+    "summary": "今日AI资讯偏模型能力与产品迭代：Anthropic承认Claude写作能力因训练侧重数学代码而下降，反映大模型优化取舍；谷歌发布Gemini 3.8 Flash/Flash-Lite文本转语音模型，支持逐行台词精确控制。智能制造与资本市场层面无直接落地、产线、投融资或政策动态，产业影响暂以技术演进观察为主。",
+    "part1": {
+      "launch": [],
+      "line": [],
+      "risk": [
+        "Anthropic工程师承认Claude后续模型因侧重数学与代码、面向AI撰写技术解释训练，导致写作能力下降，提示企业选型大模型时需关注能力退化风险。"
+      ],
+      "policy": []
+    },
+    "part2": {
+      "finance": [],
+      "capital": [],
+      "chain": [],
+      "corp": [
+        "谷歌发布Gemini 3.8 Flash与Flash-Lite文本转语音模型，支持逐行台词精确控制并接入Gemini Notebook等产品，为语音交互类智能硬件与内容生产工具提供新能力选项。"
+      ]
+    },
+    "date": "2026-09-24"
+  }
+}
