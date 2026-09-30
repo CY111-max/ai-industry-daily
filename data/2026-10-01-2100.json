@@ -1,0 +1,197 @@
+{
+  "id": "2026-10-01-2100",
+  "date": "2026-10-01",
+  "slot": "2100",
+  "slotLabel": "21:00",
+  "generation": "evening",
+  "updatedAt": "2026-09-30T16:31:20.290Z",
+  "items": [
+    {
+      "id": "cd0584ac7d73c50afd030801ba4c88e2",
+      "title": "Glow Security：AI 智能体无意间泄露企业敏感信息，超 1.3 万张截图被放在 GitHub 公开仓库",
+      "source": "IT之家",
+      "time": "2026-09-30T15:11:23.000Z",
+      "url": "https://www.ithome.com/1/008/938.htm",
+      "digest": "Glow Security发现多个AI智能体创建的公开GitHub仓库含超1.3万张截图，部分包含科技公司敏感信息。"
+    },
+    {
+      "id": "4dd89c5382ad40235b9c1690750e3b5d",
+      "title": "突发！苹果全新产品线曝光，Siri AI 进家门",
+      "source": "爱范儿",
+      "time": "2026-09-30T15:04:28.000Z",
+      "url": "https://www.ifanr.com/1682750?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "彭博社Mark Gurman称，苹果拟于10月13日发布Siri AI加持的智能家居中枢、新HomePod mini及Apple TV，重启智能家居产品线。"
+    },
+    {
+      "id": "3d1b08ccffbec0dc1be821d551922e9c",
+      "title": "OpenAI Dot 虚拟机配置曝光：AMD 霄龙 9V74 处理器 + 9.73GB 内存，Geekbench 7 多核 9435 分",
+      "source": "IT之家",
+      "time": "2026-09-30T15:03:39.000Z",
+      "url": "https://www.ithome.com/1/008/936.htm",
+      "digest": "OpenAI 在 DevDay 发布的 Dot 智能体运行于独立云端虚拟机，Geekbench 显示其搭载 AMD EPYC 9V74 处理器、9 核 9.73"
+    },
+    {
+      "id": "374beff89e3be08070ca09f970d49442",
+      "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度",
+      "source": "IT之家",
+      "time": "2026-09-30T14:13:22.000Z",
+      "url": "https://www.ithome.com/1/008/924.htm",
+      "digest": "美 FTC 加大对 Anthropic、OpenAI 等前沿 AI 实验室调查力度，拟下达类似传票的正式要求并传唤高管作证，彻查技术对消费者的潜在风险。"
+    },
+    {
+      "id": "56458f706d62912206406c04673c4eec",
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "source": "量子位",
+      "time": "2026-09-30T14:03:43.000Z",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "digest": "OpenAI研究员Noam Brown在访谈中称，AI解题能力沿每年十倍趋势增长，其进展快于他此前对2028年的预期。"
+    },
+    {
+      "id": "495f49f377d5df6dd70f1f4e55fdf5fc",
+      "title": "新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作",
+      "source": "IT之家",
+      "time": "2026-09-30T13:42:06.000Z",
+      "url": "https://www.ithome.com/1/008/917.htm",
+      "digest": "新思科技与亚马逊达成多年期定制芯片 IP 战略合作，总额超 10 亿美元，将以其芯片 IP 和 AI 工程软件加速亚马逊定制芯片与 AWS 基础设施研发。"
+    },
+    {
+      "id": "d0e8cf10099d6059d5a3d86f14d3118c",
+      "title": "B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言",
+      "source": "IT之家",
+      "time": "2026-09-30T13:24:53.000Z",
+      "url": "https://www.ithome.com/1/008/914.htm",
+      "digest": "B站 Index LLM 团队开源 Index-Translate 翻译模型家族，含 2B/9B/35B-A3B 文本模型，基于 Qwen3.5 构建，覆盖 1"
+    },
+    {
+      "id": "5ca1428de2d122a6dd7990f5ef256787",
+      "title": "新加坡一男子用 AI 生成鳄鱼侵袭水库照片被起诉，最高或面临 10 年监禁 +1 万新币罚款",
+      "source": "IT之家",
+      "time": "2026-09-30T13:01:44.000Z",
+      "url": "https://www.ithome.com/1/008/909.htm",
+      "digest": "新加坡男子 Ye Lin 因涉嫌用 AI 生成并传播鳄鱼侵袭水库图片被起诉，最高面临 10 年监禁及 1 万新币罚款。"
+    },
+    {
+      "id": "a4298058156e54313736d75ed0834a17",
+      "title": "蚂蚁百灵发布 Ling-3.1-flash 模型：约 560B 总参数、25B 激活参数",
+      "source": "IT之家",
+      "time": "2026-09-30T12:43:48.000Z",
+      "url": "https://www.ithome.com/1/008/907.htm",
+      "digest": "蚂蚁百灵发布 Ling-3.1-flash 模型，约 560B 总参数、每 Token 激活约 25B，上下文窗口上限 1M，可容纳更长文档、代码与任务历史。"
+    },
+    {
+      "id": "a0c8fb529cc6f402f11e33423969bf4c",
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "source": "量子位",
+      "time": "2026-09-30T12:11:24.000Z",
+      "url": "https://www.qbitai.com/2026/09/499605.html",
+      "digest": "直播回顾指出，晶圆切割到微纳尺度时，来料差异、表面纹理与型号变化会影响设备性能，常需工程师介入处理预警、停机与参数调整。"
+    },
+    {
+      "id": "9895ee7715fe38ad21b943404ebb1f1f",
+      "title": "AI办公进入「上下文战争」，百度如何出牌？",
+      "source": "雷峰网",
+      "time": "2026-09-30T11:50:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html",
+      "digest": "百度副总裁王颖称历史文件与同事对话均属上下文，百度依托文库、网盘十余年内容资产，推出GenFlow及独立端“库库AI”切入AI办公。"
+    },
+    {
+      "id": "acbf516a470d3c45cfc8b3ba9384d53c",
+      "title": "从 Codex Harness 开源，看 AI 公司的护城河是什么？",
+      "source": "雷峰网",
+      "time": "2026-09-30T08:24:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/HduKYmfhs2SeXQ39.html",
+      "digest": "OpenAI于8月19日开源Codex Harness，向更多开发者与企业开放Agent Runtime，此前由少数顶尖Agent产品掌握的Harness稀缺性"
+    },
+    {
+      "id": "4fed798f13d94448ad5a3db1cd807b11",
+      "title": "从海拉鲁到现实世界：视频模型如何理解「变化」",
+      "source": "雷峰网",
+      "time": "2026-09-30T08:09:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/NGx4Ckx3MbUWlIs3.html",
+      "digest": "文章以《塞尔达传说》为例，说明世界模型需从数据与交互中学习状态、行动与后果关系，而非仅追求更大规模视频生成。"
+    },
+    {
+      "id": "304e52e438aeac588ef49379aed86d50",
+      "title": "在三张圆明园鼠首照片里，我们看到了3D AI的Harness时刻",
+      "source": "雷峰网",
+      "time": "2026-09-30T07:57:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/wEE4RarEXO2oNfrH.html",
+      "digest": "实测用GPT-6 Astra在Codex中调度Aholo Lux3D，仅凭三张鼠首照片和自然语言指令生成可编辑3D资产，Blender负责检查与渲染。"
+    },
+    {
+      "id": "2a30afda48808e904f515c6d83c072a2",
+      "title": "世界制造业大会丨国轩高科重磅发布低空飞行高功率电池等三大创新成果",
+      "source": "雷峰网",
+      "time": "2026-09-30T07:53:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/DOdBNcP5frSITM4c.html",
+      "digest": "9月21日世界制造业大会上，国轩高科发布低空飞行高功率星晨电池、中欧非新能源物流一体化方案及零碳数字云平台，覆盖低空经济等赛道。"
+    },
+    {
+      "id": "65a0f220f80649e15a8339eca60ab87a",
+      "title": "越大越强，不再是 LLM 的专利：PixVerse R2 攻克实时世界模型 Scaling 难题",
+      "source": "雷峰网",
+      "time": "2026-09-30T07:53:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/qrkgXZRZeLOX4viW.html",
+      "digest": "爱诗科技推出实时世界模型PixVerse R2并全量上线，探索实时生成与通用能力兼顾的Scaling路径，区别于单纯放大视频生成模型。"
+    },
+    {
+      "id": "4d1120a5515e3580cb99056b8dc87afa",
+      "title": "Kimi 和 DeepSeek，为什么出现在同一张模型架构图里？",
+      "source": "雷峰网",
+      "time": "2026-09-30T07:45:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/S39sSkqntdgkDuJu.html",
+      "digest": "GLM-5.3-Flash配置文件显示，其45层架构中34层采用Kimi的KDA线性注意力，11层采用DeepSeek的KPool-DSA稀疏注意力。"
+    },
+    {
+      "id": "6c0d535617e8cfa1d4d42b8da6137871",
+      "title": "我们让 GPT‑6 Astra、Fable 5.1 和 Sol 控制同一台机器人：谁真的把活干完了？",
+      "source": "雷峰网",
+      "time": "2026-09-30T07:38:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/hfRMbwkVyjskWX3a.html",
+      "digest": "实测用GPT-6 Astra、Claude Fable 5.1和GPT-5.6 Sol控制同一云台机械臂，三者均完成任务，但执行路径、验证标准与成本差异明显。"
+    }
+  ],
+  "briefing": {
+    "summary": "今日AI与智能制造资讯聚焦安全风险与产业落地：Glow Security曝AI智能体泄露1.3万张敏感截图，FTC加大对OpenAI、Anthropic调查；苹果10月13日发布Siri AI智能家居中枢，新思科技与亚马逊签超10亿美元定制芯片协议，国轩高科发布低空飞行高功率电池。资本与产业链方面，B站开源150语种翻译模型，蚂蚁百灵发布560B参数Ling-3.1-flash，百度推GenFlow切入AI办公，工业AI在晶圆切割等场景仍需工程师介入。",
+    "part1": {
+      "launch": [
+        "苹果拟于10月13日发布Siri AI加持的智能家居中枢、新HomePod mini及Apple TV，重启智能家居产品线。",
+        "国轩高科在世界制造业大会发布低空飞行高功率星晨电池、中欧非新能源物流一体化方案及零碳数字云平台。",
+        "百度推出GenFlow及独立端“库库AI”，依托文库、网盘十余年内容资产切入AI办公上下文战争。",
+        "爱诗科技实时世界模型PixVerse R2全量上线，探索实时生成与通用能力兼顾的Scaling路径。"
+      ],
+      "line": [
+        "工业AI直播指出，晶圆切割到微纳尺度时来料差异、表面纹理与型号变化影响设备性能，常需工程师介入处理预警、停机与参数调整。",
+        "实测用GPT-6 Astra、Claude Fable 5.1和GPT-5.6 Sol控制同一云台机械臂，三者均完成任务但执行路径、验证标准与成本差异明显。",
+        "实测用GPT-6 Astra在Codex中调度Aholo Lux3D，仅凭三张鼠首照片和自然语言指令生成可编辑3D资产，Blender负责检查与渲染。"
+      ],
+      "risk": [
+        "Glow Security发现多个AI智能体创建的公开GitHub仓库含超1.3万张截图，部分包含科技公司敏感信息。",
+        "美国FTC加大对Anthropic、OpenAI等前沿AI实验室调查力度，拟下达类似传票的正式要求并传唤高管作证。",
+        "新加坡男子Ye Lin因涉嫌用AI生成并传播鳄鱼侵袭水库图片被起诉，最高面临10年监禁及1万新币罚款。"
+      ],
+      "policy": [
+        "美国FTC对Anthropic、OpenAI及其他AI实验室加大调查力度，彻查技术对消费者的潜在风险。"
+      ]
+    },
+    "part2": {
+      "finance": [
+        "新思科技与亚马逊签署多年期超10亿美元协议，推进定制芯片IP战略合作。"
+      ],
+      "capital": [
+        "OpenAI开源Codex Harness，向更多开发者与企业开放Agent Runtime，此前由少数顶尖Agent产品掌握的Harness稀缺性被打破。"
+      ],
+      "chain": [
+        "新思科技与亚马逊达成多年期超10亿美元定制芯片IP合作，将以其芯片IP和AI工程软件加速亚马逊定制芯片与AWS基础设施研发。",
+        "GLM-5.3-Flash配置文件显示，其45层架构中34层采用Kimi的KDA线性注意力，11层采用DeepSeek的KPool-DSA稀疏注意力。"
+      ],
+      "corp": [
+        "B站Index LLM团队开源Index-Translate翻译模型家族，含2B/9B/35B-A3B文本模型，基于Qwen3.5构建，覆盖150种语言。",
+        "蚂蚁百灵发布Ling-3.1-flash模型，约560B总参数、每Token激活约25B，上下文窗口上限1M。",
+        "OpenAI Dot智能体运行于独立云端虚拟机，搭载AMD EPYC 9V74处理器、9核9.73GB内存，Geekbench 7多核9435分。",
+        "OpenAI研究员Noam Brown称AI解题能力沿每年十倍趋势增长，进展快于其此前对2028年的预期。"
+      ]
+    },
+    "date": "2026-10-01"
+  }
+}
