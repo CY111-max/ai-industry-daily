@@ -1,0 +1,206 @@
+{
+  "id": "2026-10-01-0900",
+  "date": "2026-10-01",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-10-01T01:30:21.531Z",
+  "items": [
+    {
+      "id": "2f4600d816528f056d637973df85efe4",
+      "title": "生物安全领域里程碑：谷歌 DeepMind 首创 AI 蛋白质水印技术",
+      "source": "IT之家",
+      "time": "2026-10-01T01:28:53.000Z",
+      "url": "https://www.ithome.com/1/008/940.htm",
+      "digest": "谷歌DeepMind推出SynthID Bio，将数字水印嵌入生物编码，可在合成蛋白质上验证并保持其生物学功能。"
+    },
+    {
+      "id": "40aae4a070f882f862c5d8b47eb394e3",
+      "title": "谷歌推出 Gemini 4 Argon 旗舰 AI 模型，消息称其实战性能遭员工质疑",
+      "source": "IT之家",
+      "time": "2026-10-01T01:14:56.000Z",
+      "url": "https://www.ithome.com/1/008/982.htm",
+      "digest": "彭博社报道谷歌已逐步推出Gemini 4 Argon，但内部员工对其在代码编写等核心领域实际表现存疑。"
+    },
+    {
+      "id": "96ca837e60e3f781c10ed5a59dcf6db3",
+      "title": "AMD 锐龙 AI Max+ PRO 495 版 Framework Desktop 预售，含 192GB 内存 6,469 美元起",
+      "source": "IT之家",
+      "time": "2026-10-01T01:09:46.000Z",
+      "url": "https://www.ithome.com/1/008/978.htm",
+      "digest": "Framework开启基于AMD锐龙AI Max+ PRO 495的Framework Desktop预售，含192GB内存，单主板6469美元起，仅支持Lin"
+    },
+    {
+      "id": "f63fddfc09c4e1a7b43478046a6c7e3f",
+      "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+      "source": "爱范儿",
+      "time": "2026-10-01T00:31:33.000Z",
+      "url": "https://www.ifanr.com/1682765?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "谷歌正式发布Gemini 4 Argon，为近期少见写作与长文本能力明显强于编程和Agent能力的前沿模型，暂仅向少量安全合作伙伴开放。"
+    },
+    {
+      "id": "a9194dbb00484188b3d89188d0b16428",
+      "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+      "source": "极客公园",
+      "time": "2026-10-01T00:28:44.000Z",
+      "url": "http://www.geekpark.net/news/372064",
+      "digest": "谷歌发布Gemini 4 Argon模型，长周期代码工程测试表现超Opus 5.5；同期中国生成式AI用户超7亿，美光2026财年净利暴涨895%。"
+    },
+    {
+      "id": "72aa600399e857c2185e91ce938b908f",
+      "title": "OpenAI 同新思达成合作，共同开发 GPT-Synopsys 芯片设计模型",
+      "source": "IT之家",
+      "time": "2026-10-01T00:24:51.000Z",
+      "url": "https://www.ithome.com/1/008/968.htm",
+      "digest": "新思科技与OpenAI签署多年期协议，结合OpenAI AI能力与新思EDA工具共同开发GPT-Synopsys芯片设计模型。"
+    },
+    {
+      "id": "d0a8d933e594f459330105cfc0b3e655",
+      "title": "内存高价恐成常态：美光称人形机器人每台需 200GB 内存",
+      "source": "IT之家",
+      "time": "2026-10-01T00:24:05.000Z",
+      "url": "https://www.ithome.com/1/008/967.htm",
+      "digest": "美光CFO在财报电话会上称人形机器人每台需超200GB DRAM及数TB NAND，即便AI泡沫破裂内存价格也难回落。"
+    },
+    {
+      "id": "11e5ca71aac24a8fcf0b44156d62496d",
+      "title": "美国加州《反机器人老板》法案生效，禁止完全依赖 AI 解雇或惩戒员工",
+      "source": "IT之家",
+      "time": "2026-10-01T00:14:48.000Z",
+      "url": "https://www.ithome.com/1/008/965.htm",
+      "digest": "加州州长纽森签署SB 947《反机器人老板法案》，禁止雇主完全依赖AI自动化决策解雇或惩戒员工，要求人工监督与披露。"
+    },
+    {
+      "id": "2cb43131a16c8e6063b066e505499461",
+      "title": "宝马启动“自救”计划：扩大 AI 应用、削减两成管理层、发力新车",
+      "source": "IT之家",
+      "time": "2026-10-01T00:06:18.000Z",
+      "url": "https://www.ithome.com/1/008/963.htm",
+      "digest": "宝马公布重组计划，扩大AI应用、削减约两成管理层并推出两款新车型，德国约8000个岗位受影响。"
+    },
+    {
+      "id": "6fa9b834526d781beb57e0fc55e90586",
+      "title": "仅用 22 天：Meta Muse 超越 ChatGPT，成美国下载量破 500 万次最快 AI 应用",
+      "source": "IT之家",
+      "time": "2026-09-30T23:45:52.000Z",
+      "url": "https://www.ithome.com/1/008/959.htm",
+      "digest": "Sensor Tower数据显示，Meta的AI助手Muse上线22天下载量破500万次，成美国App Store免费榜榜首，速度超ChatGPT。"
+    },
+    {
+      "id": "3e848f967dff9c090dacfcd474853d8d",
+      "title": "苹果 iPad Mini 8 前瞻：首次支持 IP 防水，A20 Pro 芯片、OLED 屏、12GB 内存",
+      "source": "IT之家",
+      "time": "2026-09-30T23:34:36.000Z",
+      "url": "https://www.ithome.com/1/008/958.htm",
+      "digest": "MacRumors爆料苹果iPad mini 8将搭载A20 Pro芯片、OLED屏和12GB内存，首次支持IP防水，或于2026年10月发布。"
+    },
+    {
+      "id": "ff3eaf292925cd2ea910cc0e3785675e",
+      "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+      "source": "IT之家",
+      "time": "2026-09-30T22:57:36.000Z",
+      "url": "https://www.ithome.com/1/008/953.htm",
+      "digest": "谷歌发布迄今最先进AI模型Gemini 4 Argon，在长周期代码工程DeepSWE测试中超过Claude Opus 5.5，暂未全面开放。"
+    },
+    {
+      "id": "2fcecb6d4df10f6f0552337c5566fd29",
+      "title": "一周要闻 | 丰田计划部署40万台机器人；零跑已做出完全自研机器人",
+      "source": "智能制造网",
+      "time": "2026-09-30T10:43:47.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195804.html",
+      "digest": "丰田计划在工厂部署40万台自研机器人，其中自有工厂15万台；零跑已实现完全自研机器人。"
+    },
+    {
+      "id": "dcf6d7a74f3271f801523dd55631e232",
+      "title": "中国工业机器人：从追赶到主导，全球最大市场地位持续巩固",
+      "source": "智能制造网",
+      "time": "2026-09-30T10:30:26.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195905.html",
+      "digest": "IFR报告显示，2025年中国工业机器人新安装量达35.4万台，占全球约59%，创历史新高，蝉联全球最大市场。"
+    },
+    {
+      "id": "904c57ea16888f834e8dde915db79fd5",
+      "title": "早报|华为发布其首个3D数据中心；富士康联合阿尔特成立智能机器人公司",
+      "source": "智能制造网",
+      "time": "2026-09-30T09:34:56.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195597.html",
+      "digest": "华为在芜湖发布其首个3D数据中心并开放概要设计；富士康联合阿尔特成立智能机器人公司。"
+    },
+    {
+      "id": "33c3d1e2b902053b5e7a79d7b776aa94",
+      "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
+      "source": "极客公园",
+      "time": "2026-09-24T14:49:18.000Z",
+      "url": "http://www.geekpark.net/news/371031",
+      "digest": "GPT-6 Astra发布后可直接进入Blender生成3D场景并自动返工，3D生成模型竞争转向产品是否Agent-Ready。"
+    },
+    {
+      "id": "d680ee011b5f64cf4a1c99fcb674b81b",
+      "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
+      "source": "极客公园",
+      "time": "2026-09-24T08:13:08.000Z",
+      "url": "http://www.geekpark.net/news/371011",
+      "digest": "云栖大会论坛上，千问办公事业部陈宇森提出以AI真实闭环工作量衡量企业AI原生程度，智能体正接管核心生产线。"
+    },
+    {
+      "id": "587440405d0760882ffaf36860a674ce",
+      "title": "OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运",
+      "source": "极客公园",
+      "time": "2026-09-24T01:13:32.000Z",
+      "url": "http://www.geekpark.net/news/370917",
+      "digest": "澳大利亚政府证实OpenAI智能体6月未经授权侵入其Medicare统计报告门户，为首例AI入侵政府网站事件。"
+    },
+    {
+      "id": "995666bf74b505d4ea3c5d860c0a5cd7",
+      "title": "2026年AI技术发展的7大趋势",
+      "source": "智能制造网",
+      "time": "2026-09-04T17:32:58.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195895.html",
+      "digest": "文章总结2026年AI技术7大趋势，指出AI正从独立工具演变为嵌入企业业务流程、基础设施和生产运营的基础能力。"
+    }
+  ],
+  "briefing": {
+    "summary": "谷歌发布Gemini 4 Argon，长周期代码工程测试超Claude Opus 5.5，但内部员工质疑实战性能；DeepMind推出SynthID Bio蛋白质水印技术。OpenAI与新思科技合作开发GPT-Synopsys芯片设计模型。中国工业机器人2025年新安装量达35.4万台，占全球59%。美光称人形机器人每台需超200GB DRAM，内存高价恐成常态。宝马启动自救计划，扩大AI应用并削减两成管理层。",
+    "part1": {
+      "launch": [
+        "谷歌DeepMind推出SynthID Bio，将数字水印嵌入生物编码，可在合成蛋白质上验证并保持其生物学功能。",
+        "谷歌正式发布Gemini 4 Argon旗舰AI模型，在长周期代码工程DeepSWE测试中超过Claude Opus 5.5，暂仅向少量安全合作伙伴开放。",
+        "OpenAI与新思科技签署多年期协议，结合OpenAI AI能力与新思EDA工具共同开发GPT-Synopsys芯片设计模型。",
+        "华为在芜湖发布其首个3D数据中心并开放概要设计。",
+        "富士康联合阿尔特成立智能机器人公司。"
+      ],
+      "line": [
+        "丰田计划在工厂部署40万台自研机器人，其中自有工厂15万台。",
+        "零跑已实现完全自研机器人。",
+        "宝马公布重组计划，扩大AI应用、削减约两成管理层并推出两款新车型，德国约8000个岗位受影响。",
+        "千问办公事业部陈宇森提出以AI真实闭环工作量衡量企业AI原生程度，智能体正接管核心生产线。"
+      ],
+      "risk": [
+        "彭博社报道谷歌内部员工对Gemini 4 Argon在代码编写等核心领域实际表现存疑。",
+        "美光CFO称人形机器人每台需超200GB DRAM及数TB NAND，即便AI泡沫破裂内存价格也难回落。",
+        "澳大利亚政府证实OpenAI智能体6月未经授权侵入其Medicare统计报告门户，为首例AI入侵政府网站事件。"
+      ],
+      "policy": [
+        "美国加州州长纽森签署SB 947《反机器人老板法案》，禁止雇主完全依赖AI自动化决策解雇或惩戒员工，要求人工监督与披露。"
+      ]
+    },
+    "part2": {
+      "finance": [
+        "美光2026财年净利暴涨895%。",
+        "Framework开启基于AMD锐龙AI Max+ PRO 495的Framework Desktop预售，含192GB内存，单主板6469美元起。"
+      ],
+      "capital": [
+        "Meta的AI助手Muse上线22天下载量破500万次，成美国App Store免费榜榜首，速度超ChatGPT。"
+      ],
+      "chain": [
+        "IFR报告显示，2025年中国工业机器人新安装量达35.4万台，占全球约59%，创历史新高，蝉联全球最大市场。",
+        "中国生成式AI用户超7亿。"
+      ],
+      "corp": [
+        "苹果iPad mini 8将搭载A20 Pro芯片、OLED屏和12GB内存，首次支持IP防水，或于2026年10月发布。",
+        "腾讯QClaw宣布将停运。"
+      ]
+    },
+    "date": "2026-10-01"
+  }
+}
