@@ -84,3 +84,11 @@ test('loadBatchesInRange：区间含旧格式单文件批次（无 slot）', () 
   assert.equal(got[0].slot, null);
   fs.rmSync(dir, { recursive: true, force: true });
 });
+
+test('writeBriefing：id 不合规直接抛错，且不落盘', () => {
+  const dir = tmpData();
+  assert.throws(() => store.writeBriefing(dir, doc('not-a-date', 'a', 'b', 1)), /简报 id 不合规/);
+  assert.deepEqual(store.listBriefings(dir), []);
+  assert.equal(fs.existsSync(path.join(dir, 'briefings')), false, '校验应发生在建目录之前，不该留下空目录');
+  fs.rmSync(dir, { recursive: true, force: true });
+});

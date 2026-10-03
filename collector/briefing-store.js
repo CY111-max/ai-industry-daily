@@ -34,7 +34,15 @@ function listBriefIds(dataDir) {
     .reverse();
 }
 
-/** 列出全部简报的元信息（不含 briefing 正文），按覆盖结束日倒序 —— 最新在前。 */
+/**
+ * 列出全部简报的元信息（不含 briefing 正文），按覆盖结束日倒序 —— 最新在前。
+ *
+ * 规则：
+ * - 文件名是存储键（writeBriefing 就是按 id 命名的），文件里的 id 字段只是副本。
+ * - 万一两者不一致（手改过、或内容写坏了），以声明出来的 id 为准并校验。
+ * - 声明的 id 不合 YYYY-MM-DD 就整个跳过，与 readBriefing / writeBriefing 对不合规 id 的态度一致（前者返回 null，后者抛错）。
+ * - 目的：索引里不会混进前端无法按 id 取到的条目。
+ */
 function listBriefings(dataDir) {
   const out = [];
   for (const id of listBriefIds(dataDir)) {
