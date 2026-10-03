@@ -318,14 +318,19 @@ const SUB_LABELS = {
 
 /**
  * 挑出「某一批资讯该配哪份简报」。
- * 规则：取满足 to >= date 的**最早**一份 —— 也就是生成于该日期之后、且往回覆盖到它的那份。
- * 若批次比所有简报都新（没有 to >= date 的），退回最新一份。
+ * 规则：取满足 to > date 的**最早**一份 —— 也就是生成于该日期之后、且往回覆盖到它的那份。
+ * 若批次比所有简报都新（没有 to > date 的），退回最新一份。
  * briefings 为空 → null。
+ *
+ * 边界为什么用严格大于：一份简报的 id 就是它的生成日，而它的 to 也等于生成日。
+ * 所以 to == date 意味着「这份简报是在该批次当天生成的」—— 那天新生成的那份
+ * 属于以该日为起点的下一个周期（下一份的 from 正好等于这一份的 to）。
+ * 例：B1(to=9/2)、B2(to=10/2)，批次 9/2 → 命中 B2（覆盖 9/2~10/2），而不是 B1。
  */
 function pickBriefingFor(briefings, date) {
   const list = (briefings || []).slice().sort((a, b) => (a.to < b.to ? -1 : a.to > b.to ? 1 : 0));
   if (!list.length) return null;
-  return list.find((b) => b.to >= date) || list[list.length - 1];
+  return list.find((b) => b.to > date) || list[list.length - 1];
 }
 
 /** 距最新一份简报是否已满 intervalDays 天。从未生成过 → true。 */
@@ -1249,14 +1254,18 @@ git commit -m "ci: 采集改为每周一、周四三次兜底（北京 09:00）"
   const briefings = (index) => (index && Array.isArray(index.briefings) ? index.briefings : []);
 
   /**
-   * 挑出某批资讯该配哪份简报：取满足 to >= date 的最早一份
+   * 挑出某批资讯该配哪份简报：取满足 to > date 的最早一份
    * （即生成于该日期之后、且往回覆盖到它的那份）。
+   * 边界用严格大于：to == date 的那份属于以该日为起点的下一个周期。
    * 批次比所有简报都新 → 退回最新一份；没有简报 → null。
+   *
+   * 这段必须与 collector/briefing.js 的 pickBriefingFor 行为完全一致
+   * （单文件 H5 无构建步骤，没法 require Node 模块，只能各存一份）。
    */
   function pickBriefingFor(list, date) {
     const bs = (list || []).slice().sort((a, b) => (a.to < b.to ? -1 : a.to > b.to ? 1 : 0));
     if (!bs.length) return null;
-    return bs.find((b) => b.to >= date) || bs[bs.length - 1];
+    return bs.find((b) => b.to > date) || bs[bs.length - 1];
   }
 ```
 
