@@ -498,10 +498,20 @@ test('readBriefing：不存在 → null；文件名不合规不会被读到', ()
 });
 
 test('损坏的简报文件被跳过，不影响其他', () => {
+  // 两个损坏样本：一个是内容合法但声明的 id 不合规，一个是 JSON 本身坏掉。
+  // 前者的 fixture 还顺带把 briefings/ 目录建出来，好让下面那行原始写入有地方落。
   const dir = tmpData({ 'briefings/2026-09-01.json': { id: 'bad' } });
   fs.writeFileSync(path.join(dir, 'briefings', '2026-09-02.json'), '{ 坏 JSON', 'utf8');
   store.writeBriefing(dir, doc('2026-10-02', '2026-09-02', '2026-10-02', 5));
   assert.deepEqual(store.listBriefings(dir).map((b) => b.id), ['2026-10-02']);
+  fs.rmSync(dir, { recursive: true, force: true });
+});
+
+test('writeBriefing：id 不合规直接抛错，且不落盘', () => {
+  const dir = tmpData();
+  assert.throws(() => store.writeBriefing(dir, doc('not-a-date', 'a', 'b', 1)), /简报 id 不合规/);
+  assert.deepEqual(store.listBriefings(dir), []);
+  assert.equal(fs.existsSync(path.join(dir, 'briefings')), false, '校验应发生在建目录之前，不该留下空目录');
   fs.rmSync(dir, { recursive: true, force: true });
 });
 
@@ -575,14 +585,23 @@ function listBriefIds(dataDir) {
     .reverse();
 }
 
-/** 列出全部简报的元信息（不含 briefing 正文），按覆盖结束日倒序 —— 最新在前。 */
+/**
+ * 列出全部简报的元信息（不含 briefing 正文），按覆盖结束日倒序 —— 最新在前。
+ *
+ * id 的处理：文件名是存储键（writeBriefing 就是按 id 命名的），文件里的 id 字段只是副本。
+ * 万一两者不一致（手改过、或内容写坏了），以**声明出来的 id 为准并校验**：
+ * 声明的 id 不合 `YYYY-MM-DD` 就整个跳过，与 readBriefing / writeBriefing 对不合规 id 的态度一致
+ * （前者返回 null，后者抛错）。这样索引里不会混进前端无法按 id 取到的条目。
+ */
 function listBriefings(dataDir) {
   const out = [];
   for (const id of listBriefIds(dataDir)) {
     const d = readJson(fileOf(dataDir, id));
     if (!d) continue; // 单个文件损坏不影响其余
+    const docId = d.id || id;
+    if (!BRIEF_FILE_RE.test(`${docId}.json`)) continue; // 声明的 id 不合规，视为损坏，跳过
     out.push({
-      id: d.id || id,
+      id: docId,
       from: d.from || null,
       to: d.to || id,
       itemCount: d.itemCount || 0,
@@ -625,7 +644,7 @@ module.exports = { BRIEF_DIR, listBriefings, readBriefing, writeBriefing, loadBa
 - [ ] **Step 4: 跑测试，确认通过**
 
 Run: `npm test`
-Expected: 全部 PASS（Task 1 的 4 + Task 2 的 17 + 本任务 6 = 27）。
+Expected: 全部 PASS（Task 1 的 4 + Task 2 的 17 + 本任务 7 = 28）。
 
 - [ ] **Step 5: 提交**
 
@@ -799,7 +818,7 @@ module.exports = {
 - [ ] **Step 4: 跑测试，确认通过**
 
 Run: `npm test`
-Expected: 32 个用例全部 PASS。
+Expected: 33 个用例全部 PASS。
 
 - [ ] **Step 5: 改 config.js**
 
@@ -845,7 +864,7 @@ module.exports = {
 - [ ] **Step 6: 跑测试，确认仍然通过**
 
 Run: `npm test`
-Expected: 32 个用例全部 PASS（config 不影响测试）。
+Expected: 33 个用例全部 PASS（config 不影响测试）。
 
 - [ ] **Step 7: 提交**
 
@@ -1700,7 +1719,7 @@ git commit -m "docs: 同步频率、简报模型与数据格式说明"
 
 ## 完成后的验收（不写进任何任务，最后统一跑一遍）
 
-1. `npm test` —— 32 个用例全绿。
+1. `npm test` —— 33 个用例全绿。
 2. 完整跑一次带 key 的本地采集（或推送后手动 Run workflow），确认：
    - `data/briefings/` 下出现一份简报，`itemCount` 与窗口内去重后的条目数一致
    - `data/index.json` 里有 `briefings` 数组
