@@ -1,6 +1,7 @@
 'use strict';
 /** DeepSeek 调用：批量生成每条资讯的简短摘要 + 当日双板块简报。 */
 const { collapse } = require('./fetch-utils');
+const { toBriefingPayload, buildMergePayload } = require('./briefing');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -13,6 +14,13 @@ const BRIEFING_SYSTEM = `你是资深产业分析师。用户会给你某一天�
 ① part1 智能制造产业影响：launch(落地进展)、line(产线变化)、risk(机遇风险)、policy(政策)
 ② part2 市场与金融资本市场影响：finance(投融资)、capital(资本动向)、chain(产业链)、corp(企业机会风险)
 要求：每个要点一句话，尽量具体（公司名、金额、数字、产品），避免空泛套话；某子项当天确实无内容就给空数组；另写 summary 作为 80-120 字的当日总览。
+只输出 JSON，格式：{"summary":"","part1":{"launch":[],"line":[],"risk":[],"policy":[]},"part2":{"finance":[],"capital":[],"chain":[],"corp":[]}}`;
+
+const MERGE_SYSTEM = `你是资深产业分析师。用户会给你同一时间段内、分成若干段的「阶段简报」（每段含总览与要点，结构相同）。
+请把它们汇总成一份给手机阅读的「月度简报」，固定分为两大块：
+① part1 智能制造产业影响：launch(落地进展)、line(产线变化)、risk(机遇风险)、policy(政策)
+② part2 市场与金融资本市场影响：finance(投融资)、capital(资本动向)、chain(产业链)、corp(企业机会风险)
+要求：合并同类项、去掉重复、按重要性取舍，不要简单罗列；每个要点一句话，尽量具体（公司名、金额、数字、产品），避免空泛套话；某子项确实无内容就给空数组；另写 summary 作为 100-160 字的本期总览。
 只输出 JSON，格式：{"summary":"","part1":{"launch":[],"line":[],"risk":[],"policy":[]},"part2":{"finance":[],"capital":[],"chain":[],"corp":[]}}`;
 
 /** 调用 DeepSeek chat completions，返回字符串内容。 */
@@ -154,6 +162,40 @@ async function buildBriefing(cfg, items, date, { log = console.log } = {}) {
   return normalizeBriefing(parseJsonLoose(content), date, log);
 }
 
+/**
+ * 一级汇总：对一块条目生成「阶段简报」，输出结构与最终简报相同。
+ * chatFn 可注入，便于测试；生产环境用默认的 chat。
+ * 失败会抛出（chatFn/chat 的网络或 HTTP 错误不被吞掉），由调用方决定是跳过这一段还是整体放弃。
+ */
+async function buildChunkBriefing(cfg, items, label, { log = console.log, chatFn = chat } = {}) {
+  const content = await chatFn(
+    cfg,
+    [
+      { role: 'system', content: BRIEFING_SYSTEM },
+      { role: 'user', content: `时间段：${label}\n该段资讯：${JSON.stringify(toBriefingPayload(items))}` },
+    ],
+    { json: true, timeout: 120000 }
+  );
+  return normalizeBriefing(parseJsonLoose(content), label, log);
+}
+
+/**
+ * 二级汇总：把多份阶段简报合并成最终简报。
+ * 输入是已经压缩过的阶段简报（每段约 2500 字），9 段合计约 2.3 万字，
+ * 远低于一次调用塞 1800 条原始资讯的体积 —— 这就是必须分两级的原因。
+ */
+async function mergeBriefings(cfg, chunkBriefings, from, to, { log = console.log, chatFn = chat } = {}) {
+  const content = await chatFn(
+    cfg,
+    [
+      { role: 'system', content: MERGE_SYSTEM },
+      { role: 'user', content: `覆盖区间：${from} ~ ${to}\n各阶段简报：\n${buildMergePayload(chunkBriefings)}` },
+    ],
+    { json: true, timeout: 120000 }
+  );
+  return normalizeBriefing(parseJsonLoose(content), `${from}~${to}`, log);
+}
+
 /** 把模型输出规整成固定结构（缺项补空、非数组丢弃）。 */
 function normalizeBriefing(raw, date, log = console.log) {
   if (!raw || typeof raw !== 'object') return null;
@@ -184,4 +226,7 @@ function normalizeBriefing(raw, date, log = console.log) {
   return out;
 }
 
-module.exports = { chat, parseJsonLoose, summarizeItems, buildBriefing, normalizeBriefing, EMPTY_BRIEFING };
+module.exports = {
+  chat, parseJsonLoose, summarizeItems,
+  buildBriefing, buildChunkBriefing, mergeBriefings, normalizeBriefing, EMPTY_BRIEFING,
+};
