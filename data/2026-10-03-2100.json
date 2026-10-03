@@ -4,8 +4,80 @@
   "slot": "2100",
   "slotLabel": "21:00",
   "generation": "evening",
-  "updatedAt": "2026-10-02T16:21:45.259Z",
+  "updatedAt": "2026-10-03T14:51:44.007Z",
   "items": [
+    {
+      "id": "f088f50c1d7d3606567318467a790c82",
+      "title": "海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元",
+      "source": "IT之家",
+      "time": "2026-10-03T14:47:46.000Z",
+      "url": "https://www.ithome.com/1/009/576.htm",
+      "digest": "海马云推出haimacloud GEAR端云混合掌机，本地搭载高通骁龙865、Android 13，支持其云游戏服务，硬件首发价3149元。"
+    },
+    {
+      "id": "a978dd25ad80318c01058bb7b60654b2",
+      "title": "公安机关发布国庆假期安全提示：警惕机票退改签、冒充电商物流客服等电信网络诈骗",
+      "source": "IT之家",
+      "time": "2026-10-03T14:20:28.000Z",
+      "url": "https://www.ithome.com/1/009/573.htm",
+      "digest": "公安部刑侦局发布国庆假期安全提示，提醒公众警惕机票退改签、冒充电商物流客服等电信网络诈骗。"
+    },
+    {
+      "id": "e46a1b6b314e1c07cbc972f4b2bc13b3",
+      "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
+      "source": "IT之家",
+      "time": "2026-10-03T10:36:12.000Z",
+      "url": "https://www.ithome.com/1/009/527.htm",
+      "digest": "浙江推行“互联网+明厨亮灶”，19.5万家外卖商家接入系统，AI可自动识别后厨违规行为并推送监管人员督促整改。"
+    },
+    {
+      "id": "856c2a1337590973eadb251b099577a4",
+      "title": "再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万",
+      "source": "雷峰网",
+      "time": "2026-10-03T10:12:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
+      "digest": "爱奇艺、长信传媒出品的《灵魂摆渡》“浮生梦”系列AIGC网络故事片累计分账票房破1000万元，第三部10月1日上线带动增长。"
+    },
+    {
+      "id": "1ea45cd6ad4bd8d6b2deaa142511b4ba",
+      "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
+      "source": "IT之家",
+      "time": "2026-10-03T09:53:20.000Z",
+      "url": "https://www.ithome.com/1/009/521.htm",
+      "digest": "AMD向航天客户交付Versal AI Core XQRVC1902自适应SoC早期样品，采用航天级封装，满足15年太空任务可靠性要求。"
+    },
+    {
+      "id": "ce9608a4589cc56d589a8fb88ed1b16b",
+      "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
+      "source": "IT之家",
+      "time": "2026-10-03T09:18:12.000Z",
+      "url": "https://www.ithome.com/1/009/516.htm",
+      "digest": "华为官网显示，因业务调整，HarmonyOS 6.0推出的探索性智能体“小艺帮帮忙”将不再支持后续新增设备。"
+    },
+    {
+      "id": "1967ca8d69ca8beb91ab710720afafcb",
+      "title": "YouTube 调整 Shorts 短视频推荐算法：打击搬运内容、优先推荐原创作品",
+      "source": "IT之家",
+      "time": "2026-10-03T08:56:35.000Z",
+      "url": "https://www.ithome.com/1/009/511.htm",
+      "digest": "YouTube调整Shorts推荐算法，降低搬运其他创作者内容且无实质加工账号的曝光，优先推荐原创内容。"
+    },
+    {
+      "id": "beaf4d3d5f300f2173bbe84b4b33f276",
+      "title": "亚马逊推出 Strands Decider 2B 开源决策模型，支持本地部署",
+      "source": "IT之家",
+      "time": "2026-10-03T08:50:25.000Z",
+      "url": "https://www.ithome.com/1/009/509.htm",
+      "digest": "亚马逊Strands Agents团队开源Strands Decider 2B决策模型，基于Qwen3.5-2B改造，可在本地CPU/GPU运行。"
+    },
+    {
+      "id": "c522372a607370f702ef200d3f51417d",
+      "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "source": "爱范儿",
+      "time": "2026-10-03T07:00:20.000Z",
+      "url": "https://www.ifanr.com/1682888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "AI原生影视公司Utopai Studios自研模型Utopai X在Artificial Analysis带音频文生视频榜位列全球第二，为榜单最高排名美国公司"
+    },
     {
       "id": "2674a2b99258da69e507d82c6381e1a5",
       "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
@@ -56,33 +128,39 @@
     }
   ],
   "briefing": {
-    "summary": "今日AI与智能制造动态：Meta Muse智能体登陆智能眼镜，英伟达发布4999美元DGX Spark桌面AI超算，湖北扩大智能家居国补至机器人等品类，腾讯WorkBuddy独家接入Space Bunny模型，安全公司曝光macOS木马CloudSyncD，openJiuwen推出X-Router路由技术节省50%以上Token消耗。",
+    "summary": "今日AI与智能制造动态聚焦端侧算力与行业渗透：英伟达发布4999美元DGX Spark桌面AI超算，AMD航天级SoC出样，亚马逊开源2B决策模型；浙江19.5万外卖商家接入AI后厨识别，湖北国补扩至机器人等品类；资本端爱奇艺AIGC电影分账破千万，Utopai视频模型全球第二，腾讯独家接入Space Bunny大模型。",
     "part1": {
       "launch": [
-        "Meta宣布AI智能体Muse将登陆智能眼镜平台，基于Muse Spark模型，通过云端Linux虚拟机后台代用户执行任务。",
-        "英伟达正式发布64GB内存版DGX Spark桌面AI计算机，售价4999美元，10月23日发售，宏碁、戴尔、华硕等OEM将推整机。",
-        "腾讯WorkBuddy宣布国内独家接入匿名Flash大模型Space Bunny，支持1M上下文，10月2日至7日限时折扣。",
-        "openJiuwen首发X-Router自演进模型路由技术，适配昇腾，实测可减少50%以上Token消耗。"
+        "海马云推出haimacloud GEAR端云混合掌机，搭载高通骁龙865和Android 13，硬件首发价3149元，支持云游戏服务。",
+        "AMD向航天客户出样Versal AI Core XQRVC1902自适应SoC，采用航天级封装，满足15年太空任务可靠性要求。",
+        "亚马逊Strands Agents团队开源Strands Decider 2B决策模型，基于Qwen3.5-2B改造，可在本地CPU/GPU运行。",
+        "英伟达发布64GB内存版DGX Spark桌面AI计算机，售价4999美元，10月23日发售，宏碁、戴尔、华硕等将推整机。",
+        "Meta宣布AI智能体Muse将登陆智能眼镜平台，基于Muse Spark模型，通过云端Linux虚拟机代用户执行任务。"
       ],
-      "line": [],
+      "line": [
+        "浙江推行“互联网+明厨亮灶”，19.5万家外卖商家接入AI系统，可自动识别后厨违规行为并推送监管人员督促整改。"
+      ],
       "risk": [
-        "安全公司Jamf Threat Labs曝光新型macOS恶意木马CloudSyncD，伪装成Zoom安装程序，诱导用户关闭Gatekeeper并建立后门。"
+        "华为HarmonyOS 7.0调整“小艺帮帮忙”智能体功能，将不再支持后续新增设备，因业务调整。",
+        "安全公司Jamf Threat Labs曝光新型macOS木马CloudSyncD，伪装成Zoom安装程序，诱导用户关闭Gatekeeper并建立后门。"
       ],
       "policy": [
         "湖北扩大智能家居国补范围，新增机器人、数码相机、无人机、血压仪等品类，补贴15%，10月1日起实施。"
       ]
     },
     "part2": {
-      "finance": [],
-      "capital": [],
+      "finance": [
+        "爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片累计分账票房破1000万元，第三部10月1日上线带动增长。"
+      ],
+      "capital": [
+        "AI原生影视公司Utopai Studios自研模型Utopai X在Artificial Analysis带音频文生视频榜位列全球第二，为榜单最高排名美国公司。"
+      ],
       "chain": [
-        "英伟达DGX Spark发布将带动宏碁、戴尔、华硕等OEM厂商的桌面AI超算整机产业链。",
-        "openJiuwen X-Router技术适配昇腾，有望降低AI推理成本，促进昇腾生态发展。"
+        "openJiuwen首发X-Router自演进模型路由技术，适配昇腾，实测减少50%以上Token消耗。",
+        "腾讯WorkBuddy国内独家接入匿名Flash大模型Space Bunny，支持1M上下文，10月2日至7日限时折扣。"
       ],
       "corp": [
-        "Meta通过Muse智能体拓展智能眼镜平台应用场景，增强其AI助手竞争力。",
-        "腾讯WorkBuddy独家接入Space Bunny模型，提升其AI办公工具的市场吸引力。",
-        "英伟达推出4999美元DGX Spark，瞄准桌面AI超算市场，与OEM合作扩大销售渠道。"
+        "YouTube调整Shorts推荐算法，降低搬运内容曝光，优先推荐原创作品，打击无实质加工账号。"
       ]
     },
     "date": "2026-10-03"
