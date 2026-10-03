@@ -13,8 +13,12 @@ const SUB_LABELS = {
 /**
  * 挑出「某一批资讯该配哪份简报」。
  * 规则：取满足 to > date 的**最早**一份 —— 也就是生成于该日期之后、且往回覆盖到它的那份。
+ * 边界为什么用严格大于：一份简报的 id 就是它的生成日，而它的 to 也等于生成日。
+ * 所以 to == date 意味着「这份简报是在该批次当天生成的」—— 那天新生成的那份
+ * 属于以该日为起点的下一个周期（下一份的 from 正好等于这一份的 to）。
  * 若批次比所有简报都新（没有 to > date 的），退回最新一份。
  * briefings 为空 → null。
+ * （前端 index.html 的 LIB.pickBriefingFor 是同一逻辑的副本，改动须两处同步。）
  */
 function pickBriefingFor(briefings, date) {
   const list = (briefings || []).slice().sort((a, b) => (a.to < b.to ? -1 : a.to > b.to ? 1 : 0));

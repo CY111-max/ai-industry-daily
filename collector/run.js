@@ -43,13 +43,11 @@ const log = (...a) => console.log(...a);
 const beijingNow = () => new Date(Date.now() + 8 * 3600 * 1000);
 const beijingDate = (d = beijingNow()) => d.toISOString().slice(0, 10);
 
-/** 两个批次的元信息。 */
+/** 现在一个采集日只有一个批次，slot 恒为 0900（仅用于保持文件名兼容）。 */
 const SLOT_INFO = {
   '0900': { label: '09:00', generation: 'morning' },
-  '2100': { label: '21:00', generation: 'evening' },
 };
-/** 兜底推断批次（手动 dispatch 未传 --slot 时用）：15 点前算早报，之后算晚报。 */
-const slotOf = (d = beijingNow()) => (d.getUTCHours() < 15 ? '0900' : '2100');
+const slotOf = () => '0900';
 
 // ---------- 工具 ----------
 function readJson(file) {
@@ -244,15 +242,20 @@ async function maybeGenerateBriefing(useAI) {
     }
   }
 
-  briefingStore.writeBriefing(cfg.dataDir, {
-    id: to,
-    from,
-    to,
-    generatedAt: now.toISOString(),
-    itemCount: total,
-    batchCount: chunks.length,
-    briefing: final,
-  });
+  try {
+    briefingStore.writeBriefing(cfg.dataDir, {
+      id: to,
+      from,
+      to,
+      generatedAt: now.toISOString(),
+      itemCount: total,
+      batchCount: batches.length,
+      briefing: final,
+    });
+  } catch (err) {
+    log(`  [简报] 写入失败（本次不落盘，下次采集会重试）：${err.message}`);
+    return;
+  }
   log(`[简报] 已写入 briefings/${to}.json（覆盖 ${from} ~ ${to}，${total} 条）`);
 }
 
@@ -260,7 +263,7 @@ async function maybeGenerateBriefing(useAI) {
 async function main() {
   const date = opt.date || beijingDate();
   const slot = opt.slot || slotOf();
-  if (!SLOT_INFO[slot]) throw new Error(`未知批次：${slot}（只支持 0900 / 2100）`);
+  if (!SLOT_INFO[slot]) throw new Error(`未知批次：${slot}（只支持 0900）`);
   const batchId = `${date}-${slot}`;
   const useAI = !opt.dryRun && !!cfg.deepseek.apiKey;
   log(`=== 批次 ${batchId}（${SLOT_INFO[slot].label}）${opt.dryRun ? ' [dry-run]' : useAI ? '' : ' [无 AI key，跳过摘要/简报]'} ===`);

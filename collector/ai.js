@@ -137,31 +137,6 @@ async function summarizeItems(cfg, items, { chunkSize = 12, textLimit = 500, log
   return digests;
 }
 
-const EMPTY_BRIEFING = {
-  summary: '',
-  part1: { launch: [], line: [], risk: [], policy: [] },
-  part2: { finance: [], capital: [], chain: [], corp: [] },
-};
-
-/** 生成当日双板块简报（结构化对象）。失败返回 null，由调用方决定是否保留旧简报。 */
-async function buildBriefing(cfg, items, date, { log = console.log } = {}) {
-  const payload = items.map((it) => ({
-    title: it.title,
-    source: it.source,
-    digest: it.digest || '',
-    date: it.time ? it.time.slice(0, 10) : '',
-  }));
-  const content = await chat(
-    cfg,
-    [
-      { role: 'system', content: BRIEFING_SYSTEM },
-      { role: 'user', content: `日期：${date}\n当日资讯：${JSON.stringify(payload)}` },
-    ],
-    { json: true, timeout: 120000 }
-  );
-  return normalizeBriefing(parseJsonLoose(content), date, log);
-}
-
 /**
  * 一级汇总：对一块条目生成「阶段简报」，输出结构与最终简报相同。
  * chatFn 可注入，便于测试；生产环境用默认的 chat。
@@ -228,5 +203,5 @@ function normalizeBriefing(raw, date, log = console.log) {
 
 module.exports = {
   chat, parseJsonLoose, summarizeItems,
-  buildBriefing, buildChunkBriefing, mergeBriefings, normalizeBriefing, EMPTY_BRIEFING,
+  buildChunkBriefing, mergeBriefings, normalizeBriefing,
 };

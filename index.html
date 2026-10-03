@@ -273,7 +273,7 @@ const LIB = (function () {
     const d = new Date(`${dateStr}T00:00:00Z`);
     return isNaN(d) ? '' : WEEK[d.getUTCDay()];
   }
-  /* ---- 批次（每天 09:00 / 21:00 各一份全量快照） ---- */
+  /* ---- 批次（每周一、周四各一份纯增量，slot 恒为 0900） ---- */
 
   /** index → 批次数组（新的在前）。兼容早期只有 dates 的旧格式。 */
   function batches(index) {
