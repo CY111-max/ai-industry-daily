@@ -6,7 +6,8 @@
   "scripts": {
     "collect": "node collector/run.js",
     "collect:dry": "node collector/run.js --dry-run",
-    "serve": "node serve.js"
+    "serve": "node serve.js",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=18"

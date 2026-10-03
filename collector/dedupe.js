@@ -54,10 +54,12 @@ function listBatches(dataDir) {
 
 /**
  * 收集近 windowDays 天内已收录的 id（用于跨天、跨批次去重）。
+ * 窗口取 14 天：采集频率是每周两次，漏跑一次就是 6 天空窗，
+ * 原来 7 天的窗口在连续两次失败时会漏收资讯。
  * 注意：**不排除**任何批次——同一个批次重复运行时应只捞到「真正新增」的条目，
- * 已有条目由 run.js 的批次底稿（全量快照）负责带过来。
+ * 已有条目由 run.js 读本批次自己的文件负责带过来。
  */
-function loadSeenIds(dataDir, { windowDays = 7, now = new Date() } = {}) {
+function loadSeenIds(dataDir, { windowDays = 14, now = new Date() } = {}) {
   const ids = new Set();
   for (const b of listBatches(dataDir)) {
     const ageDays = (now - new Date(`${b.date}T00:00:00Z`)) / 86400000;
