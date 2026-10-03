@@ -85,6 +85,7 @@
   mark.on{background:#ffe08a;font-weight:600;border-radius:3px;padding:0 1px}
 
   /* 简报 */
+  .brief-range{font-size:12px;color:var(--ink3);margin-bottom:8px}
   .brief-sum{font-size:14.5px;line-height:1.75}
   .part{margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
   .part:first-of-type{border-top:0;padding-top:0}
@@ -216,6 +217,7 @@ const LIB = (function () {
   const KEY_DAY = 'aid_day_';
   const KEY_SEL = 'aid_sel';
   const KEY_CUSTOM = 'aid_custom';
+  const KEY_BRIEF = 'aid_brief_';
 
   const readCache = (k) => { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch { return null; } };
   const writeCache = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} };
@@ -283,6 +285,24 @@ const LIB = (function () {
   const slotText = (slot) => (slot ? `${slot.slice(0, 2)}:${slot.slice(2)}` : '全天');
   const batchLabel = (b) => (b ? `${fmtDate(b.date)} ${slotText(b.slot)}` : '—');
 
+  /** index.json 里的简报元信息数组（没有则空）。 */
+  const briefings = (index) => (index && Array.isArray(index.briefings) ? index.briefings : []);
+
+  /**
+   * 挑出某批资讯该配哪份简报：取满足 to > date 的最早一份
+   * （即生成于该日期之后、且往回覆盖到它的那份）。
+   * 边界用严格大于：to == date 的那份属于以该日为起点的下一个周期。
+   * 批次比所有简报都新 → 退回最新一份；没有简报 → null。
+   *
+   * 这段必须与 collector/briefing.js 的 pickBriefingFor 行为完全一致
+   * （单文件 H5 无构建步骤，没法 require Node 模块，只能各存一份）。
+   */
+  function pickBriefingFor(list, date) {
+    const bs = (list || []).slice().sort((a, b) => (a.to < b.to ? -1 : a.to > b.to ? 1 : 0));
+    if (!bs.length) return null;
+    return bs.find((b) => b.to > date) || bs[bs.length - 1];
+  }
+
   function fmtStamp(iso) {
     if (!iso) return '';
     const bj = new Date(new Date(iso).getTime() + 8 * 3600 * 1000);
@@ -327,10 +347,10 @@ const LIB = (function () {
 
   return {
     PRESET, SUB_LABELS, PART_TITLES,
-    KEY_INDEX, KEY_DAY, KEY_SEL, KEY_CUSTOM,
+    KEY_INDEX, KEY_DAY, KEY_SEL, KEY_CUSTOM, KEY_BRIEF,
     readCache, writeCache, allWords, defOf, matchWords, heat, filterItems,
     fmtTime, fmtDate, weekOf, fmtStamp, esc, highlight, briefingText,
-    batches, latestBatch, slotText, batchLabel,
+    batches, latestBatch, slotText, batchLabel, briefings, pickBriefingFor,
   };
 })();
 
@@ -346,6 +366,8 @@ const LIB = (function () {
     selected: LIB.readCache(LIB.KEY_SEL) || [],
     custom: LIB.readCache(LIB.KEY_CUSTOM) || [],
     offline: false,
+    briefId: null,    // 当前正在展示的简报 id
+    briefDoc: null,   // 对应的简报正文（用于复制）
   };
   const DATA_BASE = new URLSearchParams(location.search).get('base') || 'data/';
   const bust = () => `?t=${Date.now()}`;
@@ -372,13 +394,16 @@ const LIB = (function () {
     return state.index;
   }
 
-  /** 本机只保留最近 7 个批次快照，避免 localStorage 越用越满。 */
+  /** 本机只保留最近 7 个批次快照 + 最近 12 份简报，避免 localStorage 越用越满。 */
   function pruneCache() {
-    const keep = new Set(LIB.batches(state.index).slice(0, 7).map((b) => LIB.KEY_DAY + b.id));
+    const keepDays = new Set(LIB.batches(state.index).slice(0, 7).map((b) => LIB.KEY_DAY + b.id));
+    const keepBriefs = new Set(LIB.briefings(state.index).slice(0, 12).map((b) => LIB.KEY_BRIEF + b.id));
     const drop = [];
     for (let i = 0; i < localStorage.length; i++) {
       const k = localStorage.key(i);
-      if (k && k.startsWith(LIB.KEY_DAY) && !keep.has(k)) drop.push(k);
+      if (!k) continue;
+      if (k.startsWith(LIB.KEY_DAY) && !keepDays.has(k)) drop.push(k);
+      else if (k.startsWith(LIB.KEY_BRIEF) && !keepBriefs.has(k)) drop.push(k);
     }
     drop.forEach((k) => localStorage.removeItem(k));
   }
@@ -510,14 +535,56 @@ const LIB = (function () {
     }
   }
 
-  function renderBriefing() {
+  let briefSeq = 0;
+  /** 当前批次该配哪份简报的元信息（没有则 null）。 */
+  function targetBriefing() {
+    const day = state.day || {};
+    return LIB.pickBriefingFor(LIB.briefings(state.index), day.date || '');
+  }
+
+  async function renderBriefing() {
     const el = $('briefing');
-    const b = state.day && state.day.briefing;
-    if (!b) {
-      el.innerHTML = '<div class="empty">该批次尚未生成简报<br><span style="font-size:12px">每日 09:00 与 21:00（北京时间）自动生成</span></div>';
+    const meta = targetBriefing();
+    if (!meta) {
+      state.briefId = null; state.briefDoc = null;
+      el.innerHTML = '<div class="empty">当时尚未生成简报<br><span style="font-size:12px">每 30 天生成一份，覆盖最近 30 天</span></div>';
       return;
     }
-    let html = b.summary ? `<div class="brief-sum">${LIB.esc(b.summary)}</div>` : '';
+    if (state.briefId === meta.id && state.briefDoc) return;   // 已经画过同一份，不重复请求
+
+    const cached = LIB.readCache(LIB.KEY_BRIEF + meta.id);
+    if (cached) {
+      state.briefId = meta.id; state.briefDoc = cached;
+      paintBriefing(meta, cached);
+      return;
+    }
+
+    const seq = ++briefSeq;
+    el.innerHTML = '<div class="empty">简报加载中…</div>';
+    try {
+      const doc = await fetchJson(`briefings/${meta.id}.json`);
+      LIB.writeCache(LIB.KEY_BRIEF + meta.id, doc);
+      if (seq !== briefSeq) return;   // 期间用户已切到别的批次
+      state.briefId = meta.id; state.briefDoc = doc;
+      paintBriefing(meta, doc);
+    } catch {
+      if (seq !== briefSeq) return;
+      el.innerHTML = '<div class="empty">简报加载失败，点右上角刷新重试</div>';
+    }
+  }
+
+  /** 画简报：顶部标出覆盖区间，正文结构不变。 */
+  function paintBriefing(meta, doc) {
+    const el = $('briefing');
+    const b = doc && doc.briefing;
+    if (!b) {
+      el.innerHTML = '<div class="empty">本期简报内容为空</div>';
+      return;
+    }
+    let html = meta
+      ? `<div class="brief-range">覆盖 ${LIB.fmtDate(meta.from)} ~ ${LIB.fmtDate(meta.to)} · 共 ${meta.itemCount} 条资讯</div>`
+      : '';
+    html += b.summary ? `<div class="brief-sum">${LIB.esc(b.summary)}</div>` : '';
     for (const part of ['part1', 'part2']) {
       const block = b[part];
       if (!block) continue;
@@ -536,8 +603,11 @@ const LIB = (function () {
   }
 
   async function copyBriefing() {
-    const day = state.day || {};
-    const txt = LIB.briefingText(`${LIB.batchLabel(day)}`.trim() || day.date, day.briefing);
+    const doc = state.briefDoc || {};
+    const meta = targetBriefing();
+    const label = meta ? `${LIB.fmtDate(meta.from)} ~ ${LIB.fmtDate(meta.to)}` : '';
+    const txt = LIB.briefingText(label, doc.briefing);
+    if (!txt) return toast('暂无可复制的简报');
     try {
       await navigator.clipboard.writeText(txt);
       toast('已复制简报全文');
