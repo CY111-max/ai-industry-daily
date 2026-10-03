@@ -1348,6 +1348,10 @@ git commit -m "ci: 采集改为每周一、周四三次兜底（北京 09:00）"
   }
 
   async function renderBriefing() {
+    // 每次进入都先把序号 +1，作废任何还在途中的旧请求。
+    // 不能只在「发起网络请求」时 +1：缓存命中 / 空态 / 已画过同一份这些提前 return 的分支
+    // 也必须作废旧请求，否则用户切到别的批次后，旧请求回来仍会把它画上去盖掉当前简报。
+    const seq = ++briefSeq;
     const el = $('briefing');
     const meta = targetBriefing();
     if (!meta) {
@@ -1364,7 +1368,6 @@ git commit -m "ci: 采集改为每周一、周四三次兜底（北京 09:00）"
       return;
     }
 
-    const seq = ++briefSeq;
     el.innerHTML = '<div class="empty">简报加载中…</div>';
     try {
       const doc = await fetchJson(`briefings/${meta.id}.json`);
