@@ -61,9 +61,13 @@
     "collect": "node collector/run.js",
     "collect:dry": "node collector/run.js --dry-run",
     "serve": "node serve.js",
-    "test": "node --test test/"
+    "test": "node --test"
   },
 ```
+
+> 注意：**不能**写成 `node --test test/`。实测在 Node 24.16.0 上带路径参数会把 `test` 当文件解析并报 `MODULE_NOT_FOUND`。
+> 不带参数的 `node --test` 用内置的默认发现规则（`**/*.test.js` 与 `test/**/*.js`），Node 18/20/24 都可用，
+> 本项目里也只会扫到 `test/*.test.js` 这几个文件。
 
 - [ ] **Step 2: 写失败的测试**
 
