@@ -668,7 +668,7 @@ git commit -m "feat: 简报存储层（永久保存，不参与清理）"
   - `buildChunkBriefing(cfg, items, label, { log = console.log, chatFn = chat }) → briefing | null`
   - `mergeBriefings(cfg, chunkBriefings, from, to, { log = console.log, chatFn = chat }) → briefing | null`
   - `cfg.briefingIntervalDays: number`（默认 30）
-  - `cfg.briefingChunkMax: number`（默认 200）
+  - `cfg.briefingChunkMax: number`（默认 180，取值理由见 Step 5 的注释）
   - `cfg.retentionDays` 默认 30 → 90
 
 `chatFn` 参数是为了让这两个函数可以在测试里注入假的大模型调用，不必打网络。现有的 `buildBriefing` 不动。
