@@ -988,8 +988,12 @@ async function maybeGenerateBriefing(useAI) {
     return;
   }
 
-  const to = beijingDate(now);
-  const from = beijingDate(new Date(now.getTime() - cfg.briefingIntervalDays * 86400000));
+  // 注意：beijingDate(d) 取的是 d 的 UTC 字段，所以必须传「已偏移 +8h 的 Date」。
+  // 传裸的 new Date() 会得到 UTC 日期——北京时间 00:00~08:00 之间会比北京日期早一天，
+  // 覆盖区间和简报文件名都会错。
+  const nowBJ = beijingNow();
+  const to = beijingDate(nowBJ);
+  const from = beijingDate(new Date(nowBJ.getTime() - cfg.briefingIntervalDays * 86400000));
   const batches = briefingStore.loadBatchesInRange(cfg.dataDir, from, to);
   const { chunks, total } = briefing.planChunks(batches, cfg.briefingChunkMax);
   if (!chunks.length) {
@@ -1054,6 +1058,10 @@ async function maybeGenerateBriefing(useAI) {
   const baseItems = own.items;
   log(`[底稿] ${own.exists ? `本批次已有 ${baseItems.length} 条` : '新批次，从零开始'}`);
 ```
+
+原第 0 步末尾那行 `const fileExists = !!readJson(batchFile(batchId));` **删掉** ——
+它和 `own.exists` 是同一件事（`loadOwn` 内部就是读同一个文件），留着会变成没人用的变量，
+而且两处判断可能不一致。第 7 步改用 `own.exists`。
 
 第 2 步（去重窗口）：
 
