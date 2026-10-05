@@ -1,0 +1,202 @@
+{
+  "id": "2026-10-05-0900",
+  "date": "2026-10-05",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-10-05T01:16:53.521Z",
+  "items": [
+    {
+      "id": "f3741be65aebeaa4fd88713a9da34c59",
+      "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+      "source": "IT之家",
+      "time": "2026-10-05T01:08:27.000Z",
+      "url": "https://www.ithome.com/1/009/755.htm",
+      "digest": "Meta个人助手Muse被曝可深度分析用户社交关系，并为每位联系人建立个人档案。"
+    },
+    {
+      "id": "c308985fa64386ca2beae4ab887b8ffb",
+      "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
+      "source": "IT之家",
+      "time": "2026-10-05T01:02:06.000Z",
+      "url": "https://www.ithome.com/1/009/754.htm",
+      "digest": "奥尔特曼称AI巨大效益值得承担部分风险，与Anthropic在监管上存在根本分歧。"
+    },
+    {
+      "id": "cf5ee3dc357bc620d558bc5c637212b8",
+      "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
+      "source": "IT之家",
+      "time": "2026-10-05T00:50:23.000Z",
+      "url": "https://www.ithome.com/1/009/751.htm",
+      "digest": "彭博行业研究称DeepSeek等中国模型进步，中美顶尖模型LiveBench跑分差距缩至3%。"
+    },
+    {
+      "id": "3801536b63a78d37f9942ed395b204e4",
+      "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+      "source": "IT之家",
+      "time": "2026-10-05T00:15:29.000Z",
+      "url": "https://www.ithome.com/1/009/746.htm",
+      "digest": "机器人通用大脑公司FieldAI拟融资7亿美元，投后估值达100亿美元。"
+    },
+    {
+      "id": "28867ce5e7474a401966a3e436062df6",
+      "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+      "source": "IT之家",
+      "time": "2026-10-05T00:14:05.000Z",
+      "url": "https://www.ithome.com/1/009/745.htm",
+      "digest": "OpenAI现役代码模型GPT-6 Sol Codex被破解，30万字系统提示词泄露。"
+    },
+    {
+      "id": "48da314e2da034c1a4305b26d78e2406",
+      "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
+      "source": "IT之家",
+      "time": "2026-10-05T00:06:48.000Z",
+      "url": "https://www.ithome.com/1/009/744.htm",
+      "digest": "TypeSafe AI决策模型Jev日处理量达1万亿Token，硅谷巨头火速跟进复刻。"
+    },
+    {
+      "id": "ec5b8638ae85a9d06b893537f09f8b0e",
+      "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+      "source": "IT之家",
+      "time": "2026-10-05T00:00:33.000Z",
+      "url": "https://www.ithome.com/1/009/743.htm",
+      "digest": "Meta开源Muse Gadgets项目，按Apache 2.0发布ESP32固件和Linux设备SDK，开发者可用ESP32或树莓派为个人AI智能体Muse打"
+    },
+    {
+      "id": "cc01c630db16e57a12d2d76143be7cf4",
+      "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+      "source": "IT之家",
+      "time": "2026-10-04T23:49:22.000Z",
+      "url": "https://www.ithome.com/1/009/742.htm",
+      "digest": "IT早报汇总：乐山大佛养护视频被证实为AI合成；央视曝光外卖明厨亮灶造假；余承东称华为已量产381款τ芯片；马斯克确认SpaceXAI将更名。"
+    },
+    {
+      "id": "d17b55410e75b4229c73ba8f34115829",
+      "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+      "source": "IT之家",
+      "time": "2026-10-04T23:40:33.000Z",
+      "url": "https://www.ithome.com/1/009/741.htm",
+      "digest": "美国司法部指控38岁嫌疑人Greg Lui用虚假文件走私含受管制英伟达芯片的服务器，货值超3亿美元，目的地为中国，其已被捕。"
+    },
+    {
+      "id": "2973b854fb53eb52f42f4aef19077db8",
+      "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
+      "source": "IT之家",
+      "time": "2026-10-04T23:26:12.000Z",
+      "url": "https://www.ithome.com/1/009/739.htm",
+      "digest": "Kurnal Insights发布华为麒麟9050 Pro裸片显微照，显示其由两颗裸片垂直堆叠，晶体管密度提升55%，面积小于前代，为韬定律逻辑折叠技术首次商用"
+    },
+    {
+      "id": "9a3cac3e34f9adcde45e1041ef4981ae",
+      "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
+      "source": "IT之家",
+      "time": "2026-10-04T15:22:56.000Z",
+      "url": "https://www.ithome.com/1/009/736.htm",
+      "digest": "机器人格斗公司REK在旧金山举办真人与机器人笼斗赛，因未取得许可被加州州立体育委员会叫停，该赛事由油管博主与三台机器人对战。"
+    },
+    {
+      "id": "3df297808fd08a86419ae9ab51280773",
+      "title": "消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响",
+      "source": "IT之家",
+      "time": "2026-10-04T14:59:48.000Z",
+      "url": "https://www.ithome.com/1/009/734.htm",
+      "digest": "微软推行仿生计划，重新规划20多个数据中心周边土地，恢复湿地生态、种植本土植物，并用Ecosystem Intelligence工具评估水质与生物多样性。"
+    },
+    {
+      "id": "330a6be9146d9ef17d31b15f6754b7f4",
+      "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
+      "source": "IT之家",
+      "time": "2026-10-04T13:20:18.000Z",
+      "url": "https://www.ithome.com/1/009/728.htm",
+      "digest": "乐山大佛文物保护管委会回应网传养护作业视频，称其系他人AI生成，非真实场景，佛耳内并无杂物，景区也无猴子。"
+    },
+    {
+      "id": "b30f95b2ab5fcd8899bd6f90ae782aa1",
+      "title": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
+      "source": "极客公园",
+      "time": "2026-10-04T11:41:48.000Z",
+      "url": "http://www.geekpark.net/news/372081",
+      "digest": "上海初创StartLux发布开源决策模型StartLux-Decision，宣称评测超Jev，掌舵人为陈大年。"
+    },
+    {
+      "id": "4e4a4d1976adec058b751741d2e090ef",
+      "title": "雷柏 VT2/2s MAX V2 版鼠标开启预约：PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，329 元",
+      "source": "IT之家",
+      "time": "2026-10-04T11:14:52.000Z",
+      "url": "https://www.ithome.com/1/009/696.htm",
+      "digest": "雷柏VT2 MAX V2与VT2s MAX V2无线游戏鼠标在京东开启预约，搭载PAW 3955 Ultimate传感器和Nordic 54LM20主控，定价3"
+    },
+    {
+      "id": "c17fd5e00cff0080eb15253119a5f64e",
+      "title": "关于开展2026年度上海市先进级智能工厂申报工作的通知",
+      "source": "智能制造网",
+      "time": "2026-10-04T10:16:15.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196066.html",
+      "digest": "上海市经济信息化委发布通知，开展2026年度上海市先进级智能工厂申报工作，面向各区经委及有关企业集团。"
+    },
+    {
+      "id": "25f905634f3996ee012f4a495f9026a7",
+      "title": "特朗普将“人工智能”改为“超级智能”后，马斯克确认 SpaceXAI 将更名为 SpaceXSI",
+      "source": "IT之家",
+      "time": "2026-10-04T10:04:39.000Z",
+      "url": "https://www.ithome.com/1/009/688.htm",
+      "digest": "特朗普签署行政令要求联邦机构用超级智能替代人工智能一词后，马斯克回应网友提问，确认SpaceXAI将更名为SpaceXSI。"
+    },
+    {
+      "id": "f6ff6905c8d55d864332ffe825bd8b92",
+      "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+      "source": "爱范儿",
+      "time": "2026-10-04T07:08:18.000Z",
+      "url": "https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "OpenAI安全团队透明度负责人David Robinson因不满持续冲刺文化离职，曾主导防备框架。"
+    },
+    {
+      "id": "b3312a1a56a99cf64b65a270907df9b3",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "source": "量子位",
+      "time": "2026-10-04T06:12:22.000Z",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "digest": "马斯克称台积电产能不足，无法满足AI芯片需求，暗示将更多依赖中国制造。"
+    },
+    {
+      "id": "107889cc28211cf450da03e6c85ecb3f",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "source": "量子位",
+      "time": "2026-10-04T06:05:35.000Z",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "digest": "Anthropic、OpenAI、AWS等海外巨头重金布局FDE岗位，月薪达5万元。"
+    },
+    {
+      "id": "49377d26e4373ca7c48d711ff115bfb6",
+      "title": "点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」",
+      "source": "极客公园",
+      "time": "2026-10-04T05:27:14.000Z",
+      "url": "http://www.geekpark.net/news/372075",
+      "digest": "Tavus发布全球首个“人类交互模型”Griffin，测试中48%参与者误认为AI是真人。"
+    },
+    {
+      "id": "032240d1689ec547b24817fad395fd2a",
+      "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-10-04T00:33:38.000Z",
+      "url": "http://www.geekpark.net/news/372073",
+      "digest": "苹果确认AT&T网络下部分美版iPhone 18 Pro Max无法通话，已发布iOS 27.0.1修复。"
+    },
+    {
+      "id": "73121442844e60ef7b1b2e9bbf03440f",
+      "title": "WG10“AI＋制造”工作组公开征集行业标准立项建议",
+      "source": "智能制造网",
+      "time": "2026-09-11T08:55:46.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196067.html",
+      "digest": "工信部人工智能标准化技术委员会WG10 AI+制造工作组公开征集行业标准立项建议，面向成员单位及有关单位。"
+    },
+    {
+      "id": "00227c722dc8de4534be9d05fd4c4015",
+      "title": "中国工业互联网研究院开展工业智能体评测工作",
+      "source": "智能制造网",
+      "time": "2026-07-14T16:36:38.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196070.html",
+      "digest": "中国工业互联网研究院开展工业智能体评测工作，针对智能体在工业研发设计、生产制造等环节任务理解与多步执行能力参差不齐的问题。"
+    }
+  ]
+}
