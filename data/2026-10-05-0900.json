@@ -4,8 +4,56 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-05T02:21:36.036Z",
+  "updatedAt": "2026-10-05T06:11:35.015Z",
   "items": [
+    {
+      "id": "2c999e8a925df7a55924ced5d9623205",
+      "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
+      "source": "IT之家",
+      "time": "2026-10-05T06:07:35.000Z",
+      "url": "https://www.ithome.com/1/009/805.htm",
+      "digest": "施耐德电气宣布以约226亿美元收购美国软件公司PTC，每股205美元，以扩充工业软件与AI业务版图。"
+    },
+    {
+      "id": "a7b3a797052f2a0b6da7b5ab093e1e7c",
+      "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+      "source": "IT之家",
+      "time": "2026-10-05T05:00:25.000Z",
+      "url": "https://www.ithome.com/1/009/795.htm",
+      "digest": "美国佛州一女子在与Anthropic旗下Claude对话中写下枪击威胁，触发安全风控并上报人工审核后报警，该女子被捕。"
+    },
+    {
+      "id": "c3a9cc29300a4f77b3a5e6c587b612cd",
+      "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
+      "source": "IT之家",
+      "time": "2026-10-05T03:08:31.000Z",
+      "url": "https://www.ithome.com/1/009/782.htm",
+      "digest": "瓦尔基里公布VK 99 V2三模机械键盘，采用98配列，支持AI创想灯效，无线续航最长12000小时，价格未公布。"
+    },
+    {
+      "id": "eb26c35ba2442bfcc9e0a292fc74dfb2",
+      "title": "Linux 7.3-rc6 发布：Torvalds 称进入“AI 新常态”，稳定版预计 10 月中旬发布",
+      "source": "IT之家",
+      "time": "2026-10-05T02:54:03.000Z",
+      "url": "https://www.ithome.com/1/009/781.htm",
+      "digest": "Linus Torvalds发布Linux 7.3-rc6测试版，称AI与大语言模型参与已成内核开发周期的“AI新常态”，稳定版预计10月中旬发布。"
+    },
+    {
+      "id": "c5f2391cf1a9ec64c28f3e111b4d4768",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "source": "量子位",
+      "time": "2026-10-05T02:50:46.000Z",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "digest": "OpenAI在DevDay发布20多项更新，并承诺28天内若无新功能即重置；其个人Agent产品Dot表现欠佳。"
+    },
+    {
+      "id": "da496e9718a8b8f5d742a279742dd6b5",
+      "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
+      "source": "IT之家",
+      "time": "2026-10-05T02:34:56.000Z",
+      "url": "https://www.ithome.com/1/009/775.htm",
+      "digest": "JEDEC发布首份全行业硅光子学可靠性标准JESD264，明确代工厂、封测与系统商责任，降低硅光在数据中心和AI网络中的部署风险。"
+    },
     {
       "id": "a6ee810adf458f18a4e617c12ae2da28",
       "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
@@ -253,6 +301,14 @@
       "time": "2026-07-14T16:36:38.000Z",
       "url": "https://www.gkzhan.com/news/detail/196070.html",
       "digest": "中国工业互联网研究院开展工业智能体评测工作，针对智能体在工业研发设计、生产制造等环节任务理解与多步执行能力参差不齐的问题。"
+    },
+    {
+      "id": "10b80ba12c7e3f199b17ab6054944a4b",
+      "title": "先河环保子公司拟1.68亿元购买63台GPU服务器设备",
+      "source": "智能制造网",
+      "time": "2026-04-29T08:40:23.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196072.html",
+      "digest": "先河环保全资子公司邢台智算拟以1.68亿元、通过融资租赁模式向实控人旗下河北并济采购63台GPU服务器设备。"
     }
   ]
 }
