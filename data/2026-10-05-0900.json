@@ -4,8 +4,56 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-05T01:16:53.521Z",
+  "updatedAt": "2026-10-05T02:21:36.036Z",
   "items": [
+    {
+      "id": "a6ee810adf458f18a4e617c12ae2da28",
+      "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
+      "source": "IT之家",
+      "time": "2026-10-05T02:14:40.000Z",
+      "url": "https://www.ithome.com/1/009/769.htm",
+      "digest": "Anthropic前研究员考克斯顿将应纽约市议会议长要求出席AI听证会作证，市议员正审议相关保障法案。"
+    },
+    {
+      "id": "651422b825a22fc31e37f60f7bd90b6b",
+      "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
+      "source": "IT之家",
+      "time": "2026-10-05T02:02:05.000Z",
+      "url": "https://www.ithome.com/1/009/765.htm",
+      "digest": "外媒称Reflection等多家西方企业本月将推出开放权重AI模型，支持本地部署，满足微调与推理数据安全需求。"
+    },
+    {
+      "id": "0d7fda17fbaadb1e414fa209ddcc3e87",
+      "title": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
+      "source": "IT之家",
+      "time": "2026-10-05T02:00:14.000Z",
+      "url": "https://www.ithome.com/1/009/764.htm",
+      "digest": "瑞典轴承制造商斯凯孚用AI生成已故影星嘉宝形象拍广告，引发热议，凸显AI向传媒领域渗透。"
+    },
+    {
+      "id": "5ba7ec4842bea6d656ec0add0c04cdfc",
+      "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
+      "source": "IT之家",
+      "time": "2026-10-05T01:48:19.000Z",
+      "url": "https://www.ithome.com/1/009/762.htm",
+      "digest": "英国具身智能初创企业Wayve胜出，将与大众旗下CARIAD合作，为大众供应自动驾驶AI软件方案。"
+    },
+    {
+      "id": "2add93cfb2afc33beb22fd562fe9075d",
+      "title": "OpenAI 宣布“28 天计划”：Codex、Work 日进一步或“重置”",
+      "source": "IT之家",
+      "time": "2026-10-05T01:47:27.000Z",
+      "url": "https://www.ithome.com/1/009/761.htm",
+      "digest": "OpenAI负责人称未来28天每日发布Codex与ChatGPT Work功能更新，否则提供一次重置，周期至11月2日。"
+    },
+    {
+      "id": "298ec661b70eddeb33d7c4576fc08c22",
+      "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+      "source": "IT之家",
+      "time": "2026-10-05T01:21:43.000Z",
+      "url": "https://www.ithome.com/1/009/758.htm",
+      "digest": "软银孙正义在京都论坛罕见警告AI安全风险，称各国须联手应对超级智能威胁，与白宫顾问同台发言。"
+    },
     {
       "id": "f3741be65aebeaa4fd88713a9da34c59",
       "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
@@ -125,6 +173,14 @@
       "time": "2026-10-04T11:14:52.000Z",
       "url": "https://www.ithome.com/1/009/696.htm",
       "digest": "雷柏VT2 MAX V2与VT2s MAX V2无线游戏鼠标在京东开启预约，搭载PAW 3955 Ultimate传感器和Nordic 54LM20主控，定价3"
+    },
+    {
+      "id": "4e6e1ceae856709553dcad8899ca0f6e",
+      "title": "1650&#183;链上江苏 | 智造先锋 走进江苏省先进级智能工厂",
+      "source": "智能制造网",
+      "time": "2026-10-04T10:19:39.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196065.html",
+      "digest": "江苏开展2026年先进级智能工厂遴选，共选出1821家标杆企业，推进制造业智改数转网联。"
     },
     {
       "id": "c17fd5e00cff0080eb15253119a5f64e",
