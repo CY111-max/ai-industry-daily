@@ -4,8 +4,32 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-08T02:17:19.395Z",
+  "updatedAt": "2026-10-08T02:53:30.160Z",
   "items": [
+    {
+      "id": "6c5c23df7cdf0ed657276ff4cfd5d3df",
+      "title": "车企集体造机器人，是第二曲线，还是又一场热闹？",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T10:42:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30705652.html",
+      "digest": "小鹏机器人业务完成首轮融资超9亿美元，投后估值超63亿美元，创中国具身智能单轮私募融资纪录，何小鹏6月起亲自负责。"
+    },
+    {
+      "id": "e82582ca5268a6683301fd734b9187d4",
+      "title": "工业AI如何落地？拓斯达TOPS DAY 2026将发布三大解决方案",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T10:33:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30705667.html",
+      "digest": "拓斯达将于11月7日至8日举办TOPS DAY 2026，会上发布三大解决方案，聚焦工业AI在制造业的落地。"
+    },
+    {
+      "id": "3192cae7bed0025c3fa61e38594d5e28",
+      "title": "79000元！「银河通用」Galbot ET1人形机器人定价曝光",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T10:31:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8110-30705645.html",
+      "digest": "银河通用公布Galbot ET1人形机器人商业定价，入门7.9万元、最高17.9万元，分三档版本面向娱乐表演赛道。"
+    },
     {
       "id": "b087c21f9561e35bdee746714ee7b5eb",
       "title": "优必选携手一汽-大众，推进人形机器人在物流场景应用落地",
@@ -29,6 +53,14 @@
       "time": "2026-10-08T09:47:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30705620.html",
       "digest": "蓝海机器人、他山科技先后完成股改，国内机器人IPO大军有望再添两家研发商，机器人企业上市进程持续提速。"
+    },
+    {
+      "id": "6f34a370a02d53c4e1f1f0f38005be86",
+      "title": "惠普战 66 Air 商务轻薄本上架：\"Wildcat Lake\" + OLED，到手 5099.15 元起",
+      "source": "IT之家",
+      "time": "2026-10-08T02:16:41.000Z",
+      "url": "https://www.ithome.com/1/010/395.htm",
+      "digest": "惠普在电商平台上架战66 Air商务轻薄本，搭载第三代英特尔酷睿\"Wildcat Lake\"处理器与OLED屏，到手5099.15元起。"
     },
     {
       "id": "bebf5c6faa6e7a066d343c3db4e3b10e",
