@@ -1,0 +1,306 @@
+{
+  "id": "2026-10-08-0900",
+  "date": "2026-10-08",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-10-08T02:17:19.395Z",
+  "items": [
+    {
+      "id": "b087c21f9561e35bdee746714ee7b5eb",
+      "title": "优必选携手一汽-大众，推进人形机器人在物流场景应用落地",
+      "source": "智能制造网",
+      "time": "2026-10-08T10:08:24.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196096.html",
+      "digest": "优必选与一汽-大众达成战略合作，共同推进具身智能机器人在物流场景的应用开发与测试，构建示范应用场景。"
+    },
+    {
+      "id": "458098f78a58706ed7fda534fbb946d7",
+      "title": "永达携手启元机器人全球首店落地上海 共探消费机器人商业化新路径",
+      "source": "智能制造网",
+      "time": "2026-10-08T10:02:06.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196099.html",
+      "digest": "永达集团运营的启元机器人全球首店在上海淮海中路开业，双方结合产品技术与渠道运营经验探索消费机器人商业化。"
+    },
+    {
+      "id": "9444ad1cc1c58ee9ca73c3c86d75199e",
+      "title": "IPO大军有望再添主力！北广两家机器人研发商完成股改",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T09:47:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30705620.html",
+      "digest": "蓝海机器人、他山科技先后完成股改，国内机器人IPO大军有望再添两家研发商，机器人企业上市进程持续提速。"
+    },
+    {
+      "id": "bebf5c6faa6e7a066d343c3db4e3b10e",
+      "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
+      "source": "IT之家",
+      "time": "2026-10-08T02:15:30.000Z",
+      "url": "https://www.ithome.com/1/010/394.htm",
+      "digest": "前Anthropic和OpenAI研究员雅各布·考克森在纽约市议会警告AI可能威胁人类生存，称顶尖实验室正自动化AI研究，目标在2027-2028年实现。"
+    },
+    {
+      "id": "e2ba92d3fbfca5f77215aa36ef93945f",
+      "title": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure",
+      "source": "IT之家",
+      "time": "2026-10-08T01:49:20.000Z",
+      "url": "https://www.ithome.com/1/010/387.htm",
+      "digest": "英伟达拟向人形机器人制造商Figure再投资10亿美元，Figure投前估值约380亿美元，英伟达此前已是其投资者。"
+    },
+    {
+      "id": "1ef606f6858174c00c48a5621e70686f",
+      "title": "造物 100#07 | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙",
+      "source": "极客公园",
+      "time": "2026-10-08T01:40:34.000Z",
+      "url": "http://www.geekpark.net/news/372099",
+      "digest": "极客公园造物栏目介绍智能数据拓展坞、手机皮肤镜等新品，并提及内存与固态硬盘合约价环比上涨超58%和70%。"
+    },
+    {
+      "id": "31f9ee7a063c7adb890fcb5d80c9814d",
+      "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+      "source": "IT之家",
+      "time": "2026-10-08T01:09:51.000Z",
+      "url": "https://www.ithome.com/1/010/373.htm",
+      "digest": "美国白宫AI沙皇杰伊·克莱顿首次硅谷之行将会见英伟达黄仁勋、OpenAI奥尔特曼、Anthropic阿莫代伊和Meta扎克伯格等CEO。"
+    },
+    {
+      "id": "97676034b9f50bfebeeec1636c9cc8a3",
+      "title": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元",
+      "source": "IT之家",
+      "time": "2026-10-08T01:06:38.000Z",
+      "url": "https://www.ithome.com/1/010/378.htm",
+      "digest": "美国北卡罗来纳州男子Michael Smith因利用AI生成数十万首歌曲并欺诈性播放，被判18个月监禁并罚没800万美元。"
+    },
+    {
+      "id": "e7b8cfcd363e2ca0780476d522ea418d",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "source": "量子位",
+      "time": "2026-10-08T01:04:00.000Z",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "digest": "Anthropic发布Claude Haiku 5.5新模型，官方称跑分超过GPT-6 Luna且定价更低，OpenAI以赠送重置卡应对。"
+    },
+    {
+      "id": "32d687a1150953079f61761b1d061d5e",
+      "title": "优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地",
+      "source": "IT之家",
+      "time": "2026-10-08T00:57:13.000Z",
+      "url": "https://www.ithome.com/1/010/376.htm",
+      "digest": "优必选与一汽-大众达成战略合作，共同推进人形机器人在物流场景应用，加速在智能制造领域部署。"
+    },
+    {
+      "id": "6bc000749eb533e70029c2c5ca689677",
+      "title": "应对汽车大灯“太刺眼”、为新技术扫清障碍，美国将修订车辆照明标准",
+      "source": "IT之家",
+      "time": "2026-10-08T00:21:47.000Z",
+      "url": "https://www.ithome.com/1/010/368.htm",
+      "digest": "美国国家公路交通安全管理局宣布修订车辆照明标准，涉及LED车灯、自动远光灯等，以解决眩光问题并为新技术扫清障碍。"
+    },
+    {
+      "id": "3607d608a47845386ff84112e43bf5a3",
+      "title": "马斯克：Grok Bot 不再只认自家模型，按用户任务择优用 Claude 等最佳 AI",
+      "source": "IT之家",
+      "time": "2026-10-07T23:47:32.000Z",
+      "url": "https://www.ithome.com/1/010/359.htm",
+      "digest": "马斯克宣布Grok Bot不再局限于自研Grok模型，将根据任务自动选择最佳后端模型，包括Claude Opus 5.5、Midjourney等。"
+    },
+    {
+      "id": "2a02e32f65fee1be3e84d9fe13adfaf9",
+      "title": "OpenAI 首份青少年报告：日均使用不足 15 分钟，安全提醒机制遭质疑",
+      "source": "IT之家",
+      "time": "2026-10-07T23:38:15.000Z",
+      "url": "https://www.ithome.com/1/010/358.htm",
+      "digest": "OpenAI发布首份青少年使用报告，称青少年日均使用ChatGPT不足15分钟，但第三方机构质疑其家长安全提醒机制。"
+    },
+    {
+      "id": "65957dec349ea55b579641933fb3f5f0",
+      "title": "挑战李飞飞：曾被字节辞退的实习生田柯宇进军世界模型，创业公司估值达 2 亿美元",
+      "source": "IT之家",
+      "time": "2026-10-07T23:36:04.000Z",
+      "url": "https://www.ithome.com/1/010/356.htm",
+      "digest": "前字节跳动实习生田柯宇创办世界模型创业公司，获五源资本等近3000万美元融资，投后估值2亿美元，挑战李飞飞。"
+    },
+    {
+      "id": "ecc631b9847596aba0e100fda6b46dae",
+      "title": "消息称博通拟为 OpenAI 定制 AI 芯片筹资超 500 亿美元，SpaceX 洽谈 400 亿美元融资",
+      "source": "IT之家",
+      "time": "2026-10-07T23:18:56.000Z",
+      "url": "https://www.ithome.com/1/010/352.htm",
+      "digest": "博通为OpenAI定制AI芯片安排超500亿美元融资，已与阿波罗、黑石等私人信贷机构早期洽谈，双方合作开发10吉瓦芯片系统。"
+    },
+    {
+      "id": "b22dc139f8ec4814e524f44b46a4efe0",
+      "title": "原 OpenAI 安全负责人戴维 · 罗宾逊“炮轰”老东家：对待 AI 安全说一套做一套",
+      "source": "IT之家",
+      "time": "2026-10-07T23:08:44.000Z",
+      "url": "https://www.ithome.com/1/010/351.htm",
+      "digest": "原OpenAI安全系统团队负责人戴维·罗宾逊离职后称公司AI安全言行不一，一边警告风险一边全速训练部署模型。"
+    },
+    {
+      "id": "c9793d78c0c99b6404b97a478fa66a80",
+      "title": "苹果加速智能家居布局，携手 LG 打造的恒温器、温度传感器和智能门锁抢先看",
+      "source": "IT之家",
+      "time": "2026-10-07T23:04:02.000Z",
+      "url": "https://www.ithome.com/1/010/342.htm",
+      "digest": "消息源从iOS 27.2系统HomeKit Matter表发现苹果与LG联合开发智能恒温器、温度传感器和智能门锁等6款智能家居配件。"
+    },
+    {
+      "id": "a1e84c1f84ca9183e96c113e3de34091",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "source": "量子位",
+      "time": "2026-10-07T11:34:47.000Z",
+      "url": "https://www.qbitai.com/2026/10/501803.html",
+      "digest": "一家AI影视公司视频模型排名全球第二，制作班底包括《怪物史莱克》编剧Joe Stillman与前皮克斯艺术指导John Lee。"
+    },
+    {
+      "id": "c67e3275603ccd9b6f994a1b6f389a84",
+      "title": "碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷",
+      "source": "雷峰网",
+      "time": "2026-10-07T11:26:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html",
+      "digest": "雷峰网发布碳硅道统《AI安全与文明治理法典》第189集总目录索引，汇总1至188集五级体系谱系与检索规则。"
+    },
+    {
+      "id": "5fb2a937a591d64e19b30682b45880dd",
+      "title": "碳硅道统《AI安全与文明治理法典》188集 · 七层体系目录",
+      "source": "雷峰网",
+      "time": "2026-10-07T11:19:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html",
+      "digest": "碳硅道统发布共188集的《AI安全与文明治理法典》，搭建七层框架，覆盖AI认知风险、模型安全机理与算力监管。"
+    },
+    {
+      "id": "d1697f2d5b22e0f54118fa11e49d2bd8",
+      "title": "汽车工人要下岗了？宝马要用人形机器人大规模部署汽车制造",
+      "source": "OFweek机器人",
+      "time": "2026-10-07T09:49:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30705590.html",
+      "digest": "宝马在资本市场日物理AI分论坛上展示人形机器人、AGV小车等，推进人形机器人在汽车制造中的大规模部署。"
+    },
+    {
+      "id": "6e65ba5d9b67666382042fadf868044e",
+      "title": "具身智能大脑与身体的“合体之战”",
+      "source": "OFweek机器人",
+      "time": "2026-10-07T09:25:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30705578.html",
+      "digest": "2026年开年三个月具身智能领域已披露融资总额接近150亿元，国内估值超百亿的具身智能企业扩容至7家。"
+    },
+    {
+      "id": "7bb1ef36a5cce03616158de9bbb49dbd",
+      "title": "晕…这年头还有说人话的AI不",
+      "source": "量子位",
+      "time": "2026-10-07T08:41:13.000Z",
+      "url": "https://www.qbitai.com/2026/10/501796.html",
+      "digest": "该条内容为模型身份自述文本，未涉及具体企业动态或产业信息。"
+    },
+    {
+      "id": "d639d66a8f255ec6198288378f1cfca4",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "source": "量子位",
+      "time": "2026-10-07T06:39:36.000Z",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "digest": "AI 3D公司Meshy入选a16z首份消费级AI应用月收入Top 50，位列第31名，为榜单唯一AI 3D企业。"
+    },
+    {
+      "id": "b01da56a32f3c58b2ca9513d4efef988",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "source": "雷峰网",
+      "time": "2026-10-07T04:19:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
+      "digest": "AI 3D多模态模型公司Meshy入选a16z消费级AI应用月收入Top 50，排名第31，为榜单唯一AI 3D公司。"
+    },
+    {
+      "id": "03dd94d4f0edf02dd6f3020384d89a24",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "source": "量子位",
+      "time": "2026-10-07T01:05:13.000Z",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "digest": "OpenAI发布722篇数学论文，覆盖黎曼、霍奇、BSD等方向，并公开相关代码仓库。"
+    },
+    {
+      "id": "2f18f4abc60f60a6596d415961d5140f",
+      "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+      "source": "极客公园",
+      "time": "2026-10-07T00:39:21.000Z",
+      "url": "http://www.geekpark.net/news/372089",
+      "digest": "派拉蒙以1100亿美元收购时代华纳；月之暗面被曝完成500亿美元Pre-IPO融资；微软、Meta被曝要求员工减少使用Claude。"
+    },
+    {
+      "id": "2bdbd58c135a7703747a0e17972048b5",
+      "title": "比李飞飞更快一步？清华博士掌舵影身智能，已让4D世界模型在工厂落地",
+      "source": "OFweek机器人",
+      "time": "2026-10-06T14:40:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30705619.html",
+      "digest": "清华博士掌舵的影身智能已让4D世界模型在工厂落地，此前AMD以82亿美元收购李飞飞创立的World Labs。"
+    },
+    {
+      "id": "c594821af8358b566400cbeb0079047b",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "source": "量子位",
+      "time": "2026-10-06T07:59:17.000Z",
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "digest": "陶哲轩与Edward Witten、Timothy Gowers等数学家、理论物理学家共同出现在一份AI相关名单中。"
+    },
+    {
+      "id": "f1c64089a3cc0f060b58062255d6c809",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "source": "量子位",
+      "time": "2026-10-06T06:45:40.000Z",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "digest": "OpenAI启动“疯狂28天”活动首日，称GPT-6 Astra与GPT-6.1 Sol默认推理速度提升约50%，达50TPS。"
+    },
+    {
+      "id": "5e2019585102aec93eccde0310c41396",
+      "title": "苹果突发收紧 Mac 权限，全是 AI 惹的祸",
+      "source": "爱范儿",
+      "time": "2026-10-06T02:05:20.000Z",
+      "url": "https://www.ifanr.com/1682953?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "苹果宣布将收紧macOS的完全磁盘访问权限，因AI代理能力增强带来风险，需用户明确授权，影响开发者使用。"
+    },
+    {
+      "id": "576a3a9299743d4aa9abcda1d7529c7a",
+      "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
+      "source": "极客公园",
+      "time": "2026-10-06T01:16:53.000Z",
+      "url": "http://www.geekpark.net/news/372086",
+      "digest": "2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg Nagel，表彰其光遗传学发现，该技术可光控神经细胞"
+    },
+    {
+      "id": "8518bcb3881af0796d986e44117c2584",
+      "title": "AI，为什么总在画美女？",
+      "source": "极客公园",
+      "time": "2026-10-05T09:45:01.000Z",
+      "url": "http://www.geekpark.net/news/372084",
+      "digest": "极客公园报道AI生成图像在社交网络流行，如韩国棒球联赛视频中AI生成女性被识破后成为模板，反映AI图像能力增强带来的爆款现象。"
+    },
+    {
+      "id": "b2a9fc78aedc5a157e1aa8e0261e5923",
+      "title": "罗克韦尔自动化制造业数智化峰会成功举办，共探制造业未来",
+      "source": "智能制造网",
+      "time": "2026-09-30T10:02:52.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196098.html",
+      "digest": "罗克韦尔自动化在上海举办制造业数智化峰会，汇聚行业专家与制造企业代表探讨工业自动化与数字化转型。"
+    },
+    {
+      "id": "a08d166de0df67d9c791569013facf41",
+      "title": "ST老牌装修龙头，将迎来具身智能初企接盘！",
+      "source": "OFweek机器人",
+      "time": "2026-09-30T09:47:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-898890-8120-30705621.html",
+      "digest": "*ST美芝公告称深朴智能担任产业投资人及联合体牵头方的投资联合体被确定为庭外重组及后续司法重整投资人。"
+    },
+    {
+      "id": "981e755e8d0df79f7be058f7059eca69",
+      "title": "埃斯顿再出手，拟收购控股机器人子公司部分股权！",
+      "source": "OFweek机器人",
+      "time": "2026-09-28T09:44:00.000Z",
+      "url": "https://robot.ofweek.com/2026-09/ART-8321202-8120-30705623.html",
+      "digest": "埃斯顿9月23日晚公告，拟通过公开摘牌等方式收购控股子公司埃斯顿江苏智能部分股权，加码工业机器人业务布局。"
+    },
+    {
+      "id": "0f5828c7fedd4784328a22626f910546",
+      "title": "早报|上半年全球AI眼镜出货量同比增长263%；影石正布局AI眼镜",
+      "source": "智能制造网",
+      "time": "2025-12-30T10:33:16.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195980.html",
+      "digest": "Counterpoint Research数据显示2026年上半年全球AI眼镜出货量同比增长263%，其中无显示屏AI眼镜价格亲民且轻便。"
+    }
+  ]
+}
