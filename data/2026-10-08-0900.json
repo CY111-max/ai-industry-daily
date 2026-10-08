@@ -4,8 +4,96 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-08T02:53:30.160Z",
+  "updatedAt": "2026-10-08T06:37:42.716Z",
   "items": [
+    {
+      "id": "72a6f081b482af3e23d8cf632aeaf174",
+      "title": "在宝马工厂搬了9万个零件后，Figure的机器人跳进了钢水里，这很终结者！",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T14:09:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8110-30705749.html",
+      "digest": "Figure将退役F.02人形机器人运至芬兰伊马特拉，令其自主跳入75吨电弧炉钢水完成退役。"
+    },
+    {
+      "id": "8ecb73252948413de0e88d3f2398b95d",
+      "title": "零食店扩张，连接着食品工业不断扩展的加工能力",
+      "source": "智能制造网",
+      "time": "2026-10-08T14:02:29.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196123.html",
+      "digest": "国庆期间街边零食店持续扩张，反映出食品工业加工能力的不断扩展与下游零售渠道的密集布局。"
+    },
+    {
+      "id": "39eb143a478ffb8d9b036007f938471f",
+      "title": "楚能新能源集中竞得武汉6宗工业用地",
+      "source": "智能制造网",
+      "time": "2026-10-08T13:39:31.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196108.html",
+      "digest": "武汉楚能新能源集中竞得江夏经济开发区大桥产业园6宗工业用地，成交价220万至6830万元，用于新能源产能布局。"
+    },
+    {
+      "id": "314c9f71f2c9f8bfcc1e81cf2644b335",
+      "title": "告别“铝板+橡胶”：人形机器人量产的最后一块拼图，智履科技如何破局？",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T13:36:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8210-30705719.html",
+      "digest": "智履科技针对人形机器人脚底部件，解决其在泥泞、坡坎、沙地等工业现场行走的耐用性问题。"
+    },
+    {
+      "id": "d460feb402588215de060404c8af18c3",
+      "title": "前Optimus AI负责人创业：不做人形机器人，专攻工业机器人",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T13:36:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30705718.html",
+      "digest": "特斯拉Optimus前AI负责人Ashish Kumar创办Intelligent Machines，落地旧金山，种子轮拟募资约1亿美元，专注工业机器人。"
+    },
+    {
+      "id": "986b6da67b4266c33414e9b967ba386d",
+      "title": "国家定方向，地方加速跑：机器人产业区域竞逐升级",
+      "source": "智能制造网",
+      "time": "2026-10-08T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196112.html",
+      "digest": "2026年以来多省市密集出台机器人产业专项政策，安徽省政府办公厅近日印发推动机器人产业高质量发展的实施意见。"
+    },
+    {
+      "id": "e09f6a32b2dfd40701ba8210c0098814",
+      "title": "来中国工博会机器人展，看人形机器人如何走进工厂",
+      "source": "智能制造网",
+      "time": "2026-10-08T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196103.html",
+      "digest": "中国工博会机器人展集中展示人形机器人前沿成果，傅利叶等企业展出面向康复、仓储物流及轻工制造等场景的机器人。"
+    },
+    {
+      "id": "b8abdacdf6da64392a698a8207a893c2",
+      "title": "IPO大军有望再添主力！北广两家机器人研发商完成股改",
+      "source": "智能制造网",
+      "time": "2026-10-08T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196107.html",
+      "digest": "蓝海机器人、他山科技先后完成股改，国内机器人IPO队伍有望再添两家研发商，行业上市进程持续提速。"
+    },
+    {
+      "id": "c0396d7e621ae3979e203602c61c4198",
+      "title": "乐动机器人拟近600万欧元收购德国SABO",
+      "source": "智能制造网",
+      "time": "2026-10-08T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196109.html",
+      "digest": "深圳乐动机器人公告称，公司及新加坡全资附属公司拟以近600万欧元收购德国SABO相关资产。"
+    },
+    {
+      "id": "62ed43aa25c9d5ea51d1200c75e9f07f",
+      "title": "日立与发那科宣布合作伙伴关系，推进物理AI的联合商业化",
+      "source": "智能制造网",
+      "time": "2026-10-08T11:10:08.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196114.html",
+      "digest": "日立与发那科宣布缔结战略合作伙伴关系，将日立HMAX Industry等AI技术与发那科AI工业机器人结合，推进物理AI商业化。"
+    },
+    {
+      "id": "9f9c5d08afb87723838feb21904dcf72",
+      "title": "1亿！科美自动化南通新工厂，全面投产！",
+      "source": "智能制造网",
+      "time": "2026-10-08T11:10:08.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196111.html",
+      "digest": "南通科美自动化总投资1亿元的自建智能制造工厂全面投产，位于海门区，已开启满负荷生产。"
+    },
     {
       "id": "6c5c23df7cdf0ed657276ff4cfd5d3df",
       "title": "车企集体造机器人，是第二曲线，还是又一场热闹？",
@@ -53,6 +141,134 @@
       "time": "2026-10-08T09:47:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30705620.html",
       "digest": "蓝海机器人、他山科技先后完成股改，国内机器人IPO大军有望再添两家研发商，机器人企业上市进程持续提速。"
+    },
+    {
+      "id": "1a820d4263ab7e7d717859db4a3495c0",
+      "title": "消息称 Alphabet 旗下 AI 药物研发企业 Isomorphic Labs 寻求以 400~500 亿美元估值融资",
+      "source": "IT之家",
+      "time": "2026-10-08T06:33:15.000Z",
+      "url": "https://www.ithome.com/1/010/516.htm",
+      "digest": "Alphabet旗下AI药物研发公司Isomorphic Labs正就新一轮融资谈判，估值至少400亿美元，可能达500亿美元。"
+    },
+    {
+      "id": "7c08af147e09c209f73bc97000e58ce0",
+      "title": "微软确认 Win11 Copilot+ PC 品牌未消亡：全球每月本地 AI 推理超 2 万亿次，每年出货数千万台",
+      "source": "IT之家",
+      "time": "2026-10-08T06:30:50.000Z",
+      "url": "https://www.ithome.com/1/010/510.htm",
+      "digest": "微软在旧金山发布会确认Copilot+ PC品牌未消亡，全球每月本地AI推理超2万亿次，年出货量达数千万台。"
+    },
+    {
+      "id": "0bc0b8b16fe9e43e64b91a1ce655df12",
+      "title": "消息称腾讯考虑发售 50 亿美元债券，加大力度投资 AI",
+      "source": "IT之家",
+      "time": "2026-10-08T06:23:27.000Z",
+      "url": "https://www.ithome.com/1/010/495.htm",
+      "digest": "腾讯考虑发售最高50亿美元离岸债券，用于AI投资，此前6月已发债近47亿美元用于AI产品开发。"
+    },
+    {
+      "id": "23ad42b4348c91db22bf86f231d211a0",
+      "title": "苹果 iPhone Air 2 爆料：厚度减薄 0.4mm 至 5.2mm，更高密度电池提升续航",
+      "source": "IT之家",
+      "time": "2026-10-08T06:09:27.000Z",
+      "url": "https://www.ithome.com/1/010/473.htm",
+      "digest": "爆料称苹果研发iPhone Air 2，厚度减至5.2mm，采用更高密度电池提升续航，保留钛金属边框。"
+    },
+    {
+      "id": "ee6cda4d3eeac3627e3e429b75eb44a9",
+      "title": "PFN 发布 PLaMo 3 Translate 31B 模型：日语翻译表现优于 GPT-6.1 Sol",
+      "source": "IT之家",
+      "time": "2026-10-08T05:54:56.000Z",
+      "url": "https://www.ithome.com/1/010/469.htm",
+      "digest": "日本PFN发布PLaMo 3 Translate 31B翻译模型，完全自主研发，日语占比约30%，支持53种语言，日语翻译优于GPT-6.1 Sol。"
+    },
+    {
+      "id": "69e2368dcd91376f67730c87c511a7c0",
+      "title": "谷歌、Meta 等厂商竞逐申请 .agent 域名：OpenAI 申请.gpt、Anthropic 申请.claude",
+      "source": "IT之家",
+      "time": "2026-10-08T05:25:26.000Z",
+      "url": "https://www.ithome.com/1/010/462.htm",
+      "digest": "ICANN新一轮顶级域名申请中，AI相关域名成热点，.agent收到10份申请，Meta和OpenAI参与，OpenAI还申请.gpt等。"
+    },
+    {
+      "id": "76249267020dbe5e16a63ee3ffa89edf",
+      "title": "Manus 母公司蝴蝶效应宣布完成超 5 亿美元新一轮融资，腾讯、红杉中国等继续加持",
+      "source": "IT之家",
+      "time": "2026-10-08T04:50:26.000Z",
+      "url": "https://www.ithome.com/1/010/457.htm",
+      "digest": "Manus母公司蝴蝶效应完成超5亿美元融资，博裕投资、IDG资本领投，腾讯、红杉中国、真格基金等老股东继续加持。"
+    },
+    {
+      "id": "6c8137c99d456d29351a4dbbd20a2dbc",
+      "title": "阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择",
+      "source": "IT之家",
+      "time": "2026-10-08T04:19:53.000Z",
+      "url": "https://www.ithome.com/1/010/451.htm",
+      "digest": "阿里巴巴董事会主席蔡崇信在都灵大会上称，欧洲摆脱中美技术依赖的最佳选择是开源AI，并呼吁自建算力基础设施。"
+    },
+    {
+      "id": "b51e11aae8254899581470e4ae634903",
+      "title": "微软 LiteBox 沙箱库系统首个版本发布：基于 Rust 打造安全型 Library OS",
+      "source": "IT之家",
+      "time": "2026-10-08T03:54:33.000Z",
+      "url": "https://www.ithome.com/1/010/445.htm",
+      "digest": "微软发布基于Rust开发的开源沙箱库操作系统LiteBox首个版本v0.1，通过缩减应用与宿主系统接口降低攻击面。"
+    },
+    {
+      "id": "a3cf1a3e85796cc043bf7bd3a5042012",
+      "title": "世嘉：我们对 AI 态度“非常谨慎”，不会将其用于创意工作",
+      "source": "IT之家",
+      "time": "2026-10-08T03:44:34.000Z",
+      "url": "https://www.ithome.com/1/010/444.htm",
+      "digest": "世嘉高管斋藤刚表示，公司仅将AI用于发行、管理等环节提效，游戏开发中态度谨慎，不会把创意工作交给AI。"
+    },
+    {
+      "id": "8890f60fbff2cd4eaf88ba3dda997071",
+      "title": "从「工具」到「智能体」：CARES 4.0在港发布，刘宏斌谈医疗AI如何走进临床",
+      "source": "雷峰网",
+      "time": "2026-10-08T03:18:00.000Z",
+      "url": "https://www.leiphone.com/category/aihealth/93E68V91AW9aHtDb.html",
+      "digest": "中科院香港创新研究院CAIR在港举办CREATE论坛，聚焦医疗AI商业化，近300名专家与产业资本探讨呼吸介入等专科落地。"
+    },
+    {
+      "id": "012fdb8daa2d81c3341f1cd8cedb8288",
+      "title": "IROS 2026大奖揭晓：长期记忆拿下最佳论文，人形机器人打网球、端托盘双双获奖",
+      "source": "雷峰网",
+      "time": "2026-10-08T02:57:00.000Z",
+      "url": "https://www.leiphone.com/category/private/VYRZFCnadDOcPDeX.html",
+      "digest": "IROS 2026在匹兹堡揭晓奖项，最佳论文授予机器人长期记忆研究LT-Mem，人形机器人网球与端托盘工作获奖。"
+    },
+    {
+      "id": "c8a80b5060ed128a1c69406392e94ac8",
+      "title": "研究了1933篇 IROS 论文，我们看到了机器人学的六项新变化",
+      "source": "雷峰网",
+      "time": "2026-10-08T02:46:00.000Z",
+      "url": "https://www.leiphone.com/category/private/wEpCJ4T8v9cJFgCn.html",
+      "digest": "IROS 2026收录1933篇论文，Robot Learning/Embodied AI约809篇居首，Humanoid/Legged约213篇，显示机器人研"
+    },
+    {
+      "id": "545958712490a2433d480f45d42d41bd",
+      "title": "银河通用&清华 LATENT：用「不完美人类数据」让机器人学会网球对打 | IROS 2026",
+      "source": "雷峰网",
+      "time": "2026-10-08T02:40:00.000Z",
+      "url": "https://www.leiphone.com/category/private/HkC1hSwn255e7hL9.html",
+      "digest": "银河通用与清华LATENT在IROS 2026展示用不完美人类数据训练机器人网球对打，5小时动作碎片转化为身体直觉。"
+    },
+    {
+      "id": "2d3467b42a50b9ab05c751595619d750",
+      "title": "吴佳俊 IROS 2026 演讲：结构化表征不是答案， 是机器人学会推理的脚手架 | IROS 2026",
+      "source": "雷峰网",
+      "time": "2026-10-08T02:29:00.000Z",
+      "url": "https://www.leiphone.com/category/private/Hd5ntJGqUoFVY1PJ.html",
+      "digest": "斯坦福吴佳俊在IROS 2026演讲，以洗盘子为例探讨机器人从结构化表征到无演示学习，强调推理脚手架。"
+    },
+    {
+      "id": "ca425e5897c0990373cccceccb2f6269",
+      "title": "对话如祺出行COO韩锋：世界模型越强，真实数据才是真壁垒",
+      "source": "雷峰网",
+      "time": "2026-10-08T02:27:00.000Z",
+      "url": "https://www.leiphone.com/category/transportation/ESCXNijR4DVx6uDl.html",
+      "digest": "如祺出行COO韩锋表示，公司不训练大模型，而是构建数据基础设施，连接出行数据与自动驾驶及具身智能模型训练。"
     },
     {
       "id": "6f34a370a02d53c4e1f1f0f38005be86",
@@ -301,6 +517,14 @@
       "time": "2026-10-05T09:45:01.000Z",
       "url": "http://www.geekpark.net/news/372084",
       "digest": "极客公园报道AI生成图像在社交网络流行，如韩国棒球联赛视频中AI生成女性被识破后成为模板，反映AI图像能力增强带来的爆款现象。"
+    },
+    {
+      "id": "bd262159adb129e4958365ae8a5cea38",
+      "title": "2026年7月各地金属切削机床产量统计",
+      "source": "智能制造网",
+      "time": "2026-10-02T10:20:37.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196126.html",
+      "digest": "2026年7月各地金属切削机床产量数据公布，北京当月产量0.07万台同比增长47.99%，天津同比增长127.27%。"
     },
     {
       "id": "b2a9fc78aedc5a157e1aa8e0261e5923",
