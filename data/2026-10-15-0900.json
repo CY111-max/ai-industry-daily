@@ -4,15 +4,40 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-15T02:04:52.283Z",
+  "updatedAt": "2026-10-15T05:08:40.285Z",
   "items": [
+    {
+      "id": "9336f396ba5c25a163678d3645b1dd19",
+      "title": "多地密集出台AI产业政策：辽宁算力券落地",
+      "source": "智能制造网",
+      "time": "2026-10-15T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196304.html",
+      "digest": "辽宁、北京、深圳、温州、上海近期密集出台AI专项政策，从算力供给、智能终端消费、机器人产业等维度完善产业生态。"
+    },
+    {
+      "id": "0dd6032e78deff13f10e572029134613",
+      "title": "机器人还没找好工作，小鹏为什么先建工厂？",
+      "source": "OFweek机器人",
+      "time": "2026-10-15T11:14:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707216.html",
+      "digest": "小鹏IRON机器人亮相巴黎车展，公司宣布将先推进量产并建设工厂，再寻找具体应用场景。"
+    },
+    {
+      "id": "a2aea687e8fb4cb487847d5b58f3ae15",
+      "title": "施瓦辛格熔了F.02人形机器人，Figure在烧什么",
+      "source": "OFweek机器人",
+      "time": "2026-10-15T10:03:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8110-30707181.html",
+      "digest": "Figure AI发布F.02人形机器人退役影片，机器人在芬兰铸造厂自主跃入电弧炉，展示其自主运动能力。"
+    },
     {
       "id": "fec63e28ffbeb6316f6a36c774c15519",
       "title": "与头部A股上市公司达成3亿元销售合同，黑芝麻智能AI计算业务再上新台阶",
       "source": "智能制造网",
       "time": "2026-10-15T09:41:56.000Z",
       "url": "https://www.gkzhan.com/news/detail/196307.html",
-      "digest": ""
+      "digest": "黑芝麻智能与一家A股上市公司签署约3亿元AI计算服务器销售合同，一年内预计采购其高性能AI芯片为核心的服务器。",
+      "text": "近日，黑芝麻智能与一家A股上市公司(产业合作伙伴)正式签署AI计算服务器销售框架合同及配套技术合作协议。销售合同总金额为约人民币3亿元，其中，自合同签订一年内，预计采购黑芝麻智能高性能AI芯片为核心的AI计算服"
     },
     {
       "id": "d242663e1de72e9c3af9c311d52b1aa4",
@@ -20,7 +45,8 @@
       "source": "智能制造网",
       "time": "2026-10-15T09:22:06.000Z",
       "url": "https://www.gkzhan.com/news/detail/196305.html",
-      "digest": ""
+      "digest": "艾图科技在浙江台州投产全球首个缝制机器人制造基地，年产能规划1万台，标志柔性缝制具身智能进入量产阶段。",
+      "text": "近日，艾图科技(Aitu)宣布，其位于浙江台州的缝制机器人制造基地正式启动投产。作为全球首个面向缝制机器人的专业化制造工厂，该基地的顺利投产，标志着柔性缝制具身智能技术彻底走出实验室样机研发阶段，正式迈入工"
     },
     {
       "id": "e5945fc7881b69941a9149408032affd",
@@ -28,7 +54,88 @@
       "source": "智能制造网",
       "time": "2026-10-15T08:39:42.000Z",
       "url": "https://www.gkzhan.com/news/detail/195998.html",
-      "digest": ""
+      "digest": "文章分析5G、AI与专用芯片组推动物联网第二波浪潮，指出物联网发展轨迹类似经典技术采用曲线。",
+      "text": "还记得物联网(IoT)曾被视为“新鲜事物”的那个时期吗?早在2010年，人们对一个万物互联的世界充满憧憬。爱立信曾预测，到2020年连接数将达到500亿。然而，实际情况并未完全如预期那样发展。物联网的发展轨迹更符合典"
+    },
+    {
+      "id": "64bb84462799c1be4d64377e81f34c2f",
+      "title": "Anthropic 国际业务负责人普兰森：开放式 AI 模型比我们的模型风险更高",
+      "source": "IT之家",
+      "time": "2026-10-15T04:46:59.000Z",
+      "url": "https://www.ithome.com/1/013/337.htm",
+      "digest": "Anthropic国际业务负责人普兰森在都柏林AI峰会称，开放权重模型发生网络安全等危害的风险高于其自家模型，该公司正面临开放模型竞争。"
+    },
+    {
+      "id": "df98b5271a8a210876eb9ffcb6b6fac4",
+      "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
+      "source": "IT之家",
+      "time": "2026-10-15T04:43:48.000Z",
+      "url": "https://www.ithome.com/1/013/331.htm",
+      "digest": "OpenAI伦敦分部员工去年人均薪酬达231.8万英镑，公司以高薪争夺AI人才，英国有限公司注册于威斯敏斯特。"
+    },
+    {
+      "id": "403bd02817fa45ca13bc5c8fb276eb0b",
+      "title": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起",
+      "source": "IT之家",
+      "time": "2026-10-15T04:41:27.000Z",
+      "url": "https://www.ithome.com/1/013/323.htm",
+      "digest": "阿维塔06焕新上市，Max增程版限时权益价20.59万元、纯电版21.59万元，升级半隐藏门把手及安全舒适配置。"
+    },
+    {
+      "id": "835b62ac7bab2187640e025c12770ca6",
+      "title": "算力不够：苹果确认初代 HomePod mini 无缘全新 Siri AI",
+      "source": "IT之家",
+      "time": "2026-10-15T04:05:48.000Z",
+      "url": "https://www.ithome.com/1/013/285.htm",
+      "digest": "苹果确认初代HomePod mini因芯片和内存受限无法支持Siri AI本地大模型，继任产品HomePod mini 2可支持。"
+    },
+    {
+      "id": "8e3dcad96b1bc70008d32b02c1cb017b",
+      "title": "消息称字节跳动洽谈采购联发科 AI 芯片用于数据中心，或成其 ASIC 业务第二大客户",
+      "source": "IT之家",
+      "time": "2026-10-15T03:49:39.000Z",
+      "url": "https://www.ithome.com/1/013/279.htm",
+      "digest": "字节跳动正与联发科洽谈采购数据中心定制ASIC芯片，若落地或成联发科ASIC业务第二大客户，助力其与高通竞争。"
+    },
+    {
+      "id": "3458fda7692f1e18c02b774d9837c541",
+      "title": "中国科学家首次用中国大模型攻克世界级数学难题，曾困扰学界 30 余年",
+      "source": "IT之家",
+      "time": "2026-10-15T03:23:31.000Z",
+      "url": "https://www.ithome.com/1/013/269.htm",
+      "digest": "上海人工智能实验室许地生团队依托书生科学多模态大模型S2，人机协同证明三维Ghys猜想，北大团队完成形式化验证。"
+    },
+    {
+      "id": "b0d41e7faab4bffec8fbed150095e6de",
+      "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口",
+      "source": "IT之家",
+      "time": "2026-10-15T03:22:04.000Z",
+      "url": "https://www.ithome.com/1/013/268.htm",
+      "digest": "阶跃星辰开放Step 5 Preview模型权重，采用稀疏MoE架构，总参数600B、激活27B，支持100万token上下文。"
+    },
+    {
+      "id": "777e4d7a5716db25337024e2cb478bc9",
+      "title": "苹果首款智能家居中枢 HomeView 自带温 / 湿度传感器，能与 LG / 施耐德恒温器同步环境数据",
+      "source": "IT之家",
+      "time": "2026-10-15T03:17:52.000Z",
+      "url": "https://www.ithome.com/1/013/265.htm",
+      "digest": "苹果首款智能家居中枢HomeView内置温湿度传感器，可将读数共享给LG电子和施耐德电气的新型恒温器。"
+    },
+    {
+      "id": "8eb9b86d06c5d6fae4d1ac208f8ef95d",
+      "title": "华硕发布 ExpertBook A7 (14\" AMD) 商务轻薄本：锐龙 AI 300 + OLED",
+      "source": "IT之家",
+      "time": "2026-10-15T03:12:26.000Z",
+      "url": "https://www.ithome.com/1/013/264.htm",
+      "digest": "华硕发布ExpertBook A7（14英寸AMD）商务轻薄本，搭载锐龙AI 300处理器与OLED屏，采用铝合金一体成型机身。"
+    },
+    {
+      "id": "98dd257c989419f9ca15bece96b4b763",
+      "title": "苹果 AI 国内供应商浮出水面：阿里、百度，消息称 12 月 iOS 27.3 上线",
+      "source": "IT之家",
+      "time": "2026-10-15T02:59:04.000Z",
+      "url": "https://www.ithome.com/1/013/257.htm",
+      "digest": "苹果计划12月通过iOS 27.3在中国大陆上线Apple Intelligence，首批为两年前美国已发布功能，覆盖iPhone、iPad和Mac。"
     },
     {
       "id": "13a6695fb386a73d1284f825d0c75a73",
@@ -36,7 +143,8 @@
       "source": "IT之家",
       "time": "2026-10-15T01:35:07.000Z",
       "url": "https://www.ithome.com/1/013/190.htm",
-      "digest": ""
+      "digest": "Rambus发布面向基于LPDDR6的SOCAMM2内存模组的PMIC芯片，为LPDDR6 SOCAMM2生态扩展打下基础。",
+      "text": "目前的 SOCAMM2 产品均基于 LPDDR5X，Rambus 此时布局 LPDDR6 SOCAMM2 将为该生态系统未来的进一步扩展打下基石。"
     },
     {
       "id": "28bcb8b9ae3f46358b480221a94c3f73",
@@ -44,7 +152,8 @@
       "source": "IT之家",
       "time": "2026-10-15T01:32:13.000Z",
       "url": "https://www.ithome.com/1/013/188.htm",
-      "digest": ""
+      "digest": "微软以公共预览版面向Linux平台推出Microsoft Defender，整合企业级杀毒、EDR、漏洞管理等安全工具。",
+      "text": "微软昨日（10 月 14 日）发布公告，宣布以公共预览版（Public Preview）形式，面向 Linux 平台推出 Microsoft Defender，整合企业级杀毒软件、端点检测与响应（EDR）、漏洞管理及高级安全工具等。"
     },
     {
       "id": "eb040d17ecb6d228be14415ec429bb98",
@@ -52,7 +161,8 @@
       "source": "IT之家",
       "time": "2026-10-15T01:12:02.000Z",
       "url": "https://www.ithome.com/1/013/181.htm",
-      "digest": ""
+      "digest": "特斯拉向搭载英特尔芯片HW3的老款Model S/X推送FSD v14 Lite，带来强化学习升级但缺少自动倒车等功能。",
+      "text": "FSD v14.3 Lite 专为英特尔芯片 HW3 老车打造，带来强化学习升级与更顺滑的驾驶体验，但也缺少自动倒车、智能召唤等新功能。#特斯拉FSD# #老车升级#"
     },
     {
       "id": "90566bacc3fd9314543fd76d0f1939d4",
@@ -60,7 +170,8 @@
       "source": "IT之家",
       "time": "2026-10-15T00:40:58.000Z",
       "url": "https://www.ithome.com/1/013/172.htm",
-      "digest": ""
+      "digest": "Epic称传统编程太难，使用AI开发新版Epic Games启动器，称其速度更快、响应更灵敏、界面焕新。",
+      "text": "Epic 游戏商城官网发布的公告称，由于传统编程方式太过困难，公司决定使用 AI 开发新版启动器。“编程太难了。所以我们干脆用氛围编程做了一款全新的 Epic Games 启动器，不仅速度比旧版快得多，操作响应更灵敏，界面也焕然一新。”"
     },
     {
       "id": "c8ad2326750d8102abd82f052e82efdf",
@@ -68,7 +179,8 @@
       "source": "IT之家",
       "time": "2026-10-15T00:34:52.000Z",
       "url": "https://www.ithome.com/1/013/171.htm",
-      "digest": ""
+      "digest": "Linux之父托瓦兹提交首个由大语言模型辅助开发的内核补丁系列，使并发文件读取吞吐量提升约3倍。",
+      "text": "科技媒体 lwn 昨日（10 月 14 日）发布博文，报道称 Linux 之父林纳斯 · 托瓦兹（Linus Torvalds）在其个人 Git 仓库中推送了一个名为 noref-filemap-read-with-llm 的新开发分支，正式提交了他首个由大语言模型（LLM）辅助开发的内核补丁系列。"
     },
     {
       "id": "936aba8c34463c63a01f08e0ae2667f1",
@@ -76,7 +188,8 @@
       "source": "爱范儿",
       "time": "2026-10-15T00:13:28.000Z",
       "url": "https://www.ifanr.com/1684374?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "早报汇总：苹果公布HomeView维修费279美元；ASML第三季度营收116.62亿欧元并计划扩产应对AI需求；9月存储设备价格同比上涨46.7%。",
+      "text": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7%"
     },
     {
       "id": "a0f039ba8da3ffe640e1b7b95000ff67",
@@ -84,7 +197,8 @@
       "source": "IT之家",
       "time": "2026-10-15T00:09:24.000Z",
       "url": "https://www.ithome.com/1/013/168.htm",
-      "digest": ""
+      "digest": "YouTube Music上线AI音乐标注功能，提高音乐作品使用AI的透明度，后续将扩展至主YouTube应用。",
+      "text": "YouTube 昨日（10 月 14 日）发布公告，为了提高在音乐作品使用 AI 的透明度，宣布其音乐平台 YouTube Music 上线 AI 音乐标注功能，后续将同步扩展至主 YouTube 应用程序。"
     },
     {
       "id": "91574f69d8caf9a9652378fc81794a8d",
@@ -92,7 +206,8 @@
       "source": "IT之家",
       "time": "2026-10-15T00:06:16.000Z",
       "url": "https://www.ithome.com/1/013/167.htm",
-      "digest": ""
+      "digest": "分析师预计台积电Q3净利润同比增长65%至7463亿新台币，受益于AI芯片及CoWoS封装需求，有望连续第六季度创盈利新高。",
+      "text": "台积电将于周四发布财报，分析师预测其 Q3 净利润同比增长 65%，达 7463 亿新台币。受益于 AI 芯片及 CoWoS 封装需求旺盛，这家英伟达与苹果的核心供应商有望连续第六季度创盈利新高。#台积电Q3财报# #AI芯片#"
     },
     {
       "id": "65afd5722d9604dde1c4cd7c0c3989a2",
@@ -100,7 +215,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:54:39.000Z",
       "url": "https://www.ithome.com/1/013/164.htm",
-      "digest": ""
+      "digest": "英伟达CEO黄仁勋表示，若客户开发不安全AI软件，将停止供应芯片。",
+      "text": "在伦敦接受彭博社 Emily Chang 采访时，英伟达首席执行官黄仁勋表示，假若其客户被认定正在开发不安全或不负责任的人工智能（AI）软件，英伟达将断然停止向其供应芯片。"
     },
     {
       "id": "93372ecb633da91309931571cc457090",
@@ -108,7 +224,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:52:13.000Z",
       "url": "https://www.ithome.com/1/013/163.htm",
-      "digest": ""
+      "digest": "华为畅享100系列手机曝光，Pro版配麒麟8系平台和超8000mAh电池，含移动AI定制版。",
+      "text": "博主 @数码闲聊站 10 月 14 日爆料，称华为畅享 100 系列手机 Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色，屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造，电池容量超 8000mAh。而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色，会做运营商渠道机，包括移动 AI 定制版，用来继续冲量。>> 查看详情"
     },
     {
       "id": "30829f426ff8575c2f9bad374ba04fd6",
@@ -116,7 +233,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:44:26.000Z",
       "url": "https://www.ithome.com/1/013/161.htm",
-      "digest": ""
+      "digest": "Colossal推出AI平台GenoMorph，结合多学科加速复活灭绝物种研究，渡渡鸟项目已锁定约2300个靶点。",
+      "text": "GenoMorph 结合三维形态学、比较基因组学与发育生物学，可在基因数据极少的项目中筛选编辑靶点。目前渡渡鸟项目已锁定约 2300 个候选靶点，尼科巴鸠种群增至 36 只。#ColossalBiosciences#"
     },
     {
       "id": "49f7a86b47ccb6edd6e3ba6b5cf4ea18",
@@ -124,7 +242,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:39:08.000Z",
       "url": "https://www.ithome.com/1/013/160.htm",
-      "digest": ""
+      "digest": "美国8州起诉OpenAI，指控ChatGPT指导青少年自伤或伤害他人，为针对AI公司最大规模协调诉讼。",
+      "text": "这是美国各州迄今针对人工智能公司规模最大的协调诉讼行动，也使 OpenAI 在准备上市之际又要面临新的法律挑战。今年 6 月，佛罗里达州总检察长就曾率先提起同类诉讼。"
     },
     {
       "id": "5604182c0db6ce83fefca325fc757711",
@@ -132,7 +251,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:35:09.000Z",
       "url": "https://www.ithome.com/1/013/159.htm",
-      "digest": ""
+      "digest": "SpaceXAI发布Grok Voice 3.0语音模型，号称全球最智能，延迟低于1秒。",
+      "text": ""
     },
     {
       "id": "9780f76534e2baf20ccccf7010ac1617",
@@ -140,7 +260,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:30:06.000Z",
       "url": "https://www.ithome.com/1/013/158.htm",
-      "digest": ""
+      "digest": "OpenAI基础设施与AI算力负责人卡蒂离职，曾主导“星际之门”计划。",
+      "text": ""
     },
     {
       "id": "3da1ec1076a00e763c808fbeba2bc359",
@@ -148,7 +269,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:26:41.000Z",
       "url": "https://www.ithome.com/1/013/157.htm",
-      "digest": ""
+      "digest": "OpenAI承诺不使用苹果所称被窃商业秘密，双方诉讼互指窃取机密。",
+      "text": ""
     },
     {
       "id": "2543c81acb2337459406fd5a11ddfc24",
@@ -156,7 +278,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:15:50.000Z",
       "url": "https://www.ithome.com/1/013/155.htm",
-      "digest": ""
+      "digest": "麦肯锡面试引入AI客户对线环节，要求候选人与AI互动十分钟。",
+      "text": ""
     },
     {
       "id": "5ad4830aa6fac9b830b5d65bd7b2ca7f",
@@ -164,7 +287,8 @@
       "source": "IT之家",
       "time": "2026-10-14T23:13:18.000Z",
       "url": "https://www.ithome.com/1/013/154.htm",
-      "digest": ""
+      "digest": "OpenAI和Anthropic被欧盟调查，若违反AI法案最高罚全球营业额3%。",
+      "text": ""
     },
     {
       "id": "38b7bce4e6b9f3187ced0856da50b51e",
@@ -172,7 +296,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T20:33:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30707156.html",
-      "digest": ""
+      "digest": "香港科技大学、埃斯顿与飞渡科技战略签约，共筑物理AI技术底座。",
+      "text": ""
     },
     {
       "id": "83062d872c913a0f2f5b60d6c78e74d6",
@@ -180,7 +305,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T17:24:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707116.html",
-      "digest": ""
+      "digest": "万元级人形机器人被质疑仅为“赛博玩具”，引发行业讨论。",
+      "text": ""
     },
     {
       "id": "9b5d197c492f2d9dc1ab38de1eafb777",
@@ -188,7 +314,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T15:48:00.000Z",
       "url": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
-      "digest": ""
+      "digest": "字节Seed设立大模型安全与对齐部门；华为下一代麒麟芯片进入测试阶段。",
+      "text": ""
     },
     {
       "id": "f9a9007f3cc0a8e043fc810a30f9d4cc",
@@ -196,7 +323,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T15:45:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707098.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "a3dabf8feb4aae07620d87897ca1445c",
@@ -204,7 +332,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T15:40:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707094.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "f9ef34d66cf3a9470827c3999e5c7827",
@@ -212,7 +341,8 @@
       "source": "爱范儿",
       "time": "2026-10-14T12:35:44.000Z",
       "url": "https://www.ifanr.com/1684341?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "08b1b65956bb4d89a19bd4656def3db9",
@@ -220,7 +350,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196291.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "c6742df986a49eafef012cb5b38a0bee",
@@ -228,7 +359,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196275.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "d913aa64546b14d47bad5db4129cdb78",
@@ -236,7 +368,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196268.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "80e509f1ac4b53a2c01862e07a7760b9",
@@ -244,7 +377,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196262.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "7591800bb9a9ce2a83e02f93d4342c02",
@@ -252,7 +386,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196283.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "639094dab028de0f78c9e67e37002faa",
@@ -260,7 +395,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196266.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "6d86d0b0c55189cc71f8725686bda247",
@@ -268,7 +404,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196259.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "17b1c8176554cd0774f5e2c26dbccdca",
@@ -276,7 +413,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T11:13:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30707015.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "018268b62a358818bdc9de435d99208c",
@@ -284,7 +422,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:59:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707005.html",
-      "digest": ""
+      "digest": "",
+      "text": ""
     },
     {
       "id": "12ef2ebcc4165dfb57da263375916956",
@@ -292,7 +431,8 @@
       "source": "量子位",
       "time": "2026-10-14T10:41:47.000Z",
       "url": "https://www.qbitai.com/2026/10/503294.html",
-      "digest": ""
+      "digest": "2026全球开发者先锋大会暨国际具身智能技能大赛公布十大亮点，聚焦具身智能技术展示与产业对接。",
+      "text": ""
     },
     {
       "id": "bdbb818f70b827909068784cdbe69da3",
@@ -300,7 +440,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:25:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30706989.html",
-      "digest": ""
+      "digest": "库卡介绍如何利用AI技术推动先进制造，从机器人“会思考”向“能干活”演进。",
+      "text": ""
     },
     {
       "id": "901b635bda4d426953a377c7e831115e",
@@ -308,7 +449,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:17:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30706974.html",
-      "digest": ""
+      "digest": "具身智能领域投资方向扩展至航空航天与海洋等新场景，资本布局“上天入海”。",
+      "text": ""
     },
     {
       "id": "64d7736c2640ddd1c8e0316c934a1faa",
@@ -316,7 +458,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:04:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12001-30706968.html",
-      "digest": ""
+      "digest": "摩根大通调整机器人企业评级：优必选被降级，宇树目标价300元，看好产业链“卖铲人”。",
+      "text": ""
     },
     {
       "id": "ec345919bb30a5a504d1c16c1c67656a",
@@ -324,7 +467,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:02:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12005-30706967.html",
-      "digest": ""
+      "digest": "星尘智能半年内完成四轮融资，主打8.99万元机器人，以低价策略赌先放量。",
+      "text": ""
     },
     {
       "id": "c5cf13b6501827913535a621865b3b85",
@@ -332,7 +476,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T10:00:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30706966.html",
-      "digest": ""
+      "digest": "智元机器人再融资10至15亿元，但年内港股IPO上市计划落空。",
+      "text": ""
     },
     {
       "id": "ef966679071d064344623f197fbef6f5",
@@ -340,7 +485,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T09:38:03.000Z",
       "url": "https://www.gkzhan.com/news/detail/196219.html",
-      "digest": ""
+      "digest": "我国具身智能产业加速迈向规模化、产业化新阶段。",
+      "text": ""
     },
     {
       "id": "286d156722c03ab5dcfda1d806ec24af",
@@ -348,7 +494,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T09:38:03.000Z",
       "url": "https://www.gkzhan.com/news/detail/196308.html",
-      "digest": ""
+      "digest": "华沿推出具身智能运动基座，定位为具身智能时代机器人的通用物理底座。",
+      "text": ""
     },
     {
       "id": "2e747b64d4aa114a56ffcd2ab3254ba7",
@@ -356,7 +503,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T09:38:03.000Z",
       "url": "https://www.gkzhan.com/news/detail/195929.html",
-      "digest": ""
+      "digest": "智元第2万台具身机器人下线；宇树发布Dex5-S灵巧手，售价3.99万元起。",
+      "text": ""
     },
     {
       "id": "2fcecb6d4df10f6f0552337c5566fd29",
@@ -364,7 +512,8 @@
       "source": "智能制造网",
       "time": "2026-10-14T09:38:03.000Z",
       "url": "https://www.gkzhan.com/news/detail/195804.html",
-      "digest": ""
+      "digest": "丰田计划部署40万台机器人；零跑已做出完全自研机器人。",
+      "text": ""
     },
     {
       "id": "23e6849f2aa600a58f7ceba58d8ae97f",
@@ -372,7 +521,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T09:15:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
-      "digest": ""
+      "digest": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，推动具身大脑进入产线。",
+      "text": ""
     },
     {
       "id": "c8eb25e4fb9aadbe55540e891e2b4c72",
@@ -380,7 +530,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T08:22:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30706933.html",
-      "digest": ""
+      "digest": "中科第五纪发布两大新品并演示众机协同，加速具身智能产业落地。",
+      "text": ""
     },
     {
       "id": "6159696e5787dbd5db1174bb0921c291",
@@ -388,7 +539,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-14T08:12:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30706934.html",
-      "digest": ""
+      "digest": "深诣机器人在工博会发布新品，采用强化学习实现自进化，面向机器人智能化应用。",
+      "text": ""
     },
     {
       "id": "5ea535d3d56a075f555cbb547f19831c",
@@ -396,7 +548,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T07:42:00.000Z",
       "url": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
-      "digest": ""
+      "digest": "雷峰网报道AI短剧行业日产达1500部，反映AIGC内容生产效率大幅提升。",
+      "text": ""
     },
     {
       "id": "433c728b5c481ffe8c5db6b0c41ae345",
@@ -404,7 +557,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T07:18:00.000Z",
       "url": "https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html",
-      "digest": ""
+      "digest": "爱诗科技在香港数码港设立办公室，推动香港AI枢纽建设。",
+      "text": ""
     },
     {
       "id": "0b30033b7f6d84e31fb1df212ff5e64f",
@@ -412,7 +566,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T06:27:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html",
-      "digest": ""
+      "digest": "豆包工作上线新功能，支持跨AI产品一键导入已有配置。",
+      "text": ""
     },
     {
       "id": "fa8dfafc84a3a8851c162c823c7f6364",
@@ -420,7 +575,8 @@
       "source": "量子位",
       "time": "2026-10-14T06:24:00.000Z",
       "url": "https://www.qbitai.com/2026/10/503198.html",
-      "digest": ""
+      "digest": "MemSilicon完成国际首款高密度大容量1T4R 1Gb RRAM芯片流片，涉及存储芯片制造。",
+      "text": ""
     },
     {
       "id": "1ea232aba21bf9d4ce81d1cb476b7a2c",
@@ -428,7 +584,8 @@
       "source": "爱范儿",
       "time": "2026-10-14T06:10:14.000Z",
       "url": "https://www.ifanr.com/1684269?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "Anthropic宣布弃用Git，反映AI编程工具对传统开发流程的冲击。",
+      "text": ""
     },
     {
       "id": "01f9a7d82885d3c62b61c6e8e22eeaee",
@@ -436,7 +593,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T05:57:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
-      "digest": ""
+      "digest": "腾讯企业微信与WorkBuddy深度联合，推进AI办公场景落地。",
+      "text": ""
     },
     {
       "id": "150545ec9c28883e2b3e02f0de5dbe12",
@@ -444,7 +602,8 @@
       "source": "量子位",
       "time": "2026-10-14T04:51:32.000Z",
       "url": "https://www.qbitai.com/2026/10/503172.html",
-      "digest": ""
+      "digest": "国内最年轻AI教授创业，目标让世界模型走向全身全模态。",
+      "text": ""
     },
     {
       "id": "2b7b4901d0e0c08f70239071cf9e4e47",
@@ -452,7 +611,8 @@
       "source": "量子位",
       "time": "2026-10-14T04:09:29.000Z",
       "url": "https://www.qbitai.com/2026/10/503173.html",
-      "digest": ""
+      "digest": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升80%。",
+      "text": ""
     },
     {
       "id": "3a45e61a4521f28d7c9b0fe3f46b13e1",
@@ -460,7 +620,8 @@
       "source": "量子位",
       "time": "2026-10-14T03:32:48.000Z",
       "url": "https://www.qbitai.com/2026/10/503165.html",
-      "digest": ""
+      "digest": "APUS AI开源Reflex Agent，称响应速度比Claude Code快3倍并支持无限上下文。",
+      "text": ""
     },
     {
       "id": "aa6895be54b3f3ca196cdc2973627081",
@@ -468,7 +629,8 @@
       "source": "雷峰网",
       "time": "2026-10-14T02:35:00.000Z",
       "url": "https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html",
-      "digest": ""
+      "digest": "宾大茅佳源在IROS 2026分享具身智能研究，实现从单次演示到83%真机泛化。",
+      "text": ""
     },
     {
       "id": "375870bfe0b5c872234121bc2102888f",
@@ -476,7 +638,8 @@
       "source": "爱范儿",
       "time": "2026-10-14T02:30:24.000Z",
       "url": "https://www.ifanr.com/1684200?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "企业微信与WorkBuddy合作，推动AI在办公场景中减少人工干预。",
+      "text": ""
     },
     {
       "id": "f4ebb26ed6bb16192f37fd863e783831",
@@ -484,7 +647,8 @@
       "source": "量子位",
       "time": "2026-10-14T02:14:50.000Z",
       "url": "https://www.qbitai.com/2026/10/503157.html",
-      "digest": ""
+      "digest": "openJiuwen首发个人知识空间产品，面向个人办公智能体场景，解决资料散落问题。",
+      "text": ""
     },
     {
       "id": "f5b5dfe428ad762865eb25808ecb0769",
@@ -492,7 +656,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T19:12:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30706936.html",
-      "digest": ""
+      "digest": "魔法原子具身Agent框架在MolmoSpaces评测中获全球第一，推动VLA从演示走向产线应用。",
+      "text": ""
     },
     {
       "id": "3b27284b8b7c074dbbb49a8936912829",
@@ -500,7 +665,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T17:13:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30706908.html",
-      "digest": ""
+      "digest": "报道指出AI数据喂养已形成产业链，涉及数据采集、标注等环节。",
+      "text": ""
     },
     {
       "id": "d861425231618e10a7afe57d0571f4d0",
@@ -508,7 +674,8 @@
       "source": "爱范儿",
       "time": "2026-10-13T14:37:37.000Z",
       "url": "https://www.ifanr.com/1684048?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "巴黎车展上中国车企集中亮相，理想i6以「Li 6」命名，吉利接手福特工厂。",
+      "text": ""
     },
     {
       "id": "281f0eba45aaf3ee6394602a481cc9e8",
@@ -516,7 +683,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T13:44:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-8460-30706840.html",
-      "digest": ""
+      "digest": "利拓智能完成A轮融资，获国资加持，具体金额未披露。",
+      "text": ""
     },
     {
       "id": "43d6b9f8586fd6939972e999fa4e1960",
@@ -524,7 +692,8 @@
       "source": "智能制造网",
       "time": "2026-10-13T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/196252.html",
-      "digest": ""
+      "digest": "传感器厂商华高科技拟在新三板挂牌。",
+      "text": ""
     },
     {
       "id": "d606ca7177631aca92c3eb470aacabce",
@@ -532,7 +701,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T11:31:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30706820.html",
-      "digest": ""
+      "digest": "美的太子孵化的机器人公司烧光6亿元后破产。",
+      "text": ""
     },
     {
       "id": "c52ad6e8a0b5ee1ceaabea41ccdc31c3",
@@ -540,7 +710,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T11:21:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30706808.html",
-      "digest": ""
+      "digest": "前钉钉高管创办的工业机器人企业冲刺上市，百度已套现1亿元。",
+      "text": ""
     },
     {
       "id": "5556bffc2c53013839f0ca322f9480ba",
@@ -548,7 +719,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T11:12:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30706813.html",
-      "digest": ""
+      "digest": "地瓜机器人展出多类工业AI方案，覆盖色选质检与柔性装配场景。",
+      "text": ""
     },
     {
       "id": "3318f303e710cba4a1b30cc2588a9d25",
@@ -556,7 +728,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-13T09:50:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-8110-30706743.html",
-      "digest": ""
+      "digest": "乐聚机器人发布通用方案，单手可完成多种作业，精度达0.03mm。",
+      "text": ""
     },
     {
       "id": "97573ee0ae5f7e14c02b7f2b7848e253",
@@ -564,7 +737,8 @@
       "source": "雷峰网",
       "time": "2026-10-13T09:20:00.000Z",
       "url": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
-      "digest": ""
+      "digest": "字节最早天使投资人投资一家AI音乐硬件公司。",
+      "text": ""
     },
     {
       "id": "7dd0a46ced91dbfcd125c8ca4b2c2f96",
@@ -572,7 +746,8 @@
       "source": "爱范儿",
       "time": "2026-10-13T08:25:53.000Z",
       "url": "https://www.ifanr.com/1683963?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "Meta发布代号「西瓜」的神秘模型，跑分媲美Opus 5.5，但口碑不佳。",
+      "text": ""
     },
     {
       "id": "f63f6a91025a8ce6304ba0c8cbbd81f0",
@@ -580,7 +755,8 @@
       "source": "雷峰网",
       "time": "2026-10-13T05:50:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
-      "digest": ""
+      "digest": "其域创新建成全球最大空地一体3D高斯模型“闽宁镇”，含62亿个高斯、150亿个点云。",
+      "text": ""
     },
     {
       "id": "a485c591ac9fcd99d3668075e795c2ee",
@@ -588,7 +764,8 @@
       "source": "雷峰网",
       "time": "2026-10-13T05:43:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
-      "digest": ""
+      "digest": "字节跳动Seed单独设立大模型安全与对齐部门，强化模型安全治理。",
+      "text": ""
     },
     {
       "id": "af6ec79538739602a354502c07205a75",
@@ -596,7 +773,8 @@
       "source": "极客公园",
       "time": "2026-10-13T03:44:18.000Z",
       "url": "http://www.geekpark.net/news/372278",
-      "digest": ""
+      "digest": "复旦邱锡鹏团队成立两年获超10亿元融资，研发感知并响应变化世界的模型。",
+      "text": ""
     },
     {
       "id": "490895ecee0498375f3ad5b615d8df33",
@@ -604,7 +782,8 @@
       "source": "雷峰网",
       "time": "2026-10-13T02:44:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html",
-      "digest": ""
+      "digest": "1688全面接入AI电商工作台Accio，以AI能力服务平台商家。",
+      "text": ""
     },
     {
       "id": "665933188d1515ab1ee959c5985b09b6",
@@ -612,7 +791,8 @@
       "source": "雷峰网",
       "time": "2026-10-13T02:43:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/rsj1mgq45ea7h9mt.html",
-      "digest": ""
+      "digest": "1688全面接入AI电商工作台Accio，以AI能力服务平台商家。",
+      "text": ""
     },
     {
       "id": "250c179da8bd6f5f3484470e3b28ad16",
@@ -620,7 +800,8 @@
       "source": "极客公园",
       "time": "2026-10-13T00:27:49.000Z",
       "url": "http://www.geekpark.net/news/372264",
-      "digest": ""
+      "digest": "梁文锋密集会见机器人创业者，影石出货量累计突破1000万台，Meta发布Muse Wonder模型。",
+      "text": ""
     },
     {
       "id": "9bb4485d45cf5005ddd350896e3ceae1",
@@ -628,7 +809,8 @@
       "source": "爱范儿",
       "time": "2026-10-13T00:17:03.000Z",
       "url": "https://www.ifanr.com/1683909?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
-      "digest": ""
+      "digest": "库克称Apple Watch要做个人守护者，华为折叠屏出货量破2000万台，DeepSeek拟入局具身智能。",
+      "text": ""
     },
     {
       "id": "f274e2e89cf9ec22f3c2b65ffe76f8f6",
@@ -636,7 +818,8 @@
       "source": "OFweek机器人",
       "time": "2026-10-12T15:12:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30706659.html",
-      "digest": ""
+      "digest": "库卡发布“开天KAI”智能平台，以系统化方案满足整厂智能化需求。",
+      "text": ""
     },
     {
       "id": "6b034412d1a13d7aa3764f395448bd67",
@@ -644,7 +827,8 @@
       "source": "极客公园",
       "time": "2026-10-12T12:15:30.000Z",
       "url": "http://www.geekpark.net/news/372263",
-      "digest": ""
+      "digest": "某AI项目一周获10万星，可逆向一切，作者提醒业界保持冷静。",
+      "text": ""
     },
     {
       "id": "731e36f9c9f5c46135702f443e27c3fd",
@@ -652,7 +836,8 @@
       "source": "OFweek机器人",
       "time": "2026-09-30T11:59:00.000Z",
       "url": "https://robot.ofweek.com/2026-09/ART-8321202-12003-30705431.html",
-      "digest": ""
+      "digest": "盟识科技将矿卡作为机器人研发，获超亿元A+轮融资。",
+      "text": ""
     },
     {
       "id": "b1f2dd587578b0c14a068ee2e09289c8",
@@ -660,7 +845,8 @@
       "source": "OFweek机器人",
       "time": "2026-09-30T09:45:00.000Z",
       "url": "https://robot.ofweek.com/2026-09/ART-8321202-8420-30705331.html",
-      "digest": ""
+      "digest": "全球首台国产化电子架构机器人发布，出厂前先经攻击者渗透测试。",
+      "text": ""
     },
     {
       "id": "6571057bfdaed79d01989e0380815262",
@@ -668,7 +854,8 @@
       "source": "智能制造网",
       "time": "2026-09-29T09:08:03.000Z",
       "url": "https://www.gkzhan.com/news/detail/196226.html",
-      "digest": ""
+      "digest": "Figure退役机器人被投入钢水熔毁，比亚迪人形机器人外观专利公布。",
+      "text": ""
     },
     {
       "id": "20eb1cc14f722ea8438c3c54a8a152a1",
@@ -676,7 +863,8 @@
       "source": "智能制造网",
       "time": "2026-09-17T09:46:08.000Z",
       "url": "https://www.gkzhan.com/news/detail/196241.html",
-      "digest": ""
+      "digest": "此芯科技在2026中国工博会国芯展展出其完整工业落地体系，涉及芯片在工业场景的应用。",
+      "text": ""
     }
   ]
 }
