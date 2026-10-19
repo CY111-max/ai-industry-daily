@@ -4,8 +4,56 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-19T00:29:45.605Z",
+  "updatedAt": "2026-10-19T01:37:35.066Z",
   "items": [
+    {
+      "id": "361c9d44ba6692fd6190cd216d330298",
+      "title": "三部门组织开展 2026 年“孝老爱老购物季”活动，引导电商平台搭建线上适老产品虚拟展厅、加快智能护理机器人迭代升级",
+      "source": "IT之家",
+      "time": "2026-10-19T01:32:15.000Z",
+      "url": "https://www.ithome.com/1/014/659.htm",
+      "digest": "工信部等三部门启动 2026 年“孝老爱老购物季”，引导电商平台建适老产品虚拟展厅，并推动智能护理机器人迭代升级。"
+    },
+    {
+      "id": "f7ee0dab53c916c427ff8ac4179e8f96",
+      "title": "杭州具身大脑创企格物通智融资近亿元，多家国资出手投资",
+      "source": "IT之家",
+      "time": "2026-10-19T01:19:36.000Z",
+      "url": "https://www.ithome.com/1/014/652.htm",
+      "digest": "杭州具身大脑企业格物通智完成近亿元天使轮融资，投资方含杭州资本、杭州人才集团等国资，资金用于世界模型预训练与场景验证。"
+    },
+    {
+      "id": "c95febb9761161a5665fc3b0ad9ed9d4",
+      "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
+      "source": "极客公园",
+      "time": "2026-10-19T01:18:11.000Z",
+      "url": "http://www.geekpark.net/news/372514",
+      "digest": "OpenAI API 模型列表短暂出现 aurora-red/green/blue-alpha 三个未公开模型，来自第三方镜像而非官方公告，具体用途未明。"
+    },
+    {
+      "id": "6252eabca0dfa63cd8ce8158b1c47cb1",
+      "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
+      "source": "IT之家",
+      "time": "2026-10-19T01:14:28.000Z",
+      "url": "https://www.ithome.com/1/014/651.htm",
+      "digest": "Anthropic 向外部评估机构开放类员工级访问权限，用于评估模型风险，非营利机构 METR 团队已入驻其办公场所。"
+    },
+    {
+      "id": "9896a8b7bb3a07c55ed51a2efbd8a444",
+      "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+      "source": "IT之家",
+      "time": "2026-10-19T01:12:44.000Z",
+      "url": "https://www.ithome.com/1/014/650.htm",
+      "digest": "今日宜休创始人王腾宣布 ISHO 今日宜休 AI 睡眠科技生态产品发布会定于 10 月 29 日 19:00 举行。"
+    },
+    {
+      "id": "72a1886a10ce3bae533fd5633433fd78",
+      "title": "中信证券：看好国产大模型持续崛起",
+      "source": "IT之家",
+      "time": "2026-10-19T01:06:09.000Z",
+      "url": "https://www.ithome.com/1/014/646.htm",
+      "digest": "中信证券研报认为 Harness 有望成为 DeepSeek 从模型供给走向平台生态的关键环节，看好国产大模型持续崛起。"
+    },
     {
       "id": "a282267cb39213f73daba400d769475b",
       "title": "演员吴越被 AI 生成虚假带货视频，微信视频号回应称涉事账号已永久封禁、内容清空",
@@ -477,6 +525,14 @@
       "time": "2026-02-04T11:40:05.000Z",
       "url": "https://www.gkzhan.com/news/detail/196354.html",
       "digest": "利欧泵业自主研发的高效水力模型入选水利部2026年度先进实用技术重点推广目录。"
+    },
+    {
+      "id": "b66c17b4ffe129e653df8cbc50b01c49",
+      "title": "2026年度杭州市绿色低碳工厂！开发区＋2！",
+      "source": "智能制造网",
+      "time": "2025-11-26T09:59:16.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196311.html",
+      "digest": "杭州市经信局公布 2026 年度市级绿色低碳工厂名单，萧山经开区美高华颐化工、万向一二三两家企业入选。"
     },
     {
       "id": "3a5e3c9a2abfb951e0084568b5889317",
