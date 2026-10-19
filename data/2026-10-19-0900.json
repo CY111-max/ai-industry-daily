@@ -4,8 +4,160 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-19T01:37:35.066Z",
+  "updatedAt": "2026-10-19T05:17:20.318Z",
   "items": [
+    {
+      "id": "7830b3289f0662469641f22bff448c1b",
+      "title": "人形机器人首批国家标准正式发布",
+      "source": "智能制造网",
+      "time": "2026-10-19T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196388.html",
+      "digest": "《人形机器人技术要求第4部分：运动控制》（GB/T48317.4—2026）发布，为人形机器人首批国家标准，将于2027年4月1日实施。"
+    },
+    {
+      "id": "95c81b94253c0b6b1f2efebd374ca2f8",
+      "title": "机器人打擂台，打出了一门新生意",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T11:31:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707657.html",
+      "digest": "众擎机器人发起URKL全球人形机器人自由格斗联赛并设总奖，付费观赛的机器人格斗正成为一门生意。"
+    },
+    {
+      "id": "9fbd3ff3060612a80346ac5d78b2310e",
+      "title": "融资16亿，割草机器人开始倒下",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T10:52:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30707642.html",
+      "digest": "截至9月22日国内割草机器人赛道年内融资接近16亿元，乐动机器人5月登陆港交所首日大涨127%，同时部分企业开始倒下。"
+    },
+    {
+      "id": "42fe7020194ca7639c64665b5de5d38f",
+      "title": "奥特曼官宣Openai自研人形机器人，软硬全栈冲击国内具身创业者",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T10:34:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30707633.html",
+      "digest": "奥特曼在播客访谈中确认OpenAI自研人形机器人，称物理世界为人类身体设计，此举将冲击国内具身智能创业者。"
+    },
+    {
+      "id": "24a07d81f97a764ca06c55eae87c5bfe",
+      "title": "OpenAI扩招27个硬件岗，人形机器人只做演示不量产",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T10:34:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30707632.html",
+      "digest": "OpenAI官网机器人相关职位增至27个，较5月的11个明显扩招，覆盖算法、控制、执行器、传感器、供应链等，但人形机器人仅做演示不量产。"
+    },
+    {
+      "id": "ca1596efd99228c55aeb1b4e98bd0eb8",
+      "title": "研究发现：AI 可篡改人类记忆，植入从未发生的虚假事件",
+      "source": "IT之家",
+      "time": "2026-10-19T05:08:13.000Z",
+      "url": "https://www.ithome.com/1/014/768.htm",
+      "digest": "麻省理工学院媒体实验室研究发现，经AI修改的照片可使受试者形成虚假记忆，涉及200名受试者与24张原始照片。"
+    },
+    {
+      "id": "025b3d7970db6d7aa9505345c9deacb4",
+      "title": "因阻拦配送机器人，美国费城一女子被警方逮捕",
+      "source": "IT之家",
+      "time": "2026-10-19T04:51:17.000Z",
+      "url": "https://www.ithome.com/1/014/764.htm",
+      "digest": "美国费城一女子因阻拦优步配送机器人通行、拒不避让被警方逮捕，其称以此抗议机器人抢走配送员工作。"
+    },
+    {
+      "id": "dbdde28203b262ced81b026a4cf2525d",
+      "title": "AI 公司 HUMXN 免费上门修水电、通管道，只为录像收集数据训练 AI 机器人",
+      "source": "IT之家",
+      "time": "2026-10-19T04:11:18.000Z",
+      "url": "https://www.ithome.com/1/014/758.htm",
+      "digest": "AI实验室HUMXN免费为居民提供管道、电工等上门维修服务，条件是录制工人作业过程，用于训练AI机器人。"
+    },
+    {
+      "id": "b4fd2157255b48083482702938fabe79",
+      "title": "MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级",
+      "source": "极客公园",
+      "time": "2026-10-19T04:00:32.000Z",
+      "url": "http://www.geekpark.net/news/372545",
+      "digest": "铭芯启睿（MemSilicon）完成超4亿元A轮融资，博原资本领投，资金用于RRAM产业化及面向大模型推理的LPU研发。"
+    },
+    {
+      "id": "932b7bb5e1b63c23d9013dca52e53127",
+      "title": "山姆投诉举报恶意攻击及 AI 虚假营销信息：部分账号编造“山姆下架好物”引流牟利",
+      "source": "IT之家",
+      "time": "2026-10-19T03:58:18.000Z",
+      "url": "https://www.ithome.com/1/014/754.htm",
+      "digest": "山姆会员商店称多个平台出现数千条恶意攻击及虚假营销信息，部分账号用AI生成、拼接素材编造“山姆下架好物”，已投诉举报。"
+    },
+    {
+      "id": "84e9a8060f0ce887ee3a0ab523387f36",
+      "title": "六小龄童谈孙悟空、林黛玉 AI 魔改“圣黛 CP”：创意很好玩，但改编不能逾越政策法规和观众红线",
+      "source": "IT之家",
+      "time": "2026-10-19T03:57:11.000Z",
+      "url": "https://www.ithome.com/1/014/753.htm",
+      "digest": "六小龄童谈及孙悟空与林黛玉AI魔改“圣黛CP”播放量达50亿次，称创意好玩但改编不能逾越政策法规和观众红线。"
+    },
+    {
+      "id": "d654e50cd9ce3603735b4054bf795356",
+      "title": "研究人员开发 AI 系统：可通过 Wi‑Fi 信号识别隐藏手枪",
+      "source": "IT之家",
+      "time": "2026-10-19T03:32:53.000Z",
+      "url": "https://www.ithome.com/1/014/738.htm",
+      "digest": "瑞典国防研究局（FOI）开发WiFireNet系统，通过分析Wi-Fi信道状态信息识别隐藏手枪，论文已发布在arXiv。"
+    },
+    {
+      "id": "81dfbcb9440f456c53cda1166a2b9076",
+      "title": "豆包刘星回应“国内超一半算力在造爽剧”：字节总算力中，只有约 10% 用于视频生成模型的训练和推理",
+      "source": "IT之家",
+      "time": "2026-10-19T03:30:25.000Z",
+      "url": "https://www.ithome.com/1/014/729.htm",
+      "digest": "豆包公关负责人刘星回应称，字节总算力中仅约10%用于视频生成模型训练和推理，反驳中文在线披露的国内AI Token消耗过半用于短剧视频生成的说法。"
+    },
+    {
+      "id": "35dd62c1cfa753d9d3c1ba9d1aa80d79",
+      "title": "复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人",
+      "source": "雷峰网",
+      "time": "2026-10-19T03:06:00.000Z",
+      "url": "https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html",
+      "digest": "复旦贾萧松指出，VLA、WAM等新架构层出不穷，但自动驾驶真正的瓶颈不在模型架构，其团队曾提出Think2Drive。"
+    },
+    {
+      "id": "cef777fa83b764da33145d54c54d36f2",
+      "title": "特斯拉声明没有速成车，陶琳称安全稳定可靠、让人安心是最大的豪华",
+      "source": "IT之家",
+      "time": "2026-10-19T03:03:49.000Z",
+      "url": "https://www.ithome.com/1/014/723.htm",
+      "digest": "特斯拉官方发文称不存在“速成车”，强调其直营体系覆盖买车到换车全流程，销售、交付、客服、技师均为自营。"
+    },
+    {
+      "id": "c9754b26ee28040f66f243d950f64d21",
+      "title": "Meta：Claude 工具高频访问触发安全机制，No Kings 联盟 Ins 账号遭误封",
+      "source": "IT之家",
+      "time": "2026-10-19T02:54:17.000Z",
+      "url": "https://www.ithome.com/1/014/720.htm",
+      "digest": "Meta表示自动化安全系统误封No Kings联盟Instagram账号，原因是Anthropic旗下Claude的一款工具以约正常四倍速率集中访问，Meta已"
+    },
+    {
+      "id": "57426f3c0d3f35dc6b57d9bbe350a5b1",
+      "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+      "source": "爱范儿",
+      "time": "2026-10-19T02:53:15.000Z",
+      "url": "https://www.ifanr.com/1684840?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "Lovart发布2.0版本，推出个人设计Agent“Arti”，可持续学习用户审美与工作习惯并主动参与设计流程。"
+    },
+    {
+      "id": "aee17adc7bfbee9943a2e6d688a25f10",
+      "title": "八位堂猎户座 3 代青春竞技版手柄预售：阻力可调 TMR 传感器摇杆，199 元",
+      "source": "IT之家",
+      "time": "2026-10-19T02:32:05.000Z",
+      "url": "https://www.ithome.com/1/014/710.htm",
+      "digest": "八位堂启动猎户座3代青春竞技版手柄预售，国行定价199元，配备阻力可调TMR传感器摇杆，10月26日发货。"
+    },
+    {
+      "id": "cdd6b3b98421a3aac5fa840a86e6ba17",
+      "title": "特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展",
+      "source": "雷峰网",
+      "time": "2026-10-19T01:40:00.000Z",
+      "url": "https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html",
+      "digest": "特斯拉发布可飞行Roadster超跑，被业内质疑受场景与法规限制；同日京东称未来5年将创造超10万个机器人维修工程师岗位。"
+    },
     {
       "id": "361c9d44ba6692fd6190cd216d330298",
       "title": "三部门组织开展 2026 年“孝老爱老购物季”活动，引导电商平台搭建线上适老产品虚拟展厅、加快智能护理机器人迭代升级",
@@ -143,6 +295,14 @@
       "digest": "英伟达CentML工程师通过上游vLLM Megakernel优化，使2.8万亿参数Kimi K3在GB300 NVL72上推理速度提升1.68倍。"
     },
     {
+      "id": "bbdc1740b0a7647857c7db92f0582c66",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "source": "量子位",
+      "time": "2026-10-18T11:49:49.000Z",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "digest": "VAST开源实时世界模型EdenLive，可在单张消费级显卡上以720P、超24FPS运行，支持生成可游玩的游戏原型。"
+    },
+    {
       "id": "3d3ff364818943458d314f682cb1b835",
       "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
       "source": "极客公园",
@@ -229,6 +389,14 @@
       "time": "2026-10-16T13:53:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30707452.html",
       "digest": "原鉴智机器人CDO毛卫民加入智元机器人精灵事业部，负责交付与部署业务，反映人形机器人行业转向交付能力竞争。"
+    },
+    {
+      "id": "6807ee78630935f921f4929da5382474",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "source": "量子位",
+      "time": "2026-10-16T13:48:10.000Z",
+      "url": "https://www.qbitai.com/2026/10/504116.html",
+      "digest": "联想YOGA Pro 15 RTX Spark超级AIPC开售，搭载NVIDIA RTX Spark芯片，端侧可运行超千亿参数大模型。"
     },
     {
       "id": "b1b4a2ab77b6ffad02fc93912bc2fcbf",
@@ -479,6 +647,14 @@
       "digest": "源策未来发布以全身智能为核心的人形基础模型及演示，尝试让人形机器人边移动边作业，突破定住干活的局限。"
     },
     {
+      "id": "2559d0651d11b3d59c8efe94fb67f2c0",
+      "title": "快讯|苹果HomeView首发温湿度传感；腾讯云与新华三签署AI战略合作协议",
+      "source": "智能制造网",
+      "time": "2026-10-15T09:34:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196366.html",
+      "digest": "快讯提及苹果AI国内采用阿里提供模型能力、百度负责Siri和视觉智能的双合作模式，以及腾讯云与新华三签署AI战略合作协议。"
+    },
+    {
       "id": "d36bcc0ba7bf7d324f849ee362c2b341",
       "title": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
       "source": "爱范儿",
@@ -517,6 +693,14 @@
       "time": "2026-09-30T10:02:52.000Z",
       "url": "https://www.gkzhan.com/news/detail/196306.html",
       "digest": "工信部门启动2026年度国家绿色工厂、绿色供应链领航企业及绿色工业园区推荐与动态管理工作。"
+    },
+    {
+      "id": "0ddd00cc29f924af0af4e4344be62ea9",
+      "title": "工业物联网无线网络升级：老旧系统的风险与改造策略",
+      "source": "智能制造网",
+      "time": "2026-09-23T13:54:50.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196323.html",
+      "digest": "文章指出工业物联网建设重点正从设备接入转向连接能力长期管理，工业无线网络需兼顾稳定通信、安全防护与跨平台兼容。"
     },
     {
       "id": "12259ffef7085ba92cd2969c8976e75e",
