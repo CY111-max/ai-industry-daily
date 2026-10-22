@@ -1,0 +1,450 @@
+{
+  "id": "2026-10-22-0900",
+  "date": "2026-10-22",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-10-22T00:54:23.944Z",
+  "items": [
+    {
+      "id": "26be295941d5613f31cb978b791f5cdf",
+      "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+      "source": "爱范儿",
+      "time": "2026-10-22T00:21:11.000Z",
+      "url": "https://www.ifanr.com/1685223?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "爱范儿早报汇总：iPhone Duo 全球限购两台、英伟达推出集装箱式 AI 工厂 DSX POD、中办国办部署「人工智能+」行动、特斯拉三季度净利润降 43%"
+    },
+    {
+      "id": "97f6d407837f50f5ef3419c6b0c83698",
+      "title": "通用汽车押注 AI、新型电池，目标令电动汽车研发周期减半",
+      "source": "IT之家",
+      "time": "2026-10-21T23:47:52.000Z",
+      "url": "https://www.ithome.com/1/016/180.htm",
+      "digest": "通用汽车总裁睿思在 GM Forward 活动上重申不退出电动汽车市场，将持续投入电池、软件与先进制造，目标把电动车研发周期减半。"
+    },
+    {
+      "id": "29c3a1c2a7e546d2203ec6dab75e0560",
+      "title": "iPhone Duo 明日开售，纽约第五大道苹果旗舰店提前布置巨型模型",
+      "source": "IT之家",
+      "time": "2026-10-21T23:26:28.000Z",
+      "url": "https://www.ithome.com/1/016/176.htm",
+      "digest": "iPhone Duo 将于明日开售，纽约第五大道苹果旗舰店已在玻璃立方体入口周边搭建大型装置进行预热。"
+    },
+    {
+      "id": "9b39be0419f8e6a939d09f59b9356467",
+      "title": "通用汽车安吉星服务将全面升级：引入 AI 助手，还能帮你控车、排障",
+      "source": "IT之家",
+      "time": "2026-10-21T23:17:09.000Z",
+      "url": "https://www.ithome.com/1/016/175.htm",
+      "digest": "通用汽车将升级安吉星车联网服务，引入 AI 助手支持语音控车与故障排查，未来几个月通过 OTA 率先登陆 2027 款凯迪拉克锐歌。"
+    },
+    {
+      "id": "55447c4a3c514cdd4cb90dbda2f2f284",
+      "title": "影响约 70% 网站：PHP 高危漏洞被修复，OpenAI 牵头协调全球发现 / 修复",
+      "source": "IT之家",
+      "time": "2026-10-21T23:11:56.000Z",
+      "url": "https://www.ithome.com/1/016/173.htm",
+      "digest": "OpenAI 通过「修补地球」计划协助发现 PHP 两项严重漏洞，并联合 PHP 维护团队、Wiz、Cloudflare 等完成约两个月协调修复，影响约 70%"
+    },
+    {
+      "id": "90d14e68464b4c1ef1a21d8b63ac55d8",
+      "title": "沃尔玛推出自有智能体网关，AI 可代用户下单购物",
+      "source": "IT之家",
+      "time": "2026-10-21T23:04:54.000Z",
+      "url": "https://www.ithome.com/1/016/172.htm",
+      "digest": "沃尔玛推出自有智能体网关处理交易，并上线面向 AI 智能体用户的新功能，布局智能体电商，与拦截 AI 代下单的亚马逊形成对比。"
+    },
+    {
+      "id": "2948cf90f05536c51b218219156833ec",
+      "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+      "source": "IT之家",
+      "time": "2026-10-21T22:44:18.000Z",
+      "url": "https://www.ithome.com/1/016/169.htm",
+      "digest": "Anthropic 以研究预览版推出可主动工作的 AI 智能体应用 Claude Duet，加入 Meta Muse、OpenAI Dots 所在的全天候主动型"
+    },
+    {
+      "id": "f87208560fae7de19a2624c39fd4bfc7",
+      "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
+      "source": "OFweek机器人",
+      "time": "2026-10-21T15:41:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708173.html",
+      "digest": "宇树科技股价10月19日、20日分别上涨16.15%和6.07%，收于526.03元，总市值重回2100亿元上方，公司同期发布公告。"
+    },
+    {
+      "id": "caac02de50d8e7471909888cbfb3a0d4",
+      "title": "Optimus量产在即！机器人三道坎特斯拉都没跨过，能否再造奇迹？",
+      "source": "OFweek机器人",
+      "time": "2026-10-21T15:38:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30708170.html",
+      "digest": "特斯拉在年度股东会材料中首次书面确认，第三代人形机器人Optimus已具备大规模量产条件。"
+    },
+    {
+      "id": "c31945dfae1e62001bbbdb22dd543d26",
+      "title": "腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示",
+      "source": "IT之家",
+      "time": "2026-10-21T15:10:22.000Z",
+      "url": "https://www.ithome.com/1/016/145.htm",
+      "digest": "腾讯内测面向少儿与青少年的AI互动内容社区“懂了鸭”，官网与微信小程序已上线，向亲子用户和一线教师开放小范围测试。"
+    },
+    {
+      "id": "551a6708f4f9ad8f9032607b34dff536",
+      "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
+      "source": "IT之家",
+      "time": "2026-10-21T15:10:07.000Z",
+      "url": "https://www.ithome.com/1/016/144.htm",
+      "digest": "华为确认鸿蒙HarmonyOS 7的小艺AI快捷栏功能延期，预计11月初分批推送，该功能可让小艺常驻手机桌面Dock栏。"
+    },
+    {
+      "id": "d30cd3c962ea3351fdcc8f0408e21780",
+      "title": "请立即更新：Node.js 发布最高严重级别高危安全更新",
+      "source": "IT之家",
+      "time": "2026-10-21T15:03:53.000Z",
+      "url": "https://www.ithome.com/1/016/143.htm",
+      "digest": "Node.js针对26.x、24.x和22.x系列发布安全更新，修复10余个漏洞，其中含4个高危漏洞，官方建议立即更新。"
+    },
+    {
+      "id": "726347e7b5a048fa6a41b0deb4356588",
+      "title": "欧姆龙斥资6.75亿美元收购美国工业PC厂商OnLogic",
+      "source": "智能制造网",
+      "time": "2026-10-21T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196455.html",
+      "digest": "欧姆龙签署最终协议，全额收购美国工业及加固型边缘计算厂商OnLogic 100%股权，交易企业价值6.75亿美元。"
+    },
+    {
+      "id": "09ffdca11f8e147885e803c60e44fd69",
+      "title": "优必选科技落子阿联酋拉斯海玛，共推人形机器人前沿研发与产业生态共建",
+      "source": "智能制造网",
+      "time": "2026-10-21T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196473.html",
+      "digest": "优必选科技与阿联酋拉斯海玛政府国际关系办公室签署战略合作备忘录，推进人形机器人技术研发、实景测试与部署。"
+    },
+    {
+      "id": "61462c353dec448c33ffae619159152f",
+      "title": "锚定脑机接口，重塑两轮安全：亿纬锂能前沿新品正式下线",
+      "source": "智能制造网",
+      "time": "2026-10-21T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196484.html",
+      "digest": "亿纬锂能在成都基地发布全固态电池“龙泉三号2.0”与电动两轮车钠电方案，三款电池产品同步下线。"
+    },
+    {
+      "id": "748dc51d3b5430de98a3f5daf350ccd2",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "source": "雷峰网",
+      "time": "2026-10-21T10:00:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
+      "digest": "生数科技世界模型团队开启Motubrain 2.0训练全流程公开直播，持续半个月，展示具身模型预训练与后训练过程，该模型即将开源。"
+    },
+    {
+      "id": "6d45340d110a9f2bd3a39fc812826a2d",
+      "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
+      "source": "雷峰网",
+      "time": "2026-10-21T06:53:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
+      "digest": "信通院报告显示截至2026年6月底全国已建成超70家具身智能训练场，高质量真机语料仅百万小时量级，与千万小时需求相差约一个数量级。"
+    },
+    {
+      "id": "e7206470221a7b27c37b6596cab3255e",
+      "title": "一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？",
+      "source": "雷峰网",
+      "time": "2026-10-21T06:29:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html",
+      "digest": "工信部披露截至2026年6月我国日均词元调用量突破500万亿；智元具身模型一帧画面编码为24个视觉词元，Token成为连接算力、模型与语料的计量接口。"
+    },
+    {
+      "id": "bbae3a4d323de2264a06fba4ecdebe8f",
+      "title": "当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？",
+      "source": "雷峰网",
+      "time": "2026-10-21T06:14:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html",
+      "digest": "张江模力社区上线智能体身份码节点管理平台，30家单位参与节点发放，为智能体赋予可识别、可管理的数字身份，涉及派活与担责等组织管理问题。"
+    },
+    {
+      "id": "ca7dc243e2c14af40e3f6e3173bf1c2f",
+      "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
+      "source": "雷峰网",
+      "time": "2026-10-21T03:07:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html",
+      "digest": "CapaLeap在AI教育领域选择不同于提分工具的方向；调查显示中小学生AI使用率61.7%，71.0%用于辅助作业，58.8%家长觉察孩子对AI产生心理依赖。"
+    },
+    {
+      "id": "50af142ed5e62dd3f078ef161a5d7f67",
+      "title": "从安防到工业，海康威视底气从何而来",
+      "source": "雷峰网",
+      "time": "2026-10-21T02:57:00.000Z",
+      "url": "https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html",
+      "digest": "海康威视在2026中国国际工业博览会展示一百多款场景数字化产品，涵盖半导体封装3D AXI检测、高温计与扫描成像雷达等工业检测设备。"
+    },
+    {
+      "id": "d90d84c23fd5c1a77a3f2cc81eaef1ef",
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "source": "量子位",
+      "time": "2026-10-21T02:37:39.000Z",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "digest": "飞书举办豆包工作AI先锋未来人才大赛，飞书CEO谢欣及元气森林、华熙生物、珀莱雅、小米等企业高管出席，聚焦企业AI人才需求。"
+    },
+    {
+      "id": "343fd6ee7875e7f60d6a9611cbe8915c",
+      "title": "尼得科超五十年的工业基因，如何移到人形关节之上？",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T18:24:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30708020.html",
+      "digest": "日本工业巨头尼得科在上海工博会首次以“One Nidec”整体形象参展，展示其五十余年工业积累向人形机器人关节领域的延伸。"
+    },
+    {
+      "id": "503b89fc5c07cc3ecd246e43be413861",
+      "title": "中国信通院发布2026人工智能产业十大关键词",
+      "source": "智能制造网",
+      "time": "2026-10-20T16:49:47.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196419.html",
+      "digest": "中国信通院与中国人工智能产业发展联盟在2026人工智能产业大会上发布“2026人工智能产业十大关键词”。"
+    },
+    {
+      "id": "7621fc742a81d44927b99235635a1628",
+      "title": "浙江省经信系统“人工智能赋能制造业”专题培训班举办",
+      "source": "智能制造网",
+      "time": "2026-10-20T16:49:47.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196469.html",
+      "digest": "10月14日至15日，浙江省经信系统在金华举办“人工智能赋能制造业”专题培训班，推动人工智能与制造业深度融合。"
+    },
+    {
+      "id": "9ff04168ac7cc44bbdf423e1197d9a6c",
+      "title": "宇树科技股价重登500元之上，人形机器人爆发背后的产业逻辑",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T14:36:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30707980.html",
+      "digest": "10月19日至20日，A股人形机器人板块强势上涨，宇树科技两日累计涨幅超22%，股价重登500元上方。"
+    },
+    {
+      "id": "a15dd4808ec423dd6cd2818a73ead655",
+      "title": "具身新王不好当",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T13:50:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707949.html",
+      "digest": "文章指出，宇树科技挂牌首日市值一度达4449亿元，但具身智能赛道竞争加剧，行业龙头地位面临挑战。"
+    },
+    {
+      "id": "43969a665dc7665e04edd6217940654a",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "source": "量子位",
+      "time": "2026-10-20T12:50:34.000Z",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "digest": "MemT发布1.0系列模型，Nano版36B参数激活3B、基于Qwen3.6-35B-A3B，Flash版288B参数激活17B、基于DeepSeek-V4-F"
+    },
+    {
+      "id": "f44ca4bebdabb817b0014917bc0db63e",
+      "title": "工信部酝酿新一代智能制造政策：四维举措划重点",
+      "source": "智能制造网",
+      "time": "2026-10-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196454.html",
+      "digest": "国新办发布会透露，工信部正研究制定新一代智能制造政策，落实全国先进制造业大会将其作为主攻方向的部署。"
+    },
+    {
+      "id": "2940c0ad60af58fb7ed6f9c51544cd37",
+      "title": "253个！2026年度卓越级智能工厂项目公示名单",
+      "source": "智能制造网",
+      "time": "2026-10-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196452.html",
+      "digest": "工信部公示2026年度卓越级智能工厂项目名单，共253个项目拟入选，系智能工厂梯度培育行动的一部分。"
+    },
+    {
+      "id": "459f7c6c18d6cda340476606d3377035",
+      "title": "55个典型应用场景公示！农业机器人行业发展迎来利好春风",
+      "source": "智能制造网",
+      "time": "2026-10-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196441.html",
+      "digest": "工信部办公厅与农业农村部办公厅公示农业领域机器人典型应用场景遴选结果，共55个场景入选，覆盖种植、养殖、农产品初加工。"
+    },
+    {
+      "id": "3430f39962bb561ac25db55b98f98e77",
+      "title": "马斯克，“炮轰”人形机器人!",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T10:53:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30707893.html",
+      "digest": "马斯克在特斯拉得州工厂X Takeover活动上公开批评人形机器人行业现状，认为许多复杂演示仍不成熟。"
+    },
+    {
+      "id": "8782d36400a0f0453bdfe32763efac6e",
+      "title": "第一批机器人独角兽，开始排队破产!",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T10:48:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707891.html",
+      "digest": "2026年上半年全球人形机器人出货量近2.5万台，同比增长432.1%，但已有估值223亿元的独角兽企业倒下，行业淘汰赛加剧。"
+    },
+    {
+      "id": "3960dfcf6988fb1a2f3af6642af9123f",
+      "title": "人形机器人首批技术国标发布：统一标尺，如何落地？",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T10:08:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8480-30707874.html",
+      "digest": "10月19日，北京市经信局宣布《人形机器人技术要求》首批五项国家标准发布，其中运动控制部分由北京人形机器人创新中心牵头起草。"
+    },
+    {
+      "id": "b023aa3a17ee3ba739b17641471496a7",
+      "title": "人形机器人涨停潮：一半公司在演戏，一半公司在交货",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T10:01:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707869.html",
+      "digest": "10月19日午后，人形机器人板块多股涨停，宇树科技涨超18%、市值回到2000亿元，但文章指出板块内公司分化明显。"
+    },
+    {
+      "id": "fe755658ee3a0e789487910dbfb321a0",
+      "title": "为什么是“小尺寸”？小尺寸人形机器人进入家用场景的未来趋势简析",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T09:51:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707860.html",
+      "digest": "上纬新材旗下启元机器人于2026年8月23日开启Q1、T1两款消费级小尺寸人形机器人公开预订，面向家用场景。"
+    },
+    {
+      "id": "01647b84208aca46d245ff1b834c917d",
+      "title": "做人形机器人的「安卓」：3 万美元半价对标宇树，先卖给开发者",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T09:46:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8140-30707854.html",
+      "digest": "一家硅谷人形机器人公司计划以3万美元售价先向开发者出货，价格约为宇树的一半，瞄准美国市场国产替代窗口。"
+    },
+    {
+      "id": "fde00143b2eecd585072ea94a63fc7b9",
+      "title": "协作机器人万台出货后加码人形力控臂，法奥机器人完成近10亿元C+、D轮融资",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T09:45:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12005-30707853.html",
+      "digest": "协作机器人企业法奥（苏州）连续完成C+轮与D轮融资，累计近10亿元，美团龙珠领投C+轮、美团领投D轮。"
+    },
+    {
+      "id": "ecb6bd95809941f8f9906664fab26436",
+      "title": "摩根大通喊300元，宇树今天大涨10%回470：机器人谁在抢跑？",
+      "source": "OFweek机器人",
+      "time": "2026-10-20T09:37:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12001-30707848.html",
+      "digest": "摩根大通9月底首次覆盖宇树科技给予“减持”、目标价300元，宇树股价当日大涨10%至470元。"
+    },
+    {
+      "id": "3889cebe0bc883863da035c45ab83923",
+      "title": "580天暗战，爱奇艺的AI闯关路",
+      "source": "雷峰网",
+      "time": "2026-10-20T06:15:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/jJI2TPXI1eYWxECq.html",
+      "digest": "爱奇艺推出基于生成式AI的“跳看”功能，通过大语言模型分析用户观看行为自动识别精彩剧情点，实现长视频个性化观看。"
+    },
+    {
+      "id": "6e155eeaf6b8d8b5eb4ca26db800ed42",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "source": "量子位",
+      "time": "2026-10-20T04:59:04.000Z",
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "digest": "Meshy推出Meshy Edit，基于自研AI模型以一句指令实现3D模型局部编辑；公司注册用户超1500万，2026年7月完成近4亿美元B轮融资。"
+    },
+    {
+      "id": "00ffd9e775099c85c1825b460c944cdb",
+      "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+      "source": "量子位",
+      "time": "2026-10-20T04:18:29.000Z",
+      "url": "https://www.qbitai.com/2026/10/504395.html",
+      "digest": "赛豆首款AI汽车AIVA公告图公示，整车定义阶段即纳入AI能力，此前ME7在巴黎首秀展示灯光手势交互，价格被推测在20万元以上。"
+    },
+    {
+      "id": "f55a1b12a3bdfe9f27b5c202862cf4f1",
+      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+      "source": "量子位",
+      "time": "2026-10-20T04:08:15.000Z",
+      "url": "https://www.qbitai.com/2026/10/504372.html",
+      "digest": "GTC2026 Shanghai设AI硬件专区并举办第八届鲸鸣奖颁奖，覆盖AI生态技术创新企业等九大奖项，面向出海品牌提供行业背书。"
+    },
+    {
+      "id": "87dd7d75fb3ba9dc6930c32889fb31ec",
+      "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+      "source": "爱范儿",
+      "time": "2026-10-20T03:57:44.000Z",
+      "url": "https://www.ifanr.com/1684997?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "记忆张量发布并开源记忆原生大模型 MemT 1.0，将记忆读写与调用内化进模型架构，而非依赖外挂检索模块。"
+    },
+    {
+      "id": "a25a7311481e6fe1687915e8625dc660",
+      "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-10-20T01:01:44.000Z",
+      "url": "http://www.geekpark.net/news/372568",
+      "digest": "Arena 榜单显示，DeepSeek-V4.1-Flash-1017 以 1670 分成为 Code Arena WebDev 排名最高的开源模型，超过 Ki"
+    },
+    {
+      "id": "0040620321dec6a966178721255b2e3e",
+      "title": "优艾智合冲刺“移动操作机器人第一股”，赴港IPO迎工业落地大考",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T17:11:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30707802.html",
+      "digest": "合肥优艾智合获境外上市备案，赴港冲刺“移动操作机器人第一股”，营收高增长但尚未盈利。"
+    },
+    {
+      "id": "0775beeaa3e8e1adf4dc6f5c7db806df",
+      "title": "具身智能硬件不能“论斤卖”",
+      "source": "OFweek机器人",
+      "time": "2026-10-19T17:04:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30707794.html",
+      "digest": "具身研习社发文讨论具身智能硬件价值，指出机器人尚未大规模落地，硬件被预期持续降价。"
+    },
+    {
+      "id": "b139189db78b96667e55ba2372a115c3",
+      "title": "AI 里没有答案的问题，需要一场「深谈」",
+      "source": "极客公园",
+      "time": "2026-10-19T13:57:34.000Z",
+      "url": "http://www.geekpark.net/news/372579",
+      "digest": "极客公园创新大会今年继续设「小场深谈」，围绕超级个体、AI 硬件等主题举办 12 场深度访谈，吸引数百名观众参与。"
+    },
+    {
+      "id": "a803947ba57c6dfa7d80b2dc8a5e4694",
+      "title": "前五全是中国企业！全球人形机器人收入最新排名出炉",
+      "source": "智能制造网",
+      "time": "2026-10-19T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196420.html",
+      "digest": "弗若斯特沙利文报告显示，2026年上半年全球人形机器人销量3.6万台、收入5.4亿美元，收入排名前五均为中国企业。"
+    },
+    {
+      "id": "55a66ef032496ee663f415b9b3ad7805",
+      "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
+      "source": "极客公园",
+      "time": "2026-10-19T10:10:03.000Z",
+      "url": "http://www.geekpark.net/news/372578",
+      "digest": "后摩智能生态合作伙伴大会上，麒麟软件、聊趣智能、罗格数据等五方代表围绕端侧 AI 的隐私、功耗与商业化落地展开讨论。"
+    },
+    {
+      "id": "30eea33b730b992b6794dc2b0faf0cbe",
+      "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+      "source": "爱范儿",
+      "time": "2026-10-19T10:09:25.000Z",
+      "url": "https://www.ifanr.com/1684921?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "彭博社古尔曼称苹果正研发代号 J595 的高端带屏设备，配 9 英寸屏与电动机械臂，可语音识别并转向说话者，预计 2027 至 2028 年面世。"
+    },
+    {
+      "id": "db65c5022b73359b8b08029f077b5407",
+      "title": "食品包装的2026：更绿、更安全、更智能",
+      "source": "智能制造网",
+      "time": "2026-10-16T13:54:40.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196499.html",
+      "digest": "2026年食品包装行业政策与新品密集落地，包括北京外卖绿色包装指南、欧盟包装新规及食品接触涂层新国标。"
+    },
+    {
+      "id": "d460feb402588215de060404c8af18c3",
+      "title": "前Optimus AI负责人创业：不做人形机器人，专攻工业机器人",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T13:36:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30705718.html",
+      "digest": "特斯拉Optimus前AI负责人Ashish Kumar创办Intelligent Machines，不做人形机器人而专攻工业机器人，种子轮目标募资约1亿美元。"
+    },
+    {
+      "id": "e82582ca5268a6683301fd734b9187d4",
+      "title": "工业AI如何落地？拓斯达TOPS DAY 2026将发布三大解决方案",
+      "source": "OFweek机器人",
+      "time": "2026-10-08T10:33:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30705667.html",
+      "digest": "拓斯达宣布TOPS DAY 2026将于11月7日至8日举行，届时发布三大工业AI解决方案。"
+    },
+    {
+      "id": "0f5828c7fedd4784328a22626f910546",
+      "title": "早报|上半年全球AI眼镜出货量同比增长263%；影石正布局AI眼镜",
+      "source": "智能制造网",
+      "time": "2025-12-30T10:33:16.000Z",
+      "url": "https://www.gkzhan.com/news/detail/195980.html",
+      "digest": "Counterpoint Research数据显示，2026年上半年全球AI眼镜出货量同比增长263%，其中无显示屏AI眼镜因价格亲民、轻便而增长显著。"
+    }
+  ]
+}
