@@ -1,0 +1,538 @@
+{
+  "id": "2026-10-26-0900",
+  "date": "2026-10-26",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-10-26T00:43:33.665Z",
+  "items": [
+    {
+      "id": "37c8da5649c65820187cb70887de67d0",
+      "title": "Epic CEO 斯维尼再批 Steam AI 公示政策，称会导致极端群体攻击开发者",
+      "source": "IT之家",
+      "time": "2026-10-26T00:22:05.000Z",
+      "url": "https://www.ithome.com/1/017/737.htm",
+      "digest": "Epic CEO斯维尼再次公开批评Steam强制AI内容公示政策，称其会导致极端群体攻击开发者。"
+    },
+    {
+      "id": "f07eea00dc0726f6918c0a24eb87b3d5",
+      "title": "猫王音乐版权方起诉 Anthropic，指控其未经授权用 274 首歌曲训练 AI 模型",
+      "source": "IT之家",
+      "time": "2026-10-25T23:53:33.000Z",
+      "url": "https://www.ithome.com/1/017/731.htm",
+      "digest": "猫王音乐版权持有方正宗品牌集团起诉Anthropic，指控其未经授权用普雷斯利274首歌曲训练AI模型。"
+    },
+    {
+      "id": "61f923f13a05841257434e6969865188",
+      "title": "马斯克的 Grok 发布 AI 版《奥德赛》前 7 分钟内容，被指缺乏艺术感染力",
+      "source": "IT之家",
+      "time": "2026-10-25T23:30:27.000Z",
+      "url": "https://www.ithome.com/1/017/727.htm",
+      "digest": "马斯克的Grok发布AI版《奥德赛》前七分钟内容，被指缺乏艺术感染力。"
+    },
+    {
+      "id": "1be09acae8c941ba647c327e0b5789ef",
+      "title": "AI“专属保险”：全国首个人工智能应用风险综合保障方案正式发布",
+      "source": "IT之家",
+      "time": "2026-10-25T23:21:57.000Z",
+      "url": "https://www.ithome.com/1/017/726.htm",
+      "digest": "2026金融街论坛年会上发布全国首个人工智能应用风险综合保障方案，填补国内AI保险市场空白。"
+    },
+    {
+      "id": "be0c4e9910ebde119c512b9550212f8f",
+      "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+      "source": "IT之家",
+      "time": "2026-10-25T22:51:35.000Z",
+      "url": "https://www.ithome.com/1/017/720.htm",
+      "digest": "马斯克确认SpaceX完成400亿美元债务融资，主要用于购买预计2027年一、二季度交付的GPU算力硬件。"
+    },
+    {
+      "id": "f5bfcb2fb3ecb267a15352a7ade385c5",
+      "title": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
+      "source": "IT之家",
+      "time": "2026-10-25T15:36:55.000Z",
+      "url": "https://www.ithome.com/1/017/719.htm",
+      "digest": "国内首部获公映许可的AI全流程院线长片《三星堆：未来往事》10月23日上映，片长100分钟，票房已达116.2万元。"
+    },
+    {
+      "id": "0b45d6277389bd675479faa7c7ff4fd3",
+      "title": "古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air",
+      "source": "IT之家",
+      "time": "2026-10-25T15:05:09.000Z",
+      "url": "https://www.ithome.com/1/017/717.htm",
+      "digest": "彭博社古尔曼称苹果正测试配备OLED屏的iMac和MacBook Pro原型机，计划将OLED引入大众化电脑产品，推出时间未定。"
+    },
+    {
+      "id": "d13d5ceea4d9da42f9118a12d9e3307a",
+      "title": "具身智能投资人，正在集体“亏钱”",
+      "source": "OFweek机器人",
+      "time": "2026-10-25T12:02:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12005-30708567.html",
+      "digest": "IT桔子数据显示，2026年上半年国内具身智能融资312笔，居AI细分赛道首位，但投资人普遍面临亏损。"
+    },
+    {
+      "id": "d063fc3f324b2eef23a3d162afbf205f",
+      "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
+      "source": "极客公园",
+      "time": "2026-10-25T00:52:41.000Z",
+      "url": "http://www.geekpark.net/news/372860",
+      "digest": "苹果首款折叠屏iPhone Duo开售初期出现屏幕沿铰链开裂的集中投诉，官方尚未公开说明，售后视检测结果决定换机或自费维修。"
+    },
+    {
+      "id": "bfa5b11d0fc863a16fe836c91e8bdd47",
+      "title": "早报|人形机器人日租金跌破300元；比亚迪人形机器人外观专利曝光",
+      "source": "智能制造网",
+      "time": "2026-10-24T15:29:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196191.html",
+      "digest": "OpenAI预计年底年化营收达700亿美元；全国已启用超70家具身智能训练场；比亚迪人形机器人外观专利曝光。"
+    },
+    {
+      "id": "d55c9693a739f638c846d289b5e84672",
+      "title": "新型食品集群|基于全产业协同的速冻食品智能制造工厂",
+      "source": "智能制造网",
+      "time": "2026-10-24T14:31:13.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196654.html",
+      "digest": "江苏省公布2026年先进级智能工厂遴选结果，共1821家企业入选，速冻食品智能制造工厂作为全产业协同案例被推介。"
+    },
+    {
+      "id": "ec585cda15c793200f71fdcfe9a305cc",
+      "title": "工业互联网操作系统产业联盟成立：具身智能呼唤工业底座",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196658.html",
+      "digest": "工业互联网操作系统产业联盟在CEIC2026期间成立，定位为支撑具身智能规模化落地的工业底座。"
+    },
+    {
+      "id": "898506b47d011ef2af5590d92425323b",
+      "title": "选对数据基础设施：制造业如何权衡本地、云与边缘部署",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196633.html",
+      "digest": "文章分析制造业在本地、云端与边缘三种数据基础设施间的部署权衡，涉及规模、灵活性与运营需求匹配。"
+    },
+    {
+      "id": "4f22bb4833f142ee77bdd756d6073ecf",
+      "title": "中国工业互联网研究院启动具身智能机器人应用能力评测服务",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196656.html",
+      "digest": "中国工业互联网研究院在2026全球工业互联网大会期间启动具身智能机器人应用能力评测服务，面向真实生产场景。"
+    },
+    {
+      "id": "dc705d2c1845fca6be3b51cbd3a38b23",
+      "title": "西门子携手NVIDIA推动工业AI发展",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196605.html",
+      "digest": "西门子与NVIDIA扩大合作后推出新产品，将AI用于产品设计与生产，并公布联合项目可量化成果。"
+    },
+    {
+      "id": "291d0bc5bf0bee98383ebbb0e795025f",
+      "title": "AI操作系统国家标准重磅发布！东土科技深度参编",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196622.html",
+      "digest": "《人工智能操作系统通用技术要求》等国家标准在2026新产业标准化领航论坛发布，东土科技参与编制。"
+    },
+    {
+      "id": "2b78ff9673ab401db9dd9f89f48c0288",
+      "title": "西湖机器人举办GAE通用操控系统合作伙伴专场培训会",
+      "source": "智能制造网",
+      "time": "2026-10-24T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196626.html",
+      "digest": "西湖机器人10月23日举办GAE通用操控系统合作伙伴培训会，40位合作伙伴参与能力讲解与现场实操。"
+    },
+    {
+      "id": "c737f39762ee1479f95cc078b120ad7d",
+      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "source": "雷峰网",
+      "time": "2026-10-24T08:49:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+      "digest": "支付宝AI支付联合观猹发起PAYATHON 2026黑客松，设应用、技能等五大赛道，总奖池20万元，12月26日线下决赛。"
+    },
+    {
+      "id": "8604cd9dffd341859d0bced79685243e",
+      "title": "快讯|工业软件标委会成立；全球首个多芯光纤国际标准在武汉发布",
+      "source": "智能制造网",
+      "time": "2026-10-24T08:40:23.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196546.html",
+      "digest": "工信部工业软件标准化技术委员会在杭州成立，负责关键技术、数据互操作等标准工作；全球首个多芯光纤国际标准在武汉发布。"
+    },
+    {
+      "id": "630469bb96188b9834ab2e9486b527f6",
+      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+      "source": "雷峰网",
+      "time": "2026-10-24T08:37:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+      "digest": "百度健康宣布文心健康管家升级，AI服务MAU超5000万，发布好医矩阵与支持视频输入的健康相机。"
+    },
+    {
+      "id": "aed043364c18a4ba8c34fc79d78abe64",
+      "title": "iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架",
+      "source": "雷峰网",
+      "time": "2026-10-24T02:44:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+      "digest": "声网CEO赵斌在iRTE2026提出\"五级对话能力\"框架，描述对话式AI从基础应答向深度理解与关系沟通演进。"
+    },
+    {
+      "id": "63de9501e5e56fd12a19710a9a73b5f5",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "source": "雷峰网",
+      "time": "2026-10-23T12:20:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
+      "digest": "钛动科技在TGC 2026发布行业首个Pro-Agent产品Navos Pro，定位结果导向的AI for Work，面向企业全球增长。"
+    },
+    {
+      "id": "dcdaa6633954fad002108bcee2d75511",
+      "title": "2026年湖南省智能机器人产业链链主企业培育对象公示",
+      "source": "智能制造网",
+      "time": "2026-10-23T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196584.html",
+      "digest": "湖南省工信厅公示2026年智能机器人产业链链主企业培育对象、典型应用场景及创新产品拟认定名单。"
+    },
+    {
+      "id": "8effcfbfa16f6e6f25ef68372b1f1033",
+      "title": "13年老机房变身智算中心：数据中心价值逻辑变了",
+      "source": "智能制造网",
+      "time": "2026-10-23T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196583.html",
+      "digest": "中国移动信息港1号地数据中心完成华为昇腾950DT液冷超节点全球首发点亮，13年老机房改造为智算中心。"
+    },
+    {
+      "id": "3e4e665519f82a252b74038dc7cabdc6",
+      "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
+      "source": "雷峰网",
+      "time": "2026-10-23T11:16:00.000Z",
+      "url": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
+      "digest": "消息称DeepSeek完成近1000亿元融资，宁德时代、腾讯参投；字节Seed以55K起薪招聘具身智能数据采集与本体岗位。"
+    },
+    {
+      "id": "80cc56c81b4d79610ecc3b3e410e7ff9",
+      "title": "覆盖存、拣、运全场景，海康机器人2026移动机器人新品发布会举行",
+      "source": "雷峰网",
+      "time": "2026-10-23T10:15:00.000Z",
+      "url": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
+      "digest": "海康机器人举办2026移动机器人新品发布会，升级箱式存拣方案并推出“明智”系列单体智能产品，覆盖存、拣、运厂内物流全链路。"
+    },
+    {
+      "id": "541b7b16cc6197b1f38712616f10d0da",
+      "title": "5年10万岗位！京东要做「机器人4S店」生意，却不用4S店模式",
+      "source": "OFweek机器人",
+      "time": "2026-10-23T09:59:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30708407.html",
+      "digest": "京东拓展机器人维保业务，已服务智元、云深处、众擎等近百家企业，计划五年内提供10万个相关岗位。"
+    },
+    {
+      "id": "b5aba7d85a996e128f12cd2f49e8e2be",
+      "title": "日本工业机器人两巨头联手：一个出AI大脑，一个出身体",
+      "source": "OFweek机器人",
+      "time": "2026-10-23T09:54:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30708402.html",
+      "digest": "发那科2026年一季度中国工业机器人市场份额降至9%，国产品牌整体份额首破55%，外资被反超。"
+    },
+    {
+      "id": "771e70dbec1549f17a02146bfb5f38f3",
+      "title": "300亿美元：马斯克给Optimus机器人买了张“无限额信用卡”",
+      "source": "OFweek机器人",
+      "time": "2026-10-23T09:50:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30708398.html",
+      "digest": "特斯拉落实300亿美元新贷款及信贷额度，用于FSD、Cybercab、Optimus人形机器人量产及AI算力基建。"
+    },
+    {
+      "id": "4cf6ea8b16a4f1873aa1563664a43212",
+      "title": "去年只卖出 1 台的人形机器人，云深处要募 25 亿建 3000 台产能",
+      "source": "OFweek机器人",
+      "time": "2026-10-23T09:10:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708378.html",
+      "digest": "云深处拟募资25亿元建设3000台人形机器人产能，其去年销量仅1台。"
+    },
+    {
+      "id": "d3a1883507026e749ad34470f02fc632",
+      "title": "Astra越强，越暴露一个真相：国产机器人必须把“执行层”攥在自己手里",
+      "source": "OFweek机器人",
+      "time": "2026-10-23T09:06:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8420-30708376.html",
+      "digest": "文章以GPT-6 Astra发布为背景，讨论国产机器人需自主掌握执行层技术。"
+    },
+    {
+      "id": "a7834841f5cd2056ca3be8a757d75b12",
+      "title": "从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地",
+      "source": "雷峰网",
+      "time": "2026-10-23T08:32:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html",
+      "digest": "硅基流动在央国企CIO峰会上分享大模型推理基础设施实践，提出“Token生产力”公式，并帮助央国企在内部建设Token工厂。"
+    },
+    {
+      "id": "dc1db9b9dfd4e2d4726bb532a1d07bed",
+      "title": "为什么说奇瑞是一家AI公司？",
+      "source": "雷峰网",
+      "time": "2026-10-23T08:31:00.000Z",
+      "url": "https://www.leiphone.com/category/transportation/j8cK1UDhub9VuCpu.html",
+      "digest": "奇瑞董事长尹同跃在2026全球创新大会上称奇瑞是“披着汽车马甲”的高科技企业，主张用AI重构造车流程并沉淀可复用底座。"
+    },
+    {
+      "id": "a6e7527df731d26290585a2ff9531f8b",
+      "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+      "source": "雷峰网",
+      "time": "2026-10-23T07:38:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+      "digest": "阿里巴巴千问事业部AI算法负责人蒋冠军在2026中国计算机大会上表示，构建Personal Agent需模型、记忆与生态三要素协同。"
+    },
+    {
+      "id": "8410564441b350267d92cfe9734a84ea",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "source": "量子位",
+      "time": "2026-10-23T07:35:51.000Z",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "digest": "百度宣布将于11月12日百度世界2026大会设10余场分论坛，聚焦企业AI转型中的\"智能组织\"议题，提出组织进化范式。"
+    },
+    {
+      "id": "9c2b439f210938057e938a0852bfa961",
+      "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
+      "source": "雷峰网",
+      "time": "2026-10-23T07:16:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
+      "digest": "存算一体AI芯片公司亿铸科技完成10亿+元融资，资金将用于研发投入、产品迭代及通用存算一体技术产业化推进。"
+    },
+    {
+      "id": "019ea60b8d51a1b4ade8ebd92df3a345",
+      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
+      "source": "极客公园",
+      "time": "2026-10-23T06:15:58.000Z",
+      "url": "http://www.geekpark.net/news/372807",
+      "digest": "多款中国团队AI网球机器人在Kickstarter筹得百万美元级资金，庞伯特、SwitchBot等入局，英汉思动力获红杉联合领投超亿元融资。"
+    },
+    {
+      "id": "70774332353c678f9a0eedeccf331105",
+      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
+      "source": "极客公园",
+      "time": "2026-10-23T06:03:13.000Z",
+      "url": "http://www.geekpark.net/news/372803",
+      "digest": "极客公园“造物100”栏目介绍NOPIA和弦合成器、InstaSpot超声波去污笔等小众硬件，NOPIA众筹161.9万美元，计划2027年初发货。"
+    },
+    {
+      "id": "a51b9b9a307466121dab93406c670fb5",
+      "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
+      "source": "雷峰网",
+      "time": "2026-10-23T02:57:00.000Z",
+      "url": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
+      "digest": "擦窗机器人迎来首个行业标准；IDC数据显示2026年二季度全球出货约84.7万台，同比增长59.8%，科沃斯等厂商产能扩张。"
+    },
+    {
+      "id": "3e5c0de69c863f91054e89149f9379ac",
+      "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
+      "source": "极客公园",
+      "time": "2026-10-23T00:49:03.000Z",
+      "url": "http://www.geekpark.net/news/372767",
+      "digest": "消息称DeepSeek完成约1000亿元新一轮融资，腾讯和宁德时代为最大出资方，资金用于模型训练、算力建设与人才招募。"
+    },
+    {
+      "id": "561f8ce13e273eb0e6cd23b8bb6d8b7f",
+      "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "source": "爱范儿",
+      "time": "2026-10-23T00:00:25.000Z",
+      "url": "https://www.ifanr.com/1685530?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "比亚迪杨冬生称L3级自动驾驶有望2028年落地；宝马与中国信通院续签合作聚焦AI与下一代通信；王兴兴称物理AI已有突破苗头。"
+    },
+    {
+      "id": "e5676c73de397e89295da6e03ca372bc",
+      "title": "欧洲 AI，等来了黄仁勋",
+      "source": "极客公园",
+      "time": "2026-10-22T22:41:03.000Z",
+      "url": "http://www.geekpark.net/news/372763",
+      "digest": "英伟达GTC柏林大会上黄仁勋确认Vera Rubin平台全面量产，重点讨论AI工厂快速建设、智能体管理及物理AI进入欧洲工厂与道路。"
+    },
+    {
+      "id": "ca0d209f0ea538e9896c736713317b83",
+      "title": "22万㎡！AI新贵盯上上海写字楼",
+      "source": "OFweek机器人",
+      "time": "2026-10-22T15:59:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8460-30708348.html",
+      "digest": "智元机器人及相关公司签约陆家嘴集团前滩源、前滩尚和御桥智慧谷三个项目，合计办公面积超22万平方米。"
+    },
+    {
+      "id": "938f8871abb374a3dc63e18bef773930",
+      "title": "新故事和老门槛，物理AI工业应用的明线与暗线",
+      "source": "OFweek机器人",
+      "time": "2026-10-22T14:13:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30708322.html",
+      "digest": "第26届中国国际工业博览会上，“工厂+物理AI”成为产业探索落地的新焦点。"
+    },
+    {
+      "id": "1fcfe10789ffa9abfb055cecb18247d0",
+      "title": "前三季度，湖南省规模工业增加值增长3.0%",
+      "source": "智能制造网",
+      "time": "2026-10-22T13:20:02.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196586.html",
+      "digest": "湖南省统计局公布前三季度规模工业增加值同比增长3.0%。"
+    },
+    {
+      "id": "678836b0fba3671c94e95ee2036ebeb4",
+      "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
+      "source": "极客公园",
+      "time": "2026-10-22T11:56:03.000Z",
+      "url": "http://www.geekpark.net/news/372759",
+      "digest": "宇树科技十周年世界物理AI大会上，创始人王兴兴发表演讲，主张相信AI，并称信息世界已被当下模型能力完全击穿。"
+    },
+    {
+      "id": "95eaa4872944eb2966b245806acd1d0a",
+      "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+      "source": "爱范儿",
+      "time": "2026-10-22T11:15:20.000Z",
+      "url": "https://www.ifanr.com/1685507?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "PHP2Shell两个高危远程执行漏洞信息泄露，PHP基金会提前发布紧急补丁，全球约七成网站受影响。"
+    },
+    {
+      "id": "b82c0d56584ddd9dc5fe52bc86e91bef",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "source": "量子位",
+      "time": "2026-10-22T09:07:05.000Z",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "digest": "LingDT-Decision-1.0发布，在23项开源评测中综合评分居首，27B版本准确率超过微软、Jev等决策模型。"
+    },
+    {
+      "id": "12d1bfa1dc10f04940d72c7cd6ebb0ae",
+      "title": "AI 漫剧越做越快，赚钱却没那么容易了",
+      "source": "极客公园",
+      "time": "2026-10-22T08:20:34.000Z",
+      "url": "http://www.geekpark.net/news/372746",
+      "digest": "阅文集团发布首批AI精品动画项目，将DramaBuddy升级为OPC一站式平台并推出IP委员会模式；从业者称AI漫剧产能翻倍但营收未增。"
+    },
+    {
+      "id": "8eede4ed14dde8daf7fa253b0655e456",
+      "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
+      "source": "极客公园",
+      "time": "2026-10-22T08:15:50.000Z",
+      "url": "http://www.geekpark.net/news/372743",
+      "digest": "腾讯10月20日正式发布元宝搜索，作为支撑WorkBuddy、ima等50余款AI产品联网检索的底层搜索基座。"
+    },
+    {
+      "id": "ec400b9e819b048903403547dc82941a",
+      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
+      "source": "极客公园",
+      "time": "2026-10-22T07:23:08.000Z",
+      "url": "http://www.geekpark.net/news/372740",
+      "digest": "Anthropic于10月21日推出个人AI助理Claude Duet，是继xAI、Meta、OpenAI之后第四家推出主动型智能体的厂商。"
+    },
+    {
+      "id": "6e588321c04c0284c11aa10ef5ed334d",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "source": "量子位",
+      "time": "2026-10-22T07:11:14.000Z",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "digest": "星辰发布意图理解模型Xing4.0-29B-Intent，在类别决策单选、多选、负例子项上领先Jev及GPT-6-Luna等对比模型。"
+    },
+    {
+      "id": "1e637ad4c5e72c5b772c3c4eae0d25c0",
+      "title": "谁在给OpenAI供应具身数据？",
+      "source": "量子位",
+      "time": "2026-10-22T07:05:59.000Z",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "digest": "报道称某具身数据供应商向OpenAI、Google DeepMind、Figure AI等头部机构交付百万小时级数据，并参与下一代数据需求探索。"
+    },
+    {
+      "id": "9579de647c19d6f87d67e7ed01deff91",
+      "title": "AI 到处挖漏洞一整年，终于给人类爆了个大的",
+      "source": "极客公园",
+      "time": "2026-10-22T06:15:28.000Z",
+      "url": "http://www.geekpark.net/news/372731",
+      "digest": "AI发现PHP两个高危远程执行漏洞PHP2Shell，芬兰、荷兰、法国等多国政府及机构网站预防性下线。"
+    },
+    {
+      "id": "9547549af1d3090495936dd8aec6c120",
+      "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+      "source": "爱范儿",
+      "time": "2026-10-22T05:58:07.000Z",
+      "url": "https://www.ifanr.com/1685446?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "PHP漏洞CVE-2026-109618与CVE-2026-109619公开，PHP官方发布8.5.12等紧急更新，欧洲多国政府网站及日本pixiv、Nicon"
+    },
+    {
+      "id": "a8417ed97e07ed5edfdcc8c4d44fdaaa",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "source": "量子位",
+      "time": "2026-10-21T11:30:59.000Z",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "digest": "清华AIR孵化的紫荆智康发布医学多分身智能体协同技术，并升级\"紫荆AI医院\"，让医生AI分身参与医院诊疗。"
+    },
+    {
+      "id": "a9f9142c780c6626736729bf2cb18885",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "source": "量子位",
+      "time": "2026-10-21T09:45:22.000Z",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "digest": "生数科技Motubrain团队将连续半个月直播Physical AI训练全流程，涉及动作决策、任务执行与跨场景泛化。"
+    },
+    {
+      "id": "6be68c1707cf16c44c8fc581ce1e3875",
+      "title": "工业和信息化部办公厅关于组织开展2026年5G工厂名录遴选工作的通知",
+      "source": "智能制造网",
+      "time": "2026-10-21T09:20:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196660.html",
+      "digest": "工信部印发通知，组织开展2026年5G工厂名录遴选，申报主体为制造业、采矿业、电力、港口等重点领域企业。"
+    },
+    {
+      "id": "2f06ac0604fd7af78b8dd4237123f266",
+      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+      "source": "量子位",
+      "time": "2026-10-21T07:15:05.000Z",
+      "url": "https://www.qbitai.com/2026/10/504653.html",
+      "digest": "清华系公司千诀联合清华团队在ICML发表论文，研究神经网络学习世界模型的条件，并将世界模型应用于机器人。"
+    },
+    {
+      "id": "5f252679e0f64581b097c8d240cd0c91",
+      "title": "中国工业互联网研究院正式启动 “TokenPerf-国芯国模” 适配评估工作",
+      "source": "智能制造网",
+      "time": "2026-10-13T13:22:32.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196657.html",
+      "digest": "中国工业互联网研究院启动“TokenPerf-国芯国模”适配评估，评估国产芯片、模型与软件框架的协同性能。"
+    },
+    {
+      "id": "d25495d7b9b31d43f097dcc5edc55df9",
+      "title": "MIT公寓厨房诞生的制药机器人公司完成7500万美金融资，阿斯利康资本入局！",
+      "source": "OFweek机器人",
+      "time": "2026-10-10T11:11:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8420-30706318.html",
+      "digest": "制药机器人企业Multiply Labs完成7500万美元B轮融资，阿斯利康等产业资本入局，累计融资超1亿美元。"
+    },
+    {
+      "id": "1ff1854f11484ac7a7876612f5c9abfb",
+      "title": "海康机器人IPO被 “ 中止 ”，为什么？",
+      "source": "OFweek机器人",
+      "time": "2026-10-09T15:16:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30706172.html",
+      "digest": "海康机器人创业板IPO审核状态更新为中止，因财务资料超过法定有效期需补充更新财报材料。"
+    },
+    {
+      "id": "e28bcb8c68d3e1d4dbe32d3bf20b25ec",
+      "title": "AI，具身而至：库卡“开天 KAI”智能平台即将亮相第26届中国国际工业博览会",
+      "source": "OFweek机器人",
+      "time": "2026-10-09T13:50:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8220-30706146.html",
+      "digest": "库卡将在第26届中国国际工业博览会上发布“开天KAI”智能平台，主题为“AI，具身而至”。"
+    },
+    {
+      "id": "d714c0fd5e948daf0a4590b32327c6d0",
+      "title": "台达亮相工博会：双奖加冕、具身智能首秀，绿色智造方案集中展示",
+      "source": "智能制造网",
+      "time": "2026-10-09T10:55:18.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196663.html",
+      "digest": "台达在第二十六届工博会展出电力重构与智能制造方案，并首秀具身智能产品，获两项奖项。"
+    },
+    {
+      "id": "eaf3860f3e8d0d12408c4125cf34b096",
+      "title": "剂泰科技与礼来达成战略合作，将打开AI制药另一种解法",
+      "source": "智能制造网",
+      "time": "2026-02-09T15:38:10.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196650.html",
+      "digest": "剂泰科技与礼来达成战略合作，围绕生成式AI平台驱动的LNP递送展开，为国内首个此类AI制药合作。"
+    },
+    {
+      "id": "f2eed1a5474f1159d5667753544b3e19",
+      "title": "4亿美元！史赛克重金押注手术机器人",
+      "source": "智能制造网",
+      "time": "2026-01-21T14:09:46.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196651.html",
+      "digest": "史赛克以4亿美元战略投资英国手术机器人公司CMR Surgical，获其全部股权收购选择权及Versius在美独家销售代理权。"
+    }
+  ]
+}
