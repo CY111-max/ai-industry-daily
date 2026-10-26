@@ -4,8 +4,32 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-26T00:43:33.665Z",
+  "updatedAt": "2026-10-26T01:39:17.740Z",
   "items": [
+    {
+      "id": "da4973be146037629a7caf9d309a5053",
+      "title": "六年半累计亏损超12亿元，爱仕达布局具身智能为智元机器人代工",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T09:28:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708584.html",
+      "digest": "爱仕达六年半累计亏损超12亿元，现布局具身智能并为智元机器人代工，此前参展中国国际工业博览会。"
+    },
+    {
+      "id": "87ac8c9fc62ad7411e9c989586863896",
+      "title": "网友成功将一加 Ace 5 刷入真 · 纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
+      "source": "IT之家",
+      "time": "2026-10-26T01:18:51.000Z",
+      "url": "https://www.ithome.com/1/017/753.htm",
+      "digest": "B站网友为一加 Ace 5 刷入鸿蒙 HarmonyOS 6，机型显示为华为 Mate 80 Pro，并称已修复 GPU。"
+    },
+    {
+      "id": "4fc9c7df888397611b8b594c5bbd6f46",
+      "title": "德国普鲁士电力与英伟达合作，评估停运核电站改建 AI 工厂可行性",
+      "source": "IT之家",
+      "time": "2026-10-26T01:00:06.000Z",
+      "url": "https://www.ithome.com/1/017/747.htm",
+      "digest": "德国普鲁士电力与英伟达合作，评估在停运核电站原址建设 AI 工厂数据中心，利用其工业用地与电网条件。"
+    },
     {
       "id": "37c8da5649c65820187cb70887de67d0",
       "title": "Epic CEO 斯维尼再批 Steam AI 公示政策，称会导致极端群体攻击开发者",
