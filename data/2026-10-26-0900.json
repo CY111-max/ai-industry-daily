@@ -4,8 +4,88 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-10-26T01:39:17.740Z",
+  "updatedAt": "2026-10-26T05:15:24.692Z",
   "items": [
+    {
+      "id": "6060cadf8f8eafe737ba0745dc076ea7",
+      "title": "推动人形机器人产业等在消费商贸领域应用等答记者问",
+      "source": "智能制造网",
+      "time": "2026-10-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196677.html",
+      "digest": "工信部科技司司长魏巍在国新办发布会介绍科技兴商，提及推动人形机器人在消费商贸领域应用。"
+    },
+    {
+      "id": "a8de0cdd6461e74ebef2d377eb0e8420",
+      "title": "中欧数字协会与优必选共同推动欧洲机器人产业合作发展",
+      "source": "智能制造网",
+      "time": "2026-10-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196674.html",
+      "digest": "中欧数字协会与优必选签署谅解备忘录，深化在欧洲机器人市场的合作。"
+    },
+    {
+      "id": "c9e86620c906db6083714bbc7413e09d",
+      "title": "专家解读：健全工业碳排放双控体系 强化工业绿色转型科技支撑",
+      "source": "智能制造网",
+      "time": "2026-10-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196678.html",
+      "digest": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案(2026—2030年)》。"
+    },
+    {
+      "id": "40f228c415707c452ced44862a65e36c",
+      "title": "订单近10亿的机器人公司，被曝欠薪800万",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T11:49:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30708688.html",
+      "digest": "据《每日经济新闻》报道，一家成立8个月、宣称获近10亿元订单的机器人公司被曝欠薪800万元。"
+    },
+    {
+      "id": "b0be6d32bd2876203d69a5b2e1284246",
+      "title": "松延动力秘密递表港交所，万元级机器人迎来交付大考",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T11:29:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708674.html",
+      "digest": "据彭博社消息，北京机器人公司松延动力已秘密递表港交所，计划募资数亿美元，最早明年上市。"
+    },
+    {
+      "id": "bd991c9f6be37231b4878f093472b706",
+      "title": "智元百机齐舞，宇树结构掉件：人形机器人考核标准变了",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T10:44:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8110-30708636.html",
+      "digest": "智元完成百台集群展演，宇树测试中出现结构掉件，人形机器人考核转向批量交付一致性与单台耐久两条线。"
+    },
+    {
+      "id": "8db228c7742fa890e1ba21b7b111860b",
+      "title": "国内工业机械手老大哥，冲刺港股IPO！",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T10:43:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-8321202-8120-30708679.html",
+      "digest": "科大智能向港交所主板递交上市申请，华泰国际、国元国际联席保荐，为年内第二次冲刺港股IPO。"
+    },
+    {
+      "id": "b510808e6b08c1a67345274c9791abdb",
+      "title": "不炒概念了？三大券商齐呼：人形机器人量产破局",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T10:40:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708631.html",
+      "digest": "三大券商周报齐指人形机器人量产破局，产业端第5000台下线与出货第一同步出现，但六成需求仍为演示。"
+    },
+    {
+      "id": "1a860a215506c4c99f685111b1c3d71f",
+      "title": "在光学车间，拓斯达具身智能如何跨过“落地”这道坎？",
+      "source": "OFweek机器人",
+      "time": "2026-10-26T10:28:00.000Z",
+      "url": "https://robot.ofweek.com/2026-10/ART-898890-8120-30708677.html",
+      "digest": "拓斯达具身智能进入光学车间，针对光学玻璃擦拭易划痕场景，验证在产线节拍中稳定持续运转的能力。"
+    },
+    {
+      "id": "3b97c18dfda15671ea7fd5339e388a6c",
+      "title": "早报|建筑机器人市场规模有望破800亿元；马斯克称人形机器人将成为全球最大产业",
+      "source": "智能制造网",
+      "time": "2026-10-26T10:27:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196575.html",
+      "digest": "霍尼韦尔联合英伟达、戴尔推出面向设施运营的智能体AI与仿真平台ForgeCognition；马斯克称人形机器人将成全球最大产业。"
+    },
     {
       "id": "da4973be146037629a7caf9d309a5053",
       "title": "六年半累计亏损超12亿元，爱仕达布局具身智能为智元机器人代工",
@@ -13,6 +93,126 @@
       "time": "2026-10-26T09:28:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-898890-12003-30708584.html",
       "digest": "爱仕达六年半累计亏损超12亿元，现布局具身智能并为智元机器人代工，此前参展中国国际工业博览会。"
+    },
+    {
+      "id": "e445aa29e9f189f3516900b171658925",
+      "title": "Gartner 调研显示：44% 的 CEO 难以证明 AI 的财务回报",
+      "source": "IT之家",
+      "time": "2026-10-26T04:59:05.000Z",
+      "url": "https://www.ithome.com/1/017/843.htm",
+      "digest": "Gartner对全球203位CEO调研显示，44%的CEO难以向利益相关方证明AI带来的财务回报。"
+    },
+    {
+      "id": "e330dd3573285c4a6846b4fbed921041",
+      "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
+      "source": "IT之家",
+      "time": "2026-10-26T04:53:01.000Z",
+      "url": "https://www.ithome.com/1/017/842.htm",
+      "digest": "小米技术委孵化团队推出开源AI硬件HachimoDock，自制成本约150元，支持桌宠与语音操控Agent。"
+    },
+    {
+      "id": "961a747f707c450aee95ee7a11c28504",
+      "title": "阿波罗首席经济学家：除科技七巨头外，AI 还没帮美国企业赚到真金白银",
+      "source": "IT之家",
+      "time": "2026-10-26T04:30:20.000Z",
+      "url": "https://www.ithome.com/1/017/838.htm",
+      "digest": "阿波罗首席经济学家斯洛克研报称，标普500剔除科技七巨头后，尚无大型企业从AI获得实质利润增量。"
+    },
+    {
+      "id": "a8566035faa87c9568ce746e63321b3c",
+      "title": "智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）",
+      "source": "IT之家",
+      "time": "2026-10-26T04:06:34.000Z",
+      "url": "https://www.ithome.com/1/017/831.htm",
+      "digest": "博主称智界除已公布V9和RX海外版外，预计还有四款SUV出海，后续车型按全球标准开发。"
+    },
+    {
+      "id": "9952516b8febecd04561670fb092dd90",
+      "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升",
+      "source": "IT之家",
+      "time": "2026-10-26T03:26:52.000Z",
+      "url": "https://www.ithome.com/1/017/812.htm",
+      "digest": "英伟达10月文档显示Rubin GPU系统HBM4带宽由44TB/s降至38.5TB/s，NVLink由7.2TB/s降至6TB/s，网络带宽提升。"
+    },
+    {
+      "id": "23bf68236cdd052b28ce0f9b2ec7c83a",
+      "title": "小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求",
+      "source": "IT之家",
+      "time": "2026-10-26T03:20:24.000Z",
+      "url": "https://www.ithome.com/1/017/811.htm",
+      "digest": "小鹏回应X9事故气囊未弹出，称未达传感器触发条件，并表示尊重客户第三方鉴定诉求。"
+    },
+    {
+      "id": "ac12b8cdfd36008000dc973b707ecd61",
+      "title": "王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌",
+      "source": "IT之家",
+      "time": "2026-10-26T03:17:36.000Z",
+      "url": "https://www.ithome.com/1/017/809.htm",
+      "digest": "王腾创办的ISHO今日宜休发布品牌理念片，目标用5-10年成为全球领先AI睡眠科技品牌。"
+    },
+    {
+      "id": "5bbf3cdeb3f2009d6f292c81ea3ee6d1",
+      "title": "小鹏集团 Robotaxi 小鹏悠游获批 L4 级自动驾驶示范运营资质",
+      "source": "IT之家",
+      "time": "2026-10-26T03:15:42.000Z",
+      "url": "https://www.ithome.com/1/017/808.htm",
+      "digest": "小鹏集团获批广州智能网联汽车应用示范运营资格，可在广州全域开展L4级Robotaxi示范运营。"
+    },
+    {
+      "id": "91b0e7d3432f203c130323257cc3f31e",
+      "title": "具身智能公司无境动力被曝停工欠薪近 800 万元：CEO 称联系不上实控人，成立仅 4 个月就拿下近 10 亿元订单",
+      "source": "IT之家",
+      "time": "2026-10-26T02:42:42.000Z",
+      "url": "https://www.ithome.com/1/017/795.htm",
+      "digest": "具身智能公司无境动力被曝停工欠薪近800万元，涉三四十名员工，CEO称联系不上实控人。"
+    },
+    {
+      "id": "8e0b2defeed234f4465b2a634bfcde2e",
+      "title": "HTC 公布口袋 AI 互动伴侣 VIVEE：支持个性化性格，预售价 99.99 美元",
+      "source": "IT之家",
+      "time": "2026-10-26T02:40:32.000Z",
+      "url": "https://www.ithome.com/1/017/794.htm",
+      "digest": "HTC公布口袋AI互动伴侣VIVEE，支持个性化性格养成，预售价99.99美元。"
+    },
+    {
+      "id": "04850d2a279319ab51e6007a4af8f9bc",
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "source": "雷峰网",
+      "time": "2026-10-26T02:37:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+      "digest": "趋境科技完成超13亿元B轮融资，年内累计募资24亿元，资金将投向AI Token产能扩张与ATaaS业务。"
+    },
+    {
+      "id": "1b8caf69e7f63026682487a04c51e9a1",
+      "title": "丰田发力人形机器人，挑战特斯拉与中国厂商",
+      "source": "IT之家",
+      "time": "2026-10-26T02:31:59.000Z",
+      "url": "https://www.ithome.com/1/017/778.htm",
+      "digest": "丰田向投资者宣讲机器人战略，计划部署40万台机器人，配套年投入64亿美元，对标特斯拉与中国厂商。"
+    },
+    {
+      "id": "aaa4d27ac8feceaa8d98de0518732382",
+      "title": "AI 成功破解索尼 A7C II 相机固件，直接解锁 FL2 / FL3 和富士理光滤镜",
+      "source": "IT之家",
+      "time": "2026-10-26T02:28:07.000Z",
+      "url": "https://www.ithome.com/1/017/777.htm",
+      "digest": "网友“QAQLeonard”为索尼A7C II制作定制固件，解锁FL2、FL3胶片模式及富士理光滤镜。"
+    },
+    {
+      "id": "b7e4ed601f7e5951f7791abd3861c6a9",
+      "title": "特斯拉官宣全系现款在售车型标配被动安全系统，称安全永远是设计的首要目标",
+      "source": "IT之家",
+      "time": "2026-10-26T02:12:01.000Z",
+      "url": "https://www.ithome.com/1/017/773.htm",
+      "digest": "特斯拉宣布全系现款在售车型标配被动安全系统，并发布车主追尾事故案例视频。"
+    },
+    {
+      "id": "55ba22d2bd5228f3028d99d4e6a28ba0",
+      "title": "华为路由 X2 系列首销：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起",
+      "source": "IT之家",
+      "time": "2026-10-26T01:49:11.000Z",
+      "url": "https://www.ithome.com/1/017/767.htm",
+      "digest": "华为路由X2系列首销，478元起，支持Wi-Fi 7+与AI Mesh组网。"
     },
     {
       "id": "87ac8c9fc62ad7411e9c989586863896",
@@ -111,12 +311,44 @@
       "digest": "OpenAI预计年底年化营收达700亿美元；全国已启用超70家具身智能训练场；比亚迪人形机器人外观专利曝光。"
     },
     {
+      "id": "d6a5de5bfe31ccd9dccaad746ff6d880",
+      "title": "松延动力与一龄集团达成战略合作，携手开启“机器人+康养”新征程",
+      "source": "智能制造网",
+      "time": "2026-10-24T15:29:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196695.html",
+      "digest": "松延动力与一龄集团达成战略合作，共同推进“机器人+康养”场景应用。"
+    },
+    {
+      "id": "34582ec3b3de419b83fe7843f933ef0c",
+      "title": "思灵机器人联合英伟达发布Agile ONE SN：人形机器人科研，进入“开箱即用“时代",
+      "source": "智能制造网",
+      "time": "2026-10-24T15:29:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196694.html",
+      "digest": "思灵机器人与英伟达在GTC大会联合发布基于Isaac GR00T平台的人形机器人Agile ONE SN。"
+    },
+    {
+      "id": "4bf9802fe1daa3cbf2da95cb13a43492",
+      "title": "央视财经报道橡鹿机器人，见证烹饪机器人产业跃迁",
+      "source": "智能制造网",
+      "time": "2026-10-24T15:29:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196688.html",
+      "digest": "央视财经走访橡鹿机器人，报道烹饪机器人在餐饮后厨的应用及产业变化。"
+    },
+    {
       "id": "d55c9693a739f638c846d289b5e84672",
       "title": "新型食品集群|基于全产业协同的速冻食品智能制造工厂",
       "source": "智能制造网",
       "time": "2026-10-24T14:31:13.000Z",
       "url": "https://www.gkzhan.com/news/detail/196654.html",
       "digest": "江苏省公布2026年先进级智能工厂遴选结果，共1821家企业入选，速冻食品智能制造工厂作为全产业协同案例被推介。"
+    },
+    {
+      "id": "35f17d04ab27e98f68bb90ffe9752869",
+      "title": "63%对37%：中国手术机器人第一次反超进口",
+      "source": "智能制造网",
+      "time": "2026-10-24T14:08:53.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196697.html",
+      "digest": "报道称中国手术机器人市场份额达63%，首次反超进口产品的37%。"
     },
     {
       "id": "ec585cda15c793200f71fdcfe9a305cc",
@@ -197,6 +429,14 @@
       "time": "2026-10-24T02:44:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
       "digest": "声网CEO赵斌在iRTE2026提出\"五级对话能力\"框架，描述对话式AI从基础应答向深度理解与关系沟通演进。"
+    },
+    {
+      "id": "962b9a6863cf17881512e6be0cb94b3b",
+      "title": "新松工博会答卷：12公斤机械臂首发、CIIF机器人奖、西门子签约",
+      "source": "智能制造网",
+      "time": "2026-10-23T17:16:18.000Z",
+      "url": "https://www.gkzhan.com/news/detail/196698.html",
+      "digest": "新松在第26届工博会首发12公斤机械臂，获CIIF机器人奖，并与西门子签约。"
     },
     {
       "id": "63de9501e5e56fd12a19710a9a73b5f5",
