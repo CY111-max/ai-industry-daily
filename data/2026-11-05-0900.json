@@ -4,8 +4,48 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-05T03:42:26.277Z",
+  "updatedAt": "2026-11-05T07:22:12.520Z",
   "items": [
+    {
+      "id": "a41169d0293bf779c067d11ead3a9fa2",
+      "title": "2026树根科技物流机器人事业部全球新品发布会圆满举行",
+      "source": "智能制造网",
+      "time": "2026-11-05T14:57:01.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197111.html",
+      "digest": "树根科技物流机器人事业部在CeMATASIA2026展会首日举办全球新品发布会，300余位客户及经销商到场。"
+    },
+    {
+      "id": "8aa4156ad42dd7406ceb1c4c127a0ede",
+      "title": "西安汇川获评“陕西省先进级智能工厂”“陕西省绿色工厂”双项省级荣誉",
+      "source": "智能制造网",
+      "time": "2026-11-05T13:42:04.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197108.html",
+      "digest": "西安汇川技术同时获评2026年度“陕西省先进级智能工厂”与“陕西省绿色工厂”两项省级荣誉。"
+    },
+    {
+      "id": "d7915f211d63db93b8d42068aa981342",
+      "title": "别等了，人形机器人拿不到“大结果”了？",
+      "source": "OFweek机器人",
+      "time": "2026-11-05T13:36:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30710455.html",
+      "digest": "潮汐商业评论文章讨论人形机器人行业热度高企，但对其能否取得“大结果”提出质疑。"
+    },
+    {
+      "id": "eda80cdca3f75e143aefc9c58444708b",
+      "title": "利元亨CNC加工自动生产线赋能精密制造少人化与柔性换产",
+      "source": "智能制造网",
+      "time": "2026-11-05T13:35:16.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197112.html",
+      "digest": "利元亨推出CNC加工自动生产线，面向GPU液冷冷板、机器人关节壳体等精密零部件，支持少人化与柔性换产。"
+    },
+    {
+      "id": "af4f6468327112b7722e80fab33e04a7",
+      "title": "喜报 | 苏大维格(盐城)获评江苏省绿色工厂",
+      "source": "智能制造网",
+      "time": "2026-11-05T13:25:21.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197114.html",
+      "digest": "苏大维格(盐城)光电科技入选2026年度江苏省绿色工厂名单，此前已获批江苏省先进级智能工厂。"
+    },
     {
       "id": "1a0c2850b67d24837d9794f63c79c2c5",
       "title": "中国首个全国产十万卡AI超集群亮相乌镇峰会",
@@ -21,6 +61,14 @@
       "time": "2026-11-05T12:00:00.000Z",
       "url": "https://www.gkzhan.com/news/detail/197084.html",
       "digest": "美国半导体行业协会数据显示，2026年第三季度全球半导体销售额达5177亿美元，环比增长24.1%，刷新历史纪录，各区域市场全面增长。"
+    },
+    {
+      "id": "c8b2a8497fd6f8d69d7729a0d22af21a",
+      "title": "未来五年300万台机器人：京东物理AI加速成网",
+      "source": "智能制造网",
+      "time": "2026-11-05T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197120.html",
+      "digest": "京东计划未来五年采购300万台机器人、100万台无人车和10万架无人机，覆盖生产制造、仓储分拣到运输配送全流程供应链。"
     },
     {
       "id": "1b7ffe730360cde72826308221c06c09",
@@ -53,6 +101,14 @@
       "time": "2026-11-05T10:39:07.000Z",
       "url": "https://www.gkzhan.com/news/detail/197096.html",
       "digest": "优必选参与联合攻关的《复杂动态环境下机器人协同感知与决策关键技术研究及应用》项目获2025年度广东省科技进步一等奖，面向高危、高精度机器人协同作业。"
+    },
+    {
+      "id": "84eb9f87dbaf1f781209a3dd6a5e6bc4",
+      "title": "埃斯顿：连续7个季度国内工业机器人市场第一",
+      "source": "智能制造网",
+      "time": "2026-11-05T10:30:33.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197115.html",
+      "digest": "据MIRDATABANK第三季度数据，埃斯顿工业机器人连续七个季度位居中国工业机器人市场第一。"
     },
     {
       "id": "9b9d84ef35deacbe78675472621ef14f",
@@ -119,12 +175,100 @@
       "digest": "雷军宣布小米机器人在汽车工厂产线完成8小时连续作业挑战，人形机器人向实际生产场景落地。"
     },
     {
+      "id": "3a0d7c398391ccfdf8beab9ab7347da5",
+      "title": "Meta 收购 AI 编程初创公司 Conductor，加码智能体编程赛道",
+      "source": "IT之家",
+      "time": "2026-11-05T07:19:12.000Z",
+      "url": "https://www.ithome.com/1/022/765.htm",
+      "digest": "Meta收购AI编程初创公司Conductor，后者工具支持在多个并行工作空间部署AI智能体推进软件项目。"
+    },
+    {
+      "id": "8be6b0cc16174d07e5e036689b6e20d4",
+      "title": "Uber 高管：目前几乎没人使用 AI 智能体叫车",
+      "source": "IT之家",
+      "time": "2026-11-05T07:10:09.000Z",
+      "url": "https://www.ithome.com/1/022/761.htm",
+      "digest": "Uber财报电话会披露，万圣节所在周通过AI智能体下单的网约车订单仅4笔，Uber Eats仅500笔。"
+    },
+    {
+      "id": "e23540d0ca8117fecbb51f0da6a8d369",
+      "title": "OpenAI 宣布收购 Pierre，扩充 Codex 第一方代码编写、理解、审查工具",
+      "source": "IT之家",
+      "time": "2026-11-05T07:06:27.000Z",
+      "url": "https://www.ithome.com/1/022/758.htm",
+      "digest": "OpenAI宣布收购企业Pierre，将其Code Storage存储系统及Trees、Diffs等代码浏览审查工具并入Codex。"
+    },
+    {
+      "id": "17a118847b751ad02cd7afc67426fdc4",
+      "title": "消息称微软放弃扩大与 Nscale 的算力租赁合同，后者 IPO 前夕遭遇新考验",
+      "source": "IT之家",
+      "time": "2026-11-05T06:54:24.000Z",
+      "url": "https://www.ithome.com/1/022/753.htm",
+      "digest": "微软放弃扩大与Nscale算力租赁合同的选择权，后者正争取350亿美元估值上市。"
+    },
+    {
+      "id": "eb6a1a83a3dd7e6a26b8f13d0b5af1f6",
+      "title": "苹果葛越：AI 不会取代 App，将推动应用生态进一步发展",
+      "source": "IT之家",
+      "time": "2026-11-05T06:51:52.000Z",
+      "url": "https://www.ithome.com/1/022/751.htm",
+      "digest": "苹果副总裁葛越在乌镇峰会表示AI不会取代App，将推动应用更强大个性化，中国App Store生态促成开发者营业额5620亿美元。"
+    },
+    {
+      "id": "b69cdc50f7d2ea62b3d839f71970b7e6",
+      "title": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件",
+      "source": "IT之家",
+      "time": "2026-11-05T06:46:53.000Z",
+      "url": "https://www.ithome.com/1/022/734.htm",
+      "digest": "OpenAI总裁布罗克曼称公司营收大部分来自企业客户，正加大企业销售并预计2027年具备上市条件。"
+    },
+    {
+      "id": "f56d0eef5c0095714ee68f54faf3c462",
+      "title": "丰田成立机器人部门，整合研发资源加速技术落地",
+      "source": "IT之家",
+      "time": "2026-11-05T06:38:55.000Z",
+      "url": "https://www.ithome.com/1/022/709.htm",
+      "digest": "丰田成立专门机器人部门，由首席生产官志贺武文负责，整合分散研发资源推动机器人在生产一线应用与商业化。"
+    },
+    {
+      "id": "ac3f21edb9df379b0eb0e86baec45f8d",
+      "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
+      "source": "爱范儿",
+      "time": "2026-11-05T06:29:09.000Z",
+      "url": "https://www.ifanr.com/1687805?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "星尘智能创始人来杰受访，介绍公司以绳驱机器人本体、具身操作系统AOS与具身模型三位一体的技术架构。"
+    },
+    {
+      "id": "266d50d4718c97159a363dc3efd314b5",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "source": "量子位",
+      "time": "2026-11-05T05:25:37.000Z",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "digest": "XROGO在CeMAT ASIA发布机器人到岗计划，以租用机器人加服务模式降低企业首次引入设备的投入门槛。"
+    },
+    {
+      "id": "7b985612e448eb8ca43ded03f344c149",
+      "title": "清洁机器人出海患上「三高」：高库存、高税率、高门槛",
+      "source": "雷峰网",
+      "time": "2026-11-05T03:58:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html",
+      "digest": "FCC将外国生产先进机器人设备列入受控清单，清洁机器人头部企业新品规划转向欧洲、澳洲，欧盟同期启动割草机器人反倾销调查。"
+    },
+    {
       "id": "358807b0cbba68109d187f167f11b859",
       "title": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供",
       "source": "IT之家",
       "time": "2026-11-05T03:15:17.000Z",
       "url": "https://www.ithome.com/1/022/572.htm",
       "digest": "Kimi推出Hosted Agents托管智能体，将Harness以云端服务形式提供，企业和开发者无需自建运行框架即可获得7×24小时托管环境，支持长程任务与多"
+    },
+    {
+      "id": "b85a4647def937e7e9c62b61716e10a5",
+      "title": "世界模型热潮里，百度重新亮出无人驾驶底牌",
+      "source": "雷峰网",
+      "time": "2026-11-05T03:02:00.000Z",
+      "url": "https://www.leiphone.com/category/transportation/d85n0vUzY4Df9bd2.html",
+      "digest": "百度、Waymo等企业用世界模型扩展无人驾驶仿真测试，通过改变路况与驾驶动作推演不同结果以训练系统。"
     },
     {
       "id": "8ed0102b69a347d1e4a04d28ef4a4c8d",
@@ -149,6 +293,14 @@
       "time": "2026-11-05T02:01:51.000Z",
       "url": "https://www.qbitai.com/2026/11/507696.html",
       "digest": "11月10日上海巡展将邀蚂蚁密算、合合信息、普华永道、三菱电梯、识货专家，分享从本体、知识引擎到Data Agent的落地链路。"
+    },
+    {
+      "id": "24382ed5fc20b0ad2159a4da7848fe54",
+      "title": "360亮相北大AI+X青年人才实践发展论坛，联合发布“AI原生人才标准”",
+      "source": "雷峰网",
+      "time": "2026-11-05T01:57:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/litxyBn8AmWERGUM.html",
+      "digest": "360在北大AI+X青年人才实践发展论坛发表演讲，提出智能体时代需培养具备调度管控能力的AI原生人才。"
     },
     {
       "id": "69ee3e309f92f6a1b379cd0f0ee79c11",
@@ -685,6 +837,22 @@
       "time": "2026-11-02T15:22:00.000Z",
       "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30709821.html",
       "digest": "一级市场投资人普遍表示暂不投具身智能项目，有FA将微信签名改为“暂不接具身项目”，反映该赛道融资遇冷。"
+    },
+    {
+      "id": "e0b0ea46a87dbd29685e2122c42f5bd1",
+      "title": "智能经济深度观察丨破解高质量工业数据供给瓶颈",
+      "source": "智能制造网",
+      "time": "2026-10-24T10:13:25.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197119.html",
+      "digest": "业界指出工业是智能经济主战场，高质量工业数据是AI赋能制造业的关键基础，当前面临数据供给瓶颈。"
+    },
+    {
+      "id": "6a14fa3aca2cadab146487fcd6672aab",
+      "title": "爱仕达荣获2026福布斯中国“人形机器人未来奖”",
+      "source": "智能制造网",
+      "time": "2026-09-08T13:44:32.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197117.html",
+      "digest": "上海爱仕达人形机器人有限公司在2026福布斯中国人机共生科技智能先锋评选中获“人形机器人未来奖”。"
     },
     {
       "id": "cb9e431845310a8105a8d64c319bb684",
