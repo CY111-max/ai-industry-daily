@@ -4,8 +4,48 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-09T02:57:07.864Z",
+  "updatedAt": "2026-11-09T07:09:00.893Z",
   "items": [
+    {
+      "id": "fe6c632dd453b9d642c6b9f509a82c61",
+      "title": "机器人大泡沫正在破裂：IPO关了，借壳堵死",
+      "source": "OFweek机器人",
+      "time": "2026-11-09T15:06:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30710923.html",
+      "digest": "铅笔道创始人王方发文称人形机器人泡沫正破裂，A股、港股IPO通道及借壳路径对多数机器人公司已受阻。"
+    },
+    {
+      "id": "e87de7761fb2ee2baa8259e7e004f2b9",
+      "title": "扫地机器人市场格局生变！科沃斯稳居第一 石头份额大涨",
+      "source": "智能制造网",
+      "time": "2026-11-09T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197213.html",
+      "digest": "洛图科技数据显示，2026年三季度中国扫地机器人线上零售量91.8万套、同比增2.4%，零售额27.2亿元，科沃斯居首、石头份额大涨。"
+    },
+    {
+      "id": "6f17c5399cdd2692334fcf6345fc67a4",
+      "title": "丰田设立机器人部门 开辟“第二战场”",
+      "source": "智能制造网",
+      "time": "2026-11-09T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197190.html",
+      "digest": "丰田汽车宣布设立直属机器人部门ToyotaRobotics，2027年1月起运行，将机器人业务定位为与电动化并列的核心战略板块。"
+    },
+    {
+      "id": "d9535dd78c3c25b8873667d66fc532af",
+      "title": "具身智能首个全链路安全国标制定启动",
+      "source": "OFweek机器人",
+      "time": "2026-11-09T11:28:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8120-30710849.html",
+      "digest": "《网络安全技术 具身智能安全指南》国标项目下达，归口全国网络安全标准化技术委员会，为具身智能首个全链路安全国标。"
+    },
+    {
+      "id": "5a50c88627073a88fd420091154e08cf",
+      "title": "中石油拿六成，宇树拿两成：机器人进油田，谁在给谁“打工”？",
+      "source": "OFweek机器人",
+      "time": "2026-11-09T10:59:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12001-30710826.html",
+      "digest": "中石油昆仑制造及昆仑资本与宇树科技、北京泛界智能签署协议，拟新设合营企业，主攻工业具身智能机器人解决方案。"
+    },
     {
       "id": "afd9ab7f1b164a19f4d218cd6afa5918",
       "title": "美股人形机器人第一股Agility破发，富士康托底只撑了一天",
@@ -63,6 +103,86 @@
       "digest": "拓斯达在TOPS DAY 2026全球开放日集中签约人形机器人等多项合作。"
     },
     {
+      "id": "e5cf65b48f85024bb2b855f681e24efb",
+      "title": "澳大利亚拟推网络监管新规，谷歌警告未成年人或将无法使用 Gmail",
+      "source": "IT之家",
+      "time": "2026-11-09T06:37:48.000Z",
+      "url": "https://www.ithome.com/1/024/254.htm",
+      "digest": "澳大利亚《数字注意义务法案》获众议院通过，谷歌称或被迫禁止未满18岁用户使用Gmail。"
+    },
+    {
+      "id": "cfc1153b7b9ee49a0f1280fa27e3a6cb",
+      "title": "消息称赛力斯跟华为合作依旧紧密，工厂总装下线到路测全部依赖 HUAWEI ADS 跑无人测试",
+      "source": "IT之家",
+      "time": "2026-11-09T06:31:26.000Z",
+      "url": "https://www.ithome.com/1/024/251.htm",
+      "digest": "消息称赛力斯与华为合作紧密，工厂总装下线到路测均依赖HUAWEI ADS进行无人测试。"
+    },
+    {
+      "id": "43ee7eecf625dabee356e623aadd4628",
+      "title": "方飞：荣耀 700 全系搭载 AI 灵动背屏",
+      "source": "IT之家",
+      "time": "2026-11-09T06:30:54.000Z",
+      "url": "https://www.ithome.com/1/024/249.htm",
+      "digest": "荣耀产品线总裁方飞宣布荣耀700系列全系搭载AI灵动背屏，称其为数字系列最大外观突破。"
+    },
+    {
+      "id": "f1e35f92ec2ed2320c63b56002ccdfe8",
+      "title": "微软 CEO 纳德拉畅想：未来可能有 2000 万个 AI 智能体与 20 万名员工协同工作",
+      "source": "IT之家",
+      "time": "2026-11-09T06:22:30.000Z",
+      "url": "https://www.ithome.com/1/024/243.htm",
+      "digest": "微软CEO纳德拉在访谈中设想未来或有2000万个AI智能体与20万名员工协同工作。"
+    },
+    {
+      "id": "fd127fb34ccb38acd80571908fceb4ee",
+      "title": "网约车平台曹操出行联合蚂蚁集团，在杭州厦门重庆三地落地司机之家 AI 驿站",
+      "source": "IT之家",
+      "time": "2026-11-09T06:10:21.000Z",
+      "url": "https://www.ithome.com/1/024/241.htm",
+      "digest": "曹操出行联合蚂蚁集团旗下蚂蚁阿福，在杭州、厦门、重庆司机之家分批落地AI健康驿站。"
+    },
+    {
+      "id": "c9b8583e2f03c17685ce44bfdb0ca32d",
+      "title": "英伟达在韩举办 AI Day 活动，韩国政府、三星、LG 电子、现代汽车集团等排队合作",
+      "source": "IT之家",
+      "time": "2026-11-09T05:59:59.000Z",
+      "url": "https://www.ithome.com/1/024/217.htm",
+      "digest": "英伟达在首尔举办AI Day，与韩国科学信息通信技术部及三星、LG电子、现代汽车等公布多项合作。"
+    },
+    {
+      "id": "0a95a15b458dddb6ce7154970bea333e",
+      "title": "日本人工智能独角兽 Sakana AI 正在开发其首款移动 App",
+      "source": "IT之家",
+      "time": "2026-11-09T05:58:20.000Z",
+      "url": "https://www.ithome.com/1/024/216.htm",
+      "digest": "日本AI独角兽Sakana AI宣布开发首款移动应用Sakana AI App，正招募Beta测试用户，CEO称其为公司新方向。"
+    },
+    {
+      "id": "fdcf00a6b30ef0f64fb6b339ea958d59",
+      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+      "source": "极客公园",
+      "time": "2026-11-09T03:57:03.000Z",
+      "url": "http://www.geekpark.net/news/373644",
+      "digest": "腾讯混元Hy4正式发布，主打性价比的轻量版Hy4 flash同步亮相，权重将开源，定位跻身最强开源模型。"
+    },
+    {
+      "id": "d102fe5e46ab4cb73835d77248b5ec62",
+      "title": "第八届世界浙商大会举行AI专题活动支付宝分享A办事实践",
+      "source": "雷峰网",
+      "time": "2026-11-09T03:43:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html",
+      "digest": "第八届世界浙商大会在杭州举行，浙江省工商联依托AI大模型平台实现惠企政策精准推送，支付宝小程序作为触达通道。"
+    },
+    {
+      "id": "a281e17f60fa17ca013f20e2ae769049",
+      "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
+      "source": "极客公园",
+      "time": "2026-11-09T02:58:04.000Z",
+      "url": "http://www.geekpark.net/news/373687",
+      "digest": "英伟达CEO黄仁勋就不忠行为致歉，董事会就相关报道涉及的国家安全关切启动独立调查。"
+    },
+    {
       "id": "bca59ee308340bc9341a665b8faea71d",
       "title": "特朗普称 AI 风险可控，但不介意设置监管护栏",
       "source": "IT之家",
@@ -79,6 +199,22 @@
       "digest": "LG AI研究院免费开放K-EXAONE 2.5模型API，开发者、企业及研究机构可无偿用于服务开发与研究，该模型具备智能体能力。"
     },
     {
+      "id": "c178c7edf91eb7def6c58fcd7edeed74",
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "source": "雷峰网",
+      "time": "2026-11-09T02:25:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/tLk5dflVBL8euzAW.html",
+      "digest": "基元律动发布Agent模型NeoHorse-1.5-Flash Preview，基于Qwen3.8-Flash训练，总参数180B，开放限量内测。"
+    },
+    {
+      "id": "630a86e3f6c5c9a8c19dd1f74ee981a9",
+      "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+      "source": "雷峰网",
+      "time": "2026-11-09T02:23:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html",
+      "digest": "腾讯WorkBuddy累计承接超90亿次任务请求，蒙牛、上海家化等企业已规模化落地AI办公智能体。"
+    },
+    {
       "id": "99048d1bc6dddbe5a75c84f7a7c89168",
       "title": "具身智能，也到了 API 时刻？",
       "source": "极客公园",
@@ -93,6 +229,14 @@
       "time": "2026-11-09T01:53:50.000Z",
       "url": "https://www.ithome.com/1/024/055.htm",
       "digest": "领克宣布2026款08 EM-P年内更新FlymeAuto 2.5.0，用户可通过App购买EVA实体机器人并到门店安装，2027款已上市。"
+    },
+    {
+      "id": "4e8f2ba29e2f9aa725ae697108fd2df0",
+      "title": "“X-Day”西丽湖路演社亚太数智创新专场成功举办 共探AI硬件出海新机遇",
+      "source": "雷峰网",
+      "time": "2026-11-09T01:50:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/ZpO4WNiF4Go9XTtQ.html",
+      "digest": "西丽湖路演社亚太数智创新专场在深圳举办，聚焦AI硬件出海，投资机构与创业团队参与路演对接。"
     },
     {
       "id": "1a4f7767b205247d96b0256198d6e8b4",
@@ -311,6 +455,14 @@
       "digest": "光轮智能与宇树科技合作，推动具身智能机器人在真实场景稳定运行与规模化复制落地。"
     },
     {
+      "id": "cc0567d3b10223ba67db781f3f84ba24",
+      "title": "沈阳精锐“缸盖加工智能柔性生产线”顺利完成验收交付",
+      "source": "智能制造网",
+      "time": "2026-11-06T11:47:27.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197223.html",
+      "digest": "沈阳精锐数控机床自主研发的缸盖加工智能柔性生产线通过验收并交付客户，聚焦缸盖、缸体等关键零部件自动化加工。"
+    },
+    {
       "id": "03716266d925c3608bc99ab48d632bf2",
       "title": "中国快递协会“暖提示”：全链条护旺季口碑、守安全底线，共建共享良性寄递生态",
       "source": "智能制造网",
@@ -463,6 +615,14 @@
       "digest": "文章分析边缘智能作为AI、物联网与5G交汇点，随联网设备激增，处理模式由云端向边缘转移。"
     },
     {
+      "id": "3c4223e4a5fbd96e5d0d78beb9b1ea53",
+      "title": "央普生物二号车间无菌冷灌装生产线正式投产",
+      "source": "智能制造网",
+      "time": "2026-11-05T13:24:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197224.html",
+      "digest": "四川央普生物二号车间无菌冷灌装生产线投产，每小时可产24000瓶饮品，用于果蔬饮品产能扩张。"
+    },
+    {
       "id": "6bce12b419ecb72ad4ce141c2dfbcd1b",
       "title": "中国制造开始“组队”了！三批先进制造业集群相继落子",
       "source": "智能制造网",
@@ -501,6 +661,14 @@
       "time": "2026-11-05T09:15:38.000Z",
       "url": "http://www.geekpark.net/news/373541",
       "digest": "腾讯全球数字生态大会上，汤道生提出围绕办公协同、数据管理与业务执行开放WorkBuddy Agent平台能力，助企业构建智能生产力系统。"
+    },
+    {
+      "id": "8c9a413b08298478afd90c542707f962",
+      "title": "全国首个海上算力联盟落地珠海",
+      "source": "智能制造网",
+      "time": "2026-11-04T11:55:43.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197226.html",
+      "digest": "港珠澳琴海上算力联盟在横琴举行的算力峰会上成立并落地珠海，为全国首个海上算力联盟。"
     },
     {
       "id": "77d2aa6927950fe2ce67c5fe0453b9cc",
@@ -543,6 +711,14 @@
       "digest": "多地燃气集团公布2026年度燃气表采购中标结果，超声波燃气表放量提速，NB-IoT物联网膜式燃气表仍为市场主力。"
     },
     {
+      "id": "2cc44d4230aabcbe4cdecb13da04ff4e",
+      "title": "联泰科技金属3D打印自动化产线，如何构建鞋模量产车间？",
+      "source": "智能制造网",
+      "time": "2026-09-16T10:01:19.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197230.html",
+      "digest": "联泰科技针对金属3D打印鞋模量产中的搬运、清粉与热处理排期等流转环节，构建自动化产线以提升批量生产效率。"
+    },
+    {
       "id": "b6ba152e5384cbd4f507a3f4e1a80bdf",
       "title": "云幕智造与中船(重庆)装备签署智能机器人产业发展合作协议",
       "source": "智能制造网",
@@ -565,6 +741,22 @@
       "time": "2024-12-02T10:59:53.000Z",
       "url": "https://www.gkzhan.com/news/detail/197211.html",
       "digest": "华民半导体新产线首次投料成功拉制450mm大直径半导体硅材料，标志其大尺寸硅材料迈上规模量产新台阶。"
+    },
+    {
+      "id": "c82e61e969d9656292c6a754bd4fa58f",
+      "title": "全国包装标准化技术委员会2026年度工作会议在京召开",
+      "source": "智能制造网",
+      "time": "2024-07-12T10:29:45.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197233.html",
+      "digest": "全国包装标准化技术委员会2026年度工作会议在北京召开，市场监管总局、工信部及中国包装联合会等参会。"
+    },
+    {
+      "id": "5bf00e8ef2415ac0d7cdea98baf60d72",
+      "title": "基于全流程数智化管控的高端通信装备智能工厂",
+      "source": "智能制造网",
+      "time": "2022-12-21T11:21:07.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197228.html",
+      "digest": "江苏省开展2026年先进级智能工厂遴选，共选出1821家标杆企业，涉及高端通信装备全流程数智化管控工厂。"
     },
     {
       "id": "8827dc0e04ac92a70941d1352b9e8b07",
