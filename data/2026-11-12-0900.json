@@ -4,8 +4,16 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-12T04:09:46.190Z",
+  "updatedAt": "2026-11-12T07:43:15.710Z",
   "items": [
+    {
+      "id": "6a0694aecb85b94e9da1307a6ade6489",
+      "title": "估值约164亿元！又一家机器人公司完成20亿E轮融资",
+      "source": "OFweek机器人",
+      "time": "2026-11-12T13:58:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-12005-30711491.html",
+      "digest": "美国Path Robotics完成3亿美元E轮融资，投后估值24.5亿美元，由AI成长型基金领投。"
+    },
     {
       "id": "71b7013288c6a81ce1e0972305fb7de3",
       "title": "具身智能凛冬已至，谁能撑到下一个春天？",
@@ -31,6 +39,14 @@
       "digest": "宇树科技股价站上800元、市值突破3200亿元，但三季度利润下滑，摩根大通半月内评级由300元上调至995元。"
     },
     {
+      "id": "ab896ddf3e378bf270ee0321dbcce0c6",
+      "title": "优必选、沐曦联合发起，曦选创智完成5亿元天使轮融资",
+      "source": "智能制造网",
+      "time": "2026-11-12T09:55:52.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197374.html",
+      "digest": "优必选与沐曦联合发起的具身智能端侧芯片公司曦选创智完成5亿元天使轮融资，投后估值40亿元。"
+    },
+    {
       "id": "200dad70b0c5c0768b17cca6a2ec6d94",
       "title": "大型数据中心如何影响地方经济与资源环境？",
       "source": "智能制造网",
@@ -45,6 +61,14 @@
       "time": "2026-11-12T09:07:00.000Z",
       "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30711382.html",
       "digest": "具身智能产业窗口期缩短，业内判断其“ChatGPT时刻”快则两到三年，部署与迭代速度成为竞争关键。"
+    },
+    {
+      "id": "169950818ae45960c5ba73c816332ea8",
+      "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+      "source": "爱范儿",
+      "time": "2026-11-12T04:50:05.000Z",
+      "url": "https://www.ifanr.com/1689176?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "豆包工作接入Kimi、GLM、DeepSeek等第三方模型，并展示各模型额度消耗倍率、推出限时优惠。"
     },
     {
       "id": "b066b8ee7c18f10f254f0d7bbc44167a",
@@ -93,6 +117,22 @@
       "time": "2026-11-12T03:34:02.000Z",
       "url": "https://www.ithome.com/1/025/926.htm",
       "digest": "豆包工作接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等首批第三方模型，并上线按实际消耗计价的额度倍率机制。"
+    },
+    {
+      "id": "907a8d2162297cc950dfa4a7de1703e5",
+      "title": "豆包工作接入更多模型 并推出限时额度优惠",
+      "source": "雷峰网",
+      "time": "2026-11-12T03:12:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/5Y2bdtPv21ZnFJCY.html",
+      "digest": "豆包工作接入Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等第三方模型，标注额度消耗倍率并推出限时优惠。"
+    },
+    {
+      "id": "a27bc6e1a1f47dc6bb6d5728150a7a93",
+      "title": "灵光生态再扩容！新增微信 ClawBot、QQ机器人、瑞幸咖啡等六大连接器",
+      "source": "雷峰网",
+      "time": "2026-11-12T03:04:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/nKpbdFlkI7WUDqOl.html",
+      "digest": "灵光开放生态新增微信ClawBot、QQ机器人、瑞幸咖啡等六大连接器，外部连接服务增至47项。"
     },
     {
       "id": "ba8de836cb6ddc0775a0c35d879a6681",
@@ -423,6 +463,14 @@
       "digest": "文章梳理人工智能加速发展的多重驱动因素，指出其能力边界扩展并融入企业运营、科研、医疗等场景。"
     },
     {
+      "id": "73d1fb1062e4639da6763088736c80a7",
+      "title": "2026年度建材行业智能制造与人工智能十大科技进展征集",
+      "source": "智能制造网",
+      "time": "2026-11-10T13:31:34.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197372.html",
+      "digest": "协会启动2026年度建材行业智能制造与人工智能十大科技进展征集与遴选工作。"
+    },
+    {
       "id": "252adc6f839d61012c29f7bf0c73fc83",
       "title": "步科股份前三季度营收7.50亿元，机器人业务占比升至56.55%",
       "source": "智能制造网",
@@ -645,6 +693,14 @@
       "time": "2026-10-29T10:10:00.000Z",
       "url": "https://robot.ofweek.com/2026-10/ART-8321202-12003-30709286.html",
       "digest": "在具身智能行业IPO放缓、裁员传闻与VC门槛提高背景下，宇树股价于10月28日重回700元。"
+    },
+    {
+      "id": "40565b69d384d32aa7383208d1a77864",
+      "title": "上海麒熠炽携手Bunzl到访协会 共商安全防护用玻纤制品推广应用",
+      "source": "智能制造网",
+      "time": "2026-10-24T09:36:04.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197375.html",
+      "digest": "上海麒熠炽总经理卢巍携Bunzl北美安防公司总裁到访协会，商谈安全防护用玻纤制品推广。"
     }
   ]
 }
