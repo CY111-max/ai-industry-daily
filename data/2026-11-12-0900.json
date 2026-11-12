@@ -4,8 +4,16 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-12T03:21:36.727Z",
+  "updatedAt": "2026-11-12T04:09:46.190Z",
   "items": [
+    {
+      "id": "71b7013288c6a81ce1e0972305fb7de3",
+      "title": "具身智能凛冬已至，谁能撑到下一个春天？",
+      "source": "OFweek机器人",
+      "time": "2026-11-12T11:25:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30711448.html",
+      "digest": "报道称具身智能赛道融资降温、上市通道收窄，行业情绪转向，投资经理认为泡沫破裂后真正做事的团队反而松一口气。"
+    },
     {
       "id": "3b81bc9dfed3f51934b0ffe603e5c936",
       "title": "储能企业加速入局AIDC：从“备电配角”走向“算电一体化原生设计”",
@@ -37,6 +45,54 @@
       "time": "2026-11-12T09:07:00.000Z",
       "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30711382.html",
       "digest": "具身智能产业窗口期缩短，业内判断其“ChatGPT时刻”快则两到三年，部署与迭代速度成为竞争关键。"
+    },
+    {
+      "id": "b066b8ee7c18f10f254f0d7bbc44167a",
+      "title": "百度天池 1024 卡超节点发布：可支撑 5 万亿参数模型训练，明年上市",
+      "source": "IT之家",
+      "time": "2026-11-12T04:09:14.000Z",
+      "url": "https://www.ithome.com/1/026/026.htm",
+      "digest": "百度世界2026大会上，沈抖发布天池1024卡超节点算力集群，可支撑5万亿参数模型训练，计划明年推向市场。"
+    },
+    {
+      "id": "97663f8e91cd5fca800723dc30748592",
+      "title": "百度昆仑芯 M300 明年推出，2028 年发布基于全新 N 架构的多颗芯片",
+      "source": "IT之家",
+      "time": "2026-11-12T03:46:35.000Z",
+      "url": "https://www.ithome.com/1/025/971.htm",
+      "digest": "李彦宏在百度世界2026表示推理将成AI芯片长期增长主推力，昆仑芯M300明年推出，2028年发布基于全新N架构的多颗芯片。"
+    },
+    {
+      "id": "451cf114ee1bbfedd2b6aa7e3b240d0b",
+      "title": "体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子",
+      "source": "极客公园",
+      "time": "2026-11-12T03:44:41.000Z",
+      "url": "http://www.geekpark.net/news/373860",
+      "digest": "妙动科技双轮足式跟拍机器人Beni开售，团队核心成员来自大疆与特斯拉Optimus，公司此前获经纬、红杉、美团多轮投资。"
+    },
+    {
+      "id": "629ff7831322519768d03d26c82513ac",
+      "title": "Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资",
+      "source": "IT之家",
+      "time": "2026-11-12T03:36:01.000Z",
+      "url": "https://www.ithome.com/1/025/934.htm",
+      "digest": "OpenAI将ChatGPT Finances功能扩展至Mac桌面端，用户可通过Plaid连接银行、信用卡及投资账户，查看余额并跟踪投资组合。"
+    },
+    {
+      "id": "ee18b7088bd59c5a07092662c0e72fbd",
+      "title": "英 AI 芯片初创企业 Fractile 获该国政府资金支持，估值达 70 亿美元",
+      "source": "IT之家",
+      "time": "2026-11-12T03:34:04.000Z",
+      "url": "https://www.ithome.com/1/025/927.htm",
+      "digest": "英国AI芯片初创Fractile完成超7.2亿美元C轮融资，估值达70亿美元，英国政府主权AI基金与谷歌风投、贝莱德等参投。"
+    },
+    {
+      "id": "d5912f0c2b0597579e75a2c978775676",
+      "title": "豆包工作接入 DeepSeek V4.1 Flash、Kimi K3.1 Pro 等第三方模型，同步上线额度消耗倍率与限时优惠",
+      "source": "IT之家",
+      "time": "2026-11-12T03:34:02.000Z",
+      "url": "https://www.ithome.com/1/025/926.htm",
+      "digest": "豆包工作接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等首批第三方模型，并上线按实际消耗计价的额度倍率机制。"
     },
     {
       "id": "ba8de836cb6ddc0775a0c35d879a6681",
@@ -125,6 +181,14 @@
       "time": "2026-11-12T01:39:34.000Z",
       "url": "https://www.ithome.com/1/025/879.htm",
       "digest": "美联航以隐私和监管为由禁止个人AI助手代客购票，AI可展示航班但不能完成交易。"
+    },
+    {
+      "id": "762a00e62a26e9cc2deb2793139514cd",
+      "title": "突发！黄仁勋被曝与高管有新婚外情，英伟达启动罢免，猎头已物色其接班人；百度发布文心全新开源模型；余承东官宣华为子品牌「星芒」",
+      "source": "雷峰网",
+      "time": "2026-11-12T01:23:00.000Z",
+      "url": "https://www.leiphone.com/category/zaobao/eX3oZsWdbpVbMcto.html",
+      "digest": "外媒称英伟达CEO黄仁勋被曝与直接汇报高管存在婚外关系，董事会已启动罢免程序并委托猎头物色接班人，消息致其股价盘后跌8%。"
     },
     {
       "id": "283c63b44eced75b1bec03dafc9f35bc",
