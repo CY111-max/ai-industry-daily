@@ -4,8 +4,64 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-16T03:03:40.216Z",
+  "updatedAt": "2026-11-16T07:13:59.434Z",
   "items": [
+    {
+      "id": "4880249ee61372c8b5667f172a861152",
+      "title": "软通智算率先落地“Day-1商用支持”标准",
+      "source": "智能制造网",
+      "time": "2026-11-16T14:59:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197486.html",
+      "digest": "软通智算适配的两大旗舰模型通过某头部大模型厂商商用认证，并获其官方授权成为独立服务供应商。"
+    },
+    {
+      "id": "d562884c9f774628cd0075d172748c34",
+      "title": "机器人开始向上“卷”：极智嘉、海柔、Exotec真正比的是什么？",
+      "source": "OFweek机器人",
+      "time": "2026-11-16T14:26:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30711909.html",
+      "digest": "CeMAT ASIA 2026上，极智嘉、海柔、Exotec等物流机器人企业转向货架上方空间，竞争焦点从地面移动延伸。"
+    },
+    {
+      "id": "320cff4ba7cae68ab09a9e00af277c74",
+      "title": "iAISIM AI成果获评2026世界仿真大会国际先进仿真技术典型案例",
+      "source": "智能制造网",
+      "time": "2026-11-16T13:40:09.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197497.html",
+      "digest": "无限维智仿“基于AI的汽车……”成果获亚洲仿真联盟评为2026国际先进仿真技术典型案例。"
+    },
+    {
+      "id": "f8a659396eb00f3ccb4e65303cf5eedf",
+      "title": "合作启幕：中国—东盟携手，中国AI迎“兑现之年”",
+      "source": "智能制造网",
+      "time": "2026-11-16T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197498.html",
+      "digest": "第29次中国—东盟领导人会议宣布将2027年定为“中国—东盟人工智能合作年”，开展“人工智能+”合作。"
+    },
+    {
+      "id": "59c1fdfebf57440f8e732c24120e0f5b",
+      "title": "从静电防护到精密装配：3D打印如何赋能半导体制造？",
+      "source": "智能制造网",
+      "time": "2026-11-16T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197466.html",
+      "digest": "文章介绍3D打印在芯片测试治具、PCB定位夹具、自动化夹爪等半导体研发测试与电子装配环节的应用。"
+    },
+    {
+      "id": "fb275423ccddcd92cbd68093da5e20a1",
+      "title": "固高科技：前三季度半导体/泛半导体收入同比翻倍",
+      "source": "智能制造网",
+      "time": "2026-11-16T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197483.html",
+      "digest": "固高科技披露2026年前三季度业绩，半导体与泛半导体板块收入同比翻倍，成为营收增长核心动力。"
+    },
+    {
+      "id": "3041349ce92e9bef0cdb3d479fcfc4d7",
+      "title": "今年湖北首富还是他！中国传感器赛道唯一省级首富诞生",
+      "source": "智能制造网",
+      "time": "2026-11-16T10:51:02.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197482.html",
+      "digest": "胡润《2026胡润百富榜》发布，湖北19位企业家上榜，其中一位来自传感器赛道。"
+    },
     {
       "id": "845261d99c2825629fdfaa18b7f22daa",
       "title": "直击长沙物流展|库卡具身智能&AMR打造仓线协同方案",
@@ -13,6 +69,14 @@
       "time": "2026-11-16T10:21:35.000Z",
       "url": "https://www.gkzhan.com/news/detail/197471.html",
       "digest": "库卡在2026长沙物流展展出具身智能与AMR结合的仓线协同方案，聚焦智能绿色物流技术。"
+    },
+    {
+      "id": "88263d7d10db069eee9583e8ae1a5092",
+      "title": "企业信息 | 来自南京工艺、上海机床、广州数控、亚威股份等企业",
+      "source": "智能制造网",
+      "time": "2026-11-16T10:15:32.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197485.html",
+      "digest": "南京工艺与南京江宁滨江经济开发区签约，投资约12.55亿元建设智能制造高端功能部件产业化项目。"
     },
     {
       "id": "439b7a4bdcaad71a29921d9d54e78b31",
@@ -47,6 +111,102 @@
       "digest": "金石机器人（珠海）有限公司AWR重载空间机器人基地厂房项目完成备案，总投资9000万元，占地39267.70平方米，位于珠海金湾区。"
     },
     {
+      "id": "525197847c5dc5f352eede4bdebf5522",
+      "title": "六项水上北斗领域国家标准发布",
+      "source": "IT之家",
+      "time": "2026-11-16T06:37:03.000Z",
+      "url": "https://www.ithome.com/1/027/670.htm",
+      "digest": "市场监管总局批准发布船载北斗导航通信一体式设备等6项水上北斗国家标准，为水上北斗规模化应用提供技术支撑。"
+    },
+    {
+      "id": "baacc8a6eef894e1eb9b95c25f9e7bc1",
+      "title": "我国自主研发电子航海日志系统发布，航运基础文书数字化转型关键一步",
+      "source": "IT之家",
+      "time": "2026-11-16T05:16:52.000Z",
+      "url": "https://www.ithome.com/1/027/642.htm",
+      "digest": "我国自主研发的电子航海日志系统发布，以自动记录、船岸同步和区块链存证替代手工誊写，已在四艘货船完成实船试验。"
+    },
+    {
+      "id": "dae58a60c29c9278cf62d679b4e18af3",
+      "title": "腾讯混元 Hy4 flash 模型发布：224B 总参、12B 激活，单任务成本约 Hy4 的 5%",
+      "source": "IT之家",
+      "time": "2026-11-16T05:09:25.000Z",
+      "url": "https://www.ithome.com/1/027/630.htm",
+      "digest": "腾讯混元发布Hy4 flash模型，总参数224B、每token激活12B，支持多模态与百万上下文，单任务成本约为Hy4的5%。"
+    },
+    {
+      "id": "05965904de3b252c168656dd04c5b8c9",
+      "title": "无界进化宣布完成超亿元 Pre-A 轮融资，称“刷新中国虚拟细胞企业单笔融资纪录”",
+      "source": "IT之家",
+      "time": "2026-11-16T04:42:03.000Z",
+      "url": "https://www.ithome.com/1/027/609.htm",
+      "digest": "AI for Science企业无界进化完成超亿元Pre-A轮融资，由星连资本、Prosperity7等联合投资，老股东顺为、红杉中国追加。"
+    },
+    {
+      "id": "3fef7e03ce33569bc0eaac5a4eaf8c3f",
+      "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
+      "source": "IT之家",
+      "time": "2026-11-16T04:17:38.000Z",
+      "url": "https://www.ithome.com/1/027/607.htm",
+      "digest": "中国与东盟宣布将2027年定为人工智能合作年，中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。"
+    },
+    {
+      "id": "bf1922d557d7c46060d825f206743d6e",
+      "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
+      "source": "雷峰网",
+      "time": "2026-11-16T04:08:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+      "digest": "千问办公上线Qwen4-Max及Kimi、GLM、DeepSeek等10款模型，个人与企业标准版用户可按任务自由选择，以降低Token成本。"
+    },
+    {
+      "id": "31fe5db940f851cafaba9a1739984106",
+      "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
+      "source": "雷峰网",
+      "time": "2026-11-16T04:00:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
+      "digest": "百度世界2026发布词元所大模型交易平台、文心5.5 Flash及天池1024卡超节点；度小满联合港科大等探索中小金融机构低成本落地金融AI。"
+    },
+    {
+      "id": "36e5dcb48adabe224135d949c1e42520",
+      "title": "国家统计局：人工智能快速发展带动电子、电气机械等行业需求回升、价格上涨",
+      "source": "IT之家",
+      "time": "2026-11-16T03:59:15.000Z",
+      "url": "https://www.ithome.com/1/027/602.htm",
+      "digest": "国家统计局称AI快速发展带动电子、电气机械行业需求回升，10月两行业价格同比分别上涨6.2%和5.9%，合计影响PPI约1.18个百分点。"
+    },
+    {
+      "id": "e76434e98fc2e4b6745c3806c9617e3e",
+      "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
+      "source": "雷峰网",
+      "time": "2026-11-16T03:50:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
+      "digest": "妙动科技多地形跟拍机器人Beni在深圳线下首发，售价4999元起；该产品Kickstarter众筹超500万美元，为消费级机器人众筹金额最高。"
+    },
+    {
+      "id": "9f83c031171a6699135123c84b4c13e4",
+      "title": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
+      "source": "IT之家",
+      "time": "2026-11-16T03:44:18.000Z",
+      "url": "https://www.ithome.com/1/027/597.htm",
+      "digest": "DeepSeek对App及网页端长对话实施限额，单次输入上限缩至约4万字并限制每日额度，平台提示原因为算力不足。"
+    },
+    {
+      "id": "cc9037fe9e3eda4fc4d18b148152b86f",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "source": "雷峰网",
+      "time": "2026-11-16T03:33:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
+      "digest": "阿里发布2.4T参数基座模型Qwen4-Max，支持百万上下文与原生视觉，API缓存命中每百万Tokens低至0.5元，单任务成本较上代降六成。"
+    },
+    {
+      "id": "64618cc4000b910ae314e0a0f43a5946",
+      "title": "华为麒麟 9050 系列芯片智能音视频处理情报公开：低延迟 AI 异构协同计算、率先支持 H.266 解码",
+      "source": "IT之家",
+      "time": "2026-11-16T03:16:33.000Z",
+      "url": "https://www.ithome.com/1/027/574.htm",
+      "digest": "华为公开麒麟9050系列芯片智能音视频处理能力，支持低延迟AI异构协同计算并率先支持H.266解码。"
+    },
+    {
       "id": "4e36e2cae3ae9371487633cbfc89ec4c",
       "title": "英伟达机器人学习工程师戴士钦宣布辞职：“黄仁勋离职让我格外失望”",
       "source": "IT之家",
@@ -61,6 +221,14 @@
       "time": "2026-11-16T02:29:14.000Z",
       "url": "https://www.ithome.com/1/027/536.htm",
       "digest": "国家统计局付凌晖称10月我国工业机器人产量同比增长26%，3D打印设备、锂离子电池产量分别增长85.9%、30.0%。"
+    },
+    {
+      "id": "e21d30ddb645b9f4496d8acd6c4ae0d2",
+      "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
+      "source": "雷峰网",
+      "time": "2026-11-16T02:12:00.000Z",
+      "url": "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
+      "digest": "百望股份CEO王强宇推动财税场景转化为专业模型与智能体产品，推出AI财税专家团，探索AI Native产品体系的研发与交付模式。"
     },
     {
       "id": "c9bd03fed4e42803c1a9c05ae1c9bda7",
