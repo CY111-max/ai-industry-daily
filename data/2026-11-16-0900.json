@@ -1,0 +1,402 @@
+{
+  "id": "2026-11-16-0900",
+  "date": "2026-11-16",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-11-16T02:23:45.108Z",
+  "items": [
+    {
+      "id": "439b7a4bdcaad71a29921d9d54e78b31",
+      "title": "北京高校科协联盟第三届创新场景挑战赛(智能制造赛道)大兴经开区成果转化对接会",
+      "source": "智能制造网",
+      "time": "2026-11-16T10:14:53.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197468.html",
+      "digest": "北京高校科协联盟智能制造赛道挑战赛在大兴经开区举办成果转化对接会，推动高校成果对接产业与投资机构。"
+    },
+    {
+      "id": "d59123c4406f2c1dcdba3e9b537113c7",
+      "title": "北京高校科协联盟第三届创新场景挑战赛(智能制造赛道)门头沟区成果转化对接会",
+      "source": "智能制造网",
+      "time": "2026-11-16T10:11:53.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197469.html",
+      "digest": "北京高校科协联盟智能制造赛道挑战赛在门头沟举办成果转化对接会，依托京西智谷算力底座聚焦AI应用。"
+    },
+    {
+      "id": "9178b0edfd2bd4c12e188ac6d2f623dc",
+      "title": "深海算力赛道逆袭！中国海底数据中心专利占全球样本80%",
+      "source": "智能制造网",
+      "time": "2026-11-16T09:41:42.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197456.html",
+      "digest": "专利研究显示中国拥有全球约80%的海底数据中心专利，在2006至2026年样本中居领先地位。"
+    },
+    {
+      "id": "b3ea3614c2edaa3ec817cf76addcf9f7",
+      "title": "总投资9000万元！国内桁架机器人龙头珠海新基地完成备案",
+      "source": "OFweek机器人",
+      "time": "2026-11-16T09:11:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8120-30711790.html",
+      "digest": "金石机器人（珠海）有限公司AWR重载空间机器人基地厂房项目完成备案，总投资9000万元，占地39267.70平方米，位于珠海金湾区。"
+    },
+    {
+      "id": "52d62ccf49b86030e221d9bb83f324f5",
+      "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+      "source": "IT之家",
+      "time": "2026-11-16T02:03:09.000Z",
+      "url": "https://www.ithome.com/1/027/509.htm",
+      "digest": "腾讯文化发布总办号召AI时代再创业文章，称业务要应战、组织要快速变革，并回应外部关于司庆讲话的猜测。"
+    },
+    {
+      "id": "54381000666778cbdb793c201e48e7e7",
+      "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
+      "source": "IT之家",
+      "time": "2026-11-16T01:53:28.000Z",
+      "url": "https://www.ithome.com/1/027/506.htm",
+      "digest": "华为小艺AI会员上线，整合原小艺Work付费能力为三级权益体系，体验版每月赠200积分，49元起含1000积分。"
+    },
+    {
+      "id": "6f6b034dbbe9dddcafe7d4db3511d44e",
+      "title": "Anthropic CEO 阿莫迪：算力是最深层的商业难题",
+      "source": "IT之家",
+      "time": "2026-11-16T01:52:51.000Z",
+      "url": "https://www.ithome.com/1/027/505.htm",
+      "digest": "Anthropic CEO阿莫迪与摩根大通戴蒙对谈，称算力是最深层商业难题，公司上市为增加现金储备应对算力需求不确定性。"
+    },
+    {
+      "id": "15b95f79f530048828b7094433512bda",
+      "title": "三星启动 144 万亿韩元大投资，扩建半导体、显示器、基板和电池的生产设施",
+      "source": "IT之家",
+      "time": "2026-11-16T01:22:26.000Z",
+      "url": "https://www.ithome.com/1/027/497.htm",
+      "digest": "三星在韩国忠清地区投资144万亿韩元扩建半导体、显示器、基板和电池设施，三星电子、三星显示等子公司公布中长期投资计划。"
+    },
+    {
+      "id": "c49df0abff93b5b848b74312539aeebd",
+      "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
+      "source": "IT之家",
+      "time": "2026-11-16T01:01:05.000Z",
+      "url": "https://www.ithome.com/1/027/490.htm",
+      "digest": "Anthropic发布Claude Fable 5.2与Mythos 5.2，Fable 5.2可通过编写Python代码模拟画笔逐笔作画，而非调用图像生成模型"
+    },
+    {
+      "id": "644cf5d7588e4d1e433fd0e9a3191420",
+      "title": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
+      "source": "极客公园",
+      "time": "2026-11-16T00:47:39.000Z",
+      "url": "http://www.geekpark.net/news/373994",
+      "digest": "据英媒报道，黄仁勋正考虑重返英伟达任CEO，硅谷盟友向董事会施压；另传苹果计划明年WWDC发布首款智能眼镜。"
+    },
+    {
+      "id": "789fe61b30df1af94383d22cf2a30943",
+      "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
+      "source": "IT之家",
+      "time": "2026-11-16T00:44:37.000Z",
+      "url": "https://www.ithome.com/1/027/487.htm",
+      "digest": "腾讯WorkBuddy国际版上线谷歌Gemini 4 Carbon模型，支持百万Token上下文，仅面向Pro用户开放。"
+    },
+    {
+      "id": "19cb94c14f1b5f84c86a69d13f7e408e",
+      "title": "印度 eMudhra 证书安全事件后续：微软进一步封锁 10 张根证书，离线 Windows 设备需部署后续更新包",
+      "source": "IT之家",
+      "time": "2026-11-15T23:35:31.000Z",
+      "url": "https://www.ithome.com/1/027/472.htm",
+      "digest": "微软自11月16日起移除印度eMudhra剩余10张根证书的默认信任，Windows与Azure设备将通过自动更新生效。"
+    },
+    {
+      "id": "a95ddf6d6dd830f5a192523bedd72412",
+      "title": "纽约市禁止“大数据杀熟”，企业利用监控算法实现差异化报价最高罚款 1000 美元",
+      "source": "IT之家",
+      "time": "2026-11-15T23:23:21.000Z",
+      "url": "https://www.ithome.com/1/027/469.htm",
+      "digest": "纽约市议会通过法案，禁止企业利用个人数据和算法对相同商品差异化定价，违规最高罚款1000美元。"
+    },
+    {
+      "id": "14e025f839f412e79b3916410f65f458",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "source": "量子位",
+      "time": "2026-11-14T09:58:22.000Z",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "digest": "量子位报道，新发布的湿实验预测基准覆盖现有基准未及之处，测试显示模型即使推理能力拉满、算力提升5倍仍难以通过。"
+    },
+    {
+      "id": "d199263c613f93c98572a2324266712b",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "source": "量子位",
+      "time": "2026-11-14T09:41:02.000Z",
+      "url": "https://www.qbitai.com/2026/11/510094.html",
+      "digest": "联想提出“绿电进Token出”的词元工厂概念；报道称一家中型银行上半年Token支出近900万元，占其上年IT预算8%。"
+    },
+    {
+      "id": "4a20944acd53ba15cb44c0d62247f7af",
+      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+      "source": "雷峰网",
+      "time": "2026-11-13T16:50:00.000Z",
+      "url": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+      "digest": "浙大彭思达介绍其八年三维视觉研究，Neural Body、4K4D、FreeTimeGS等成果被创业公司4DV.ai采用，用于影视级动态三维重建。"
+    },
+    {
+      "id": "5d156242cb4f4ea9f5c093c624e182ed",
+      "title": "《2026中国AI智能体产业应用标杆案例蓝皮书》发布",
+      "source": "智能制造网",
+      "time": "2026-11-13T16:14:29.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197425.html",
+      "digest": "《2026中国AI智能体产业应用标杆案例蓝皮书》发布，指出AI智能体已处Gartner期望膨胀期，预计不到两年实现生产成熟。"
+    },
+    {
+      "id": "89eafe78e6d85388bcc5f3e4d7a2f8a8",
+      "title": "早报|算力扩容倒逼电力迭代；大湾区首家通用具身智能大模型完成备案；",
+      "source": "智能制造网",
+      "time": "2026-11-13T16:14:29.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197384.html",
+      "digest": "李彦宏称推理将成AI芯片长期增长主要动力；大湾区首家通用具身智能大模型完成备案。"
+    },
+    {
+      "id": "06e265a86cd0307119acd73b4f811e32",
+      "title": "如何降低云计算基础设施的碳排放？",
+      "source": "智能制造网",
+      "time": "2026-11-13T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197402.html",
+      "digest": "文章讨论云计算与AI需求增长下数据中心电力消耗和碳排放上升，以及降低公共云基础设施碳排的路径。"
+    },
+    {
+      "id": "d3b875b47be2bbc65b46847a572ca9e5",
+      "title": "三个单词，100亿美元：马斯克的光伏工厂动工了",
+      "source": "智能制造网",
+      "time": "2026-11-13T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197385.html",
+      "digest": "特斯拉位于得州休斯敦附近的大型光伏制造项目已开工，马斯克以“ProjectCrystalSun”确认。"
+    },
+    {
+      "id": "63da2107f10dbe14a3ebfded99c59684",
+      "title": "太空AI第一股诞生！国星宇航正式登陆港股资本市场",
+      "source": "智能制造网",
+      "time": "2026-11-13T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197399.html",
+      "digest": "成都国星宇航11月13日在港交所上市，成为“太空AI第一股”，战略合作伙伴领益智造致贺。"
+    },
+    {
+      "id": "be14667da536abccfd573918e0aef0ce",
+      "title": "2026年前三季度机床工具行业经济运行情况",
+      "source": "智能制造网",
+      "time": "2026-11-13T11:47:56.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197470.html",
+      "digest": "报告依据统计局、海关及机床工具工业协会数据，汇总分析2026年前三季度机床工具行业主要运行指标。"
+    },
+    {
+      "id": "fcfef83bc121bfcf67bacd0f1347b9c1",
+      "title": "摩根大通2个月内再上调！40万台人形机器人，钱砸整机利在零件",
+      "source": "OFweek机器人",
+      "time": "2026-11-13T10:06:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30711597.html",
+      "digest": "摩根大通两个月内第二次上调人形机器人产量预测，2030年美国规模达40万台，上游零部件先兑现利润。"
+    },
+    {
+      "id": "a63a98320a8d963d72cf4374d6241b7f",
+      "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+      "source": "爱范儿",
+      "time": "2026-11-13T10:04:55.000Z",
+      "url": "https://www.ifanr.com/1689379?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "李飞飞创办的World Labs开放世界模型Atlas，上线网页应用与开发者API，支持草图生成可探索3D场景并导出至Blender或游戏引擎。"
+    },
+    {
+      "id": "8c414919d29c954fb80e3e157d5137a5",
+      "title": "软银领投Agile估值85亿：欧洲拿估值，美国拿工厂",
+      "source": "OFweek机器人",
+      "time": "2026-11-13T10:04:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30711596.html",
+      "digest": "软银领投Agile Robots 5亿美元，估值85亿美元，资金明确投向密歇根建厂。"
+    },
+    {
+      "id": "148e52361fc7f9206489b225e42ffc49",
+      "title": "大摩中性给500，小摩增持给995：宇树机器人的定价分歧有多大？",
+      "source": "OFweek机器人",
+      "time": "2026-11-13T10:00:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30711593.html",
+      "digest": "摩根士丹利对宇树维持500元目标价和中性评级，摩根大通给出995元，两家投行定价分歧明显。"
+    },
+    {
+      "id": "2a5a49e7384a3492c71607d3f33dbccd",
+      "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+      "source": "雷峰网",
+      "time": "2026-11-13T09:22:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+      "digest": "港大孵化的金刚石半导体材料公司钻耐科思（DiamNEX）完成数千万元融资，耀途资本独家投资，技术面向AI算力散热与量子科技。"
+    },
+    {
+      "id": "84b67838bfbc699e86d236d992412be2",
+      "title": "毕业生看不上的50万年薪，头部具身智能公司很多员工都没拿到",
+      "source": "OFweek机器人",
+      "time": "2026-11-13T09:09:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30711574.html",
+      "digest": "具身智能方向应届硕士获50万年薪offer，但业内称头部公司多数员工未达此水平。"
+    },
+    {
+      "id": "142a67c523c262079ace96f5b00b9c49",
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "source": "雷峰网",
+      "time": "2026-11-13T09:05:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "digest": "中金公司与蚂蚁集团签署战略合作，围绕金融大模型、AI赋能财富管理及客户全生命周期服务探索“AI+金融”。"
+    },
+    {
+      "id": "51352a826c66884e296605916c6cb9a6",
+      "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+      "source": "雷峰网",
+      "time": "2026-11-13T09:04:00.000Z",
+      "url": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "digest": "智慧消防公司菲思拓完成千万级天使轮融资，投资方为北京国润智投，其主动灭火装置与平台已接入超三万家单位。"
+    },
+    {
+      "id": "6c117d838d2fac94f91f9b233b7d72de",
+      "title": "斥资2亿，上纬新材落子杭州，成立合资机器人公司！",
+      "source": "OFweek机器人",
+      "time": "2026-11-13T09:04:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8120-30711573.html",
+      "digest": "上纬新材等股东斥资2亿元在杭州成立金启富元机器人公司，经营范围覆盖工业与服务机器人制造销售。"
+    },
+    {
+      "id": "222a9d76983e60454aa6b118a7f19811",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "source": "量子位",
+      "time": "2026-11-13T07:51:08.000Z",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "digest": "MEET2027公布第二批嘉宾，含商汤大装置事业群副总裁、CTO，其负责国产异构算力推理架构与日均10万亿Token的Token工厂体系。"
+    },
+    {
+      "id": "68ca027e9d4329cc135e43834e2e2ea3",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "source": "量子位",
+      "time": "2026-11-13T07:43:03.000Z",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "digest": "中国团队在复杂肺癌诊疗上取得AI突破，UCSF Health、希望之城等美国医疗机构专家发声肯定其行业价值与落地潜力。"
+    },
+    {
+      "id": "bc4af1fab2b5c7375c4ec02090033a8e",
+      "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
+      "source": "雷峰网",
+      "time": "2026-11-13T07:43:00.000Z",
+      "url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+      "digest": "西湖大学成立世界模型研究中心，施一公揭牌，同步发布40亿参数基础模型Awomo-0.5，在6项国际评测榜单登顶。"
+    },
+    {
+      "id": "d23aada8110cbba802826a8709c45b1e",
+      "title": "京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆",
+      "source": "雷峰网",
+      "time": "2026-11-13T07:27:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html",
+      "digest": "京博控股集团与阿里旗下千问办公达成战略合作，将在科研、生产运营、经营分析等场景用Agent推进化工行业智能化。"
+    },
+    {
+      "id": "faf92c641dcb1b8a02ac63d701d35ec4",
+      "title": "AI 时代，公司的「新厂房」长什么样？",
+      "source": "爱范儿",
+      "time": "2026-11-13T06:34:19.000Z",
+      "url": "https://www.ifanr.com/1689182?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "百度世界大会上李彦宏称AI未产生预期经济效益源于企业未重构组织，提出智能组织是AI时代新厂房，援引全球AI投入与变革企业比例数据。"
+    },
+    {
+      "id": "d51778a33ba7717cdc30fe064afd00c5",
+      "title": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
+      "source": "极客公园",
+      "time": "2026-11-13T04:57:38.000Z",
+      "url": "http://www.geekpark.net/news/373946",
+      "digest": "苹果在watchOS 27.3测试版为Apple Watch加入Live Rewind与Siri Recap两项AI录音摘要功能，暂不支持中文。"
+    },
+    {
+      "id": "a9466043962ffc21ca52cc3e867eeae7",
+      "title": "李彦宏定义 AI 下一个十年，智能组织是「新厂房」",
+      "source": "极客公园",
+      "time": "2026-11-13T03:43:41.000Z",
+      "url": "http://www.geekpark.net/news/373937",
+      "digest": "李彦宏在百度世界2026提出AI下一幕是智能组织，称企业只换AI工具未重构组织，效益难释放；百度发布芯云模体全栈布局进展。"
+    },
+    {
+      "id": "a6852c253b641d32947ab7b874f8eb1d",
+      "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "source": "爱范儿",
+      "time": "2026-11-13T00:00:46.000Z",
+      "url": "https://www.ifanr.com/1689292?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "早报汇总：黄仁勋辞任英伟达CEO、谷歌发布Gemini 4 Hydrogen、百度推出大模型交易平台词元所、奔驰暂停德国工厂新增投资等。"
+    },
+    {
+      "id": "a5a12bc80d53299f74ffbefc20795ea0",
+      "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+      "source": "爱范儿",
+      "time": "2026-11-12T23:11:11.000Z",
+      "url": "https://www.ifanr.com/1689267?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "谷歌发布Gemini 4 Hydrogen模型，主打低成本和快速Agent执行，接入Gemini App、搜索及AI Studio，免费用户可体验。"
+    },
+    {
+      "id": "633f752c77b4ff6e5c656738c99a2d7d",
+      "title": "从“怕错过”到“怕踩雷”，具身智能融资换挡",
+      "source": "智能制造网",
+      "time": "2026-11-12T17:09:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197382.html",
+      "digest": "具身智能融资从机构担心错过转向担心踩雷，投资决策更关注资金投向与风险。"
+    },
+    {
+      "id": "14e56546ec98f0eab9113d8f46cc8e2a",
+      "title": "嘉腾机器人与软通天驰智行达成战略合作",
+      "source": "智能制造网",
+      "time": "2026-11-12T17:09:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197453.html",
+      "digest": "嘉腾机器人与软通天驰智行签署战略合作框架协议，结合移动机器人本体与智能驾驶技术开展合作。"
+    },
+    {
+      "id": "80a73767cf0b9ca8e725e406da7ae219",
+      "title": "一周融资速览｜思灵机器人完成5亿美元F轮融资；曦选创智完成5亿元天使轮融资",
+      "source": "智能制造网",
+      "time": "2026-11-12T17:09:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197429.html",
+      "digest": "一周内机器人及具身智能产业链披露12起融资，思灵机器人完成5亿美元F轮，曦选创智获5亿元天使轮。"
+    },
+    {
+      "id": "040c0bb329e93c2e37006f799653eb1b",
+      "title": "早报|6G将于2029年开启，中国首批部署；ABB发布数字人智能体",
+      "source": "智能制造网",
+      "time": "2026-11-12T17:09:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197346.html",
+      "digest": "AMD与三星电子合作开发下一代嵌入式处理器；ABB发布数字人智能体。"
+    },
+    {
+      "id": "ad9f5173ffdd0954bb266022efe15bda",
+      "title": "10万台在望！人形机器人开启“1—10”新阶段",
+      "source": "智能制造网",
+      "time": "2026-11-12T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197378.html",
+      "digest": "华源证券研报称人形机器人产业正从小批量验证迈向“1-10”放量阶段，物理AI加速迭代。"
+    },
+    {
+      "id": "ad9b83ec7ab2ecde295ef349ebc05bb5",
+      "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？&#124; 附开通指南",
+      "source": "爱范儿",
+      "time": "2026-11-12T10:47:53.000Z",
+      "url": "https://www.ifanr.com/1688980?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "苹果在iOS 27中推出独立Siri App并加入记忆能力，文章评测其向真正AI Agent演进的程度并附开通指南。"
+    },
+    {
+      "id": "902a0c80836d6d3fb25c0fdedf47507f",
+      "title": "接入多款第三方模型，豆包工作也模型自由了",
+      "source": "极客公园",
+      "time": "2026-11-12T08:24:17.000Z",
+      "url": "http://www.geekpark.net/news/373881",
+      "digest": "豆包工作接入Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等第三方模型，标注额度消耗倍率并推出限时折扣。"
+    },
+    {
+      "id": "a707e68d2257d44ad4d33a6e9cf11f5e",
+      "title": "东土科技发起筹建工信部工业操作系统标准工作组并亮相",
+      "source": "智能制造网",
+      "time": "2026-09-29T09:15:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197464.html",
+      "digest": "东土科技在上海工业操作系统大会上参与筹建工信部工业操作系统标准工作组，推动标准体系建设。"
+    },
+    {
+      "id": "a8aa597a51fcb392ab9daf54e97fdd2a",
+      "title": "卫星导航定位基准站网安全国家标准发布",
+      "source": "智能制造网",
+      "time": "2026-08-05T09:38:22.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197452.html",
+      "digest": "市场监管总局发布强制性国标《卫星导航定位基准站网安全要求》，由自然资源部提出，覆盖设施、数据、服务全链条。"
+    }
+  ]
+}
