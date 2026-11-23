@@ -1,0 +1,378 @@
+{
+  "id": "2026-11-23-0900",
+  "date": "2026-11-23",
+  "slot": "0900",
+  "slotLabel": "09:00",
+  "generation": "morning",
+  "updatedAt": "2026-11-23T03:07:27.218Z",
+  "items": [
+    {
+      "id": "c0e326d2a12a1fbeaf1a41aec0557b6e",
+      "title": "启元抢渠道，宇树建底座：具身智能不止“进厂打工”一条路",
+      "source": "OFweek机器人",
+      "time": "2026-11-23T10:54:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30712872.html",
+      "digest": "启元布局消费渠道、宇树联手索辰建仿真底座，资本以交付与闭环能力重新评估具身智能企业。"
+    },
+    {
+      "id": "1cd145a29898c3f698d7992552853aa7",
+      "title": "港股上市刚4个月，这家机器人企业再冲刺A股",
+      "source": "OFweek机器人",
+      "time": "2026-11-23T10:54:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-12002-30712873.html",
+      "digest": "珞石机器人港股上市4个月后公告启动A股上市筹备，拟在深交所发行人民币普通股。"
+    },
+    {
+      "id": "6e7031d690a6a145f62c55becf7b2b23",
+      "title": "一周要闻｜小米披露机器人双线进展；丰田设立机器人部门",
+      "source": "智能制造网",
+      "time": "2026-11-23T10:11:55.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197188.html",
+      "digest": "小米披露机器人双线进展，其机器人在汽车工厂挑战8小时长时作业；丰田设立机器人部门。"
+    },
+    {
+      "id": "716ab08ef7385bc2cc2b4d33f416b0c8",
+      "title": "谷歌 AI 搜索变现受阻，苹果服务业务收入增长也随之放缓",
+      "source": "IT之家",
+      "time": "2026-11-23T02:44:11.000Z",
+      "url": "https://www.ithome.com/1/030/783.htm",
+      "digest": "苹果与谷歌搜索合作收益下滑，用户转向AI软件搜索，谷歌难获同等商业利益，已影响苹果服务业务收入。"
+    },
+    {
+      "id": "5a608edc0799a2a141b40e2f9aac3d0b",
+      "title": "特斯拉 AI4.5 芯片有望明年推出，马斯克称内存太贵、从 32GB 降到 24GB",
+      "source": "IT之家",
+      "time": "2026-11-23T02:31:23.000Z",
+      "url": "https://www.ithome.com/1/030/780.htm",
+      "digest": "马斯克称特斯拉AI4.5芯片性能提升较小，主要升级LPDDR5X内存，因内存涨价从32GB降至24GB，有望明年推出。"
+    },
+    {
+      "id": "28927023b0e00f108eeb65e3ef63cd06",
+      "title": "海盗船推出 WS 3200D RS 工作站机箱：配备安全锁孔、防盗螺丝",
+      "source": "IT之家",
+      "time": "2026-11-23T02:28:01.000Z",
+      "url": "https://www.ithome.com/1/030/779.htm",
+      "digest": "海盗船推出WS 3200D RS工作站机箱，基于3200D RS优化，配备安全锁孔与防盗螺丝，面向工作站负载。"
+    },
+    {
+      "id": "4a8de983584e8bfbc7437d9b2750fa23",
+      "title": "马斯克称存储芯片涨价使特斯拉 AI4 车载电脑成本翻倍",
+      "source": "IT之家",
+      "time": "2026-11-23T02:23:14.000Z",
+      "url": "https://www.ithome.com/1/030/777.htm",
+      "digest": "马斯克表示受DRAM与NAND涨价影响，特斯拉AI4车载计算机物料成本翻倍，未披露具体成本数据。"
+    },
+    {
+      "id": "af7afb53ec7699a3bbad10d2fec8ccc5",
+      "title": "高通汽车芯片业务年收入达 80 亿美元，有望 2027 年登顶全球汽车半导体市场",
+      "source": "IT之家",
+      "time": "2026-11-23T02:22:13.000Z",
+      "url": "https://www.ithome.com/1/030/776.htm",
+      "digest": "高通汽车芯片业务年收入达80亿美元，分析称其有望2027年超越英飞凌和恩智浦，登顶全球汽车半导体市场。"
+    },
+    {
+      "id": "df7ab8f19458db9c3f27473acdf3ad4b",
+      "title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+      "source": "IT之家",
+      "time": "2026-11-23T02:01:37.000Z",
+      "url": "https://www.ithome.com/1/030/769.htm",
+      "digest": "发改委等四部门印发“一老一小”方案，鼓励发展养老场景AI智能体、服务机器人、智能穿戴及外骨骼等新产品。"
+    },
+    {
+      "id": "ab25ac4c58a9e0c88814059dfbcdb8d0",
+      "title": "《黑神话：悟空》美术总监杨奇谈《GTA 6》：“工业化”一词是对其贬损，昂贵且低效的艺术品",
+      "source": "IT之家",
+      "time": "2026-11-23T01:49:31.000Z",
+      "url": "https://www.ithome.com/1/030/763.htm",
+      "digest": "游戏科学联合创始人杨奇称“工业化”是对《GTA 6》的贬损，认为该作是昂贵且低效的艺术品。"
+    },
+    {
+      "id": "2b805da469e3c6a14280daa50b9f7acf",
+      "title": "有望配备消费级显卡史上最大显存容量，摩尔线程下一代“庐山”GPU 预告“性能足够惊艳”",
+      "source": "IT之家",
+      "time": "2026-11-23T01:30:26.000Z",
+      "url": "https://www.ithome.com/1/030/757.htm",
+      "digest": "摩尔线程预告下一代消费级显卡“庐山”，称性能足够惊艳，有望配备消费级显卡史上最大显存容量。"
+    },
+    {
+      "id": "e95caad858ccc43cb32a15548dbda019",
+      "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-11-23T01:22:36.000Z",
+      "url": "http://www.geekpark.net/news/374304",
+      "digest": "OpenAI首席科学家帕霍茨基提议为先进AI模型开发设行业统一限制，并公布GPT-3.5与GPT-4困惑度等内部评测数据。"
+    },
+    {
+      "id": "455d6050ff28afa31f709861f420b7ee",
+      "title": "中国车企首次：小鹏图灵 AI 智驾率先开放欧洲公众体验，首站法国巴黎",
+      "source": "IT之家",
+      "time": "2026-11-23T01:20:36.000Z",
+      "url": "https://www.ithome.com/1/030/755.htm",
+      "digest": "小鹏汽车宣布图灵AI智驾向欧洲公众开放体验，首站法国巴黎，为中国车企首次。"
+    },
+    {
+      "id": "7ef88f659aaf86b1d3b731f64876b251",
+      "title": "微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议",
+      "source": "IT之家",
+      "time": "2026-11-23T01:00:23.000Z",
+      "url": "https://www.ithome.com/1/030/745.htm",
+      "digest": "微软AI负责人苏莱曼在X平台表态，完全支持OpenAI提高透明度的倡议，称有助AI安全协调。"
+    },
+    {
+      "id": "1820361395429f1264e7a1a3ad6a911f",
+      "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+      "source": "爱范儿",
+      "time": "2026-11-23T00:25:24.000Z",
+      "url": "https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "早报汇总：Claude的黎曼猜想证明获Lean认证、特斯拉推送FSD v15、AI服务器供应商交货前提价部分达45%等消息。"
+    },
+    {
+      "id": "21cf70642c9c605e9f723ef3df57e26f",
+      "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+      "source": "极客公园",
+      "time": "2026-11-22T02:03:57.000Z",
+      "url": "http://www.geekpark.net/news/374303",
+      "digest": "重庆达瓦科技以“重控制、轻渲染”路线自研Latent Stage基座模型，推出FilmOS与Scenes AI，今年累计融资约5亿元。"
+    },
+    {
+      "id": "e58bd2a7cb616b89ec36ae959cd83df0",
+      "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+      "source": "极客公园",
+      "time": "2026-11-22T01:58:48.000Z",
+      "url": "http://www.geekpark.net/news/374302",
+      "digest": "腾讯2026年三季度资本开支814亿元同比增527%，新AI业务对Non-IFRS经营利润净影响约152亿元，老业务利润率持平。"
+    },
+    {
+      "id": "e338a933aae11dc7066320ccf033f9f4",
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "source": "极客公园",
+      "time": "2026-11-22T01:56:28.000Z",
+      "url": "http://www.geekpark.net/news/374301",
+      "digest": "腾讯首席AI科学家姚顺雨率混元团队在Reddit举行首次公开AMA，回应模型架构、算力与开源生态等问题，Hy4此前登开源模型榜。"
+    },
+    {
+      "id": "6c33aaafc28227fc441d734bf9bf6893",
+      "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+      "source": "极客公园",
+      "time": "2026-11-22T01:05:22.000Z",
+      "url": "http://www.geekpark.net/news/374300",
+      "digest": "《GTA6》预购加首发销售额达37.9亿美元，创游戏首发纪录并推高全球网络流量；马斯克称FSD V15下月全面推送。"
+    },
+    {
+      "id": "8776fb9d6f2e2a0ee8b1ea9cedac864d",
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "source": "量子位",
+      "time": "2026-11-21T14:14:09.000Z",
+      "url": "https://www.qbitai.com/2026/11/511855.html",
+      "digest": "WaytoAGI发起人、白皮书乐队主唱及中传教授等分享AI生成乐队现场MV的创作经验，涉及AI与音乐演出场景结合。"
+    },
+    {
+      "id": "95e196cc1465468b8c3a286366672c3f",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "source": "量子位",
+      "time": "2026-11-21T06:35:59.000Z",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "digest": "GPT-6.2 Astra在16项具身操作任务上成功率较GPT-6 Astra翻倍，任务涉及机械臂展开衣物、打结等形变物体操作。"
+    },
+    {
+      "id": "ad676aa12ce32f1b2b94d6a2ac509a1a",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "source": "量子位",
+      "time": "2026-11-21T06:30:55.000Z",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "digest": "腾讯混元团队在Reddit答疑，称Hy小模型已列入路线图；Hy4与Hy4 flash接入WorkBuddy，flash单任务成本约为旗舰Hy4的1/20。"
+    },
+    {
+      "id": "6595d8face3691db0d897851c9d72985",
+      "title": "美股一夜崩盘，AI 泡沫真要破了？",
+      "source": "爱范儿",
+      "time": "2026-11-21T03:30:42.000Z",
+      "url": "https://www.ifanr.com/1690789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "美股科技股集体重挫，纳指跌5.28%，标普500连跌七日，AI概念股领跌，市场对AI增长预期出现动摇。"
+    },
+    {
+      "id": "54c27814e4a1a6b74327ac266fceba16",
+      "title": "《以标准提升引领轻工业优化升级实施方案》来了！",
+      "source": "智能制造网",
+      "time": "2026-11-20T13:19:37.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197629.html",
+      "digest": "工信部与市场监管总局印发方案，提出到2027年制修订轻工业标准约200项等目标。"
+    },
+    {
+      "id": "d6c1706fb0dcd0c38a68cb2a9977597a",
+      "title": "先河环保携“繁星”大模型亮相ICCASRS国际会议，中国环保科技方案引关注",
+      "source": "智能制造网",
+      "time": "2026-11-20T13:19:37.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197625.html",
+      "digest": "先河环保在开罗ICCASRS国际会议展示“繁星”大模型，推介环保科技方案。"
+    },
+    {
+      "id": "e301144dd273cfd7c66c340540731038",
+      "title": "科威特千套别墅：蔚建抹灰喷涂机器人承接墙面核心工序",
+      "source": "智能制造网",
+      "time": "2026-11-20T12:01:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197628.html",
+      "digest": "蔚建科技旗下毕博特与科威特企业签约，由其内墙机器人承接当地安居项目抹灰喷涂工序。"
+    },
+    {
+      "id": "40c10e528357941a147b5f0e9e929ec0",
+      "title": "34个上榜！2026年度领航级智能工厂培育名单公布",
+      "source": "智能制造网",
+      "time": "2026-11-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197594.html",
+      "digest": "工信部等五部门公布2026年度领航级智能工厂培育名单，共34个工厂上榜。"
+    },
+    {
+      "id": "df7ca8e8d4fe38abdffd7e8e9a328f0c",
+      "title": "关于征集2026年第五批智能制造标准项目建议的通知",
+      "source": "智能制造网",
+      "time": "2026-11-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197598.html",
+      "digest": "国家智能制造标准化总体组公开征集2026年第五批智能制造标准项目建议。"
+    },
+    {
+      "id": "2b7ba43c2f986b64efaee99d986651f9",
+      "title": "我国牵头的首个智能制造仿真技术国际标准正式发布",
+      "source": "智能制造网",
+      "time": "2026-11-20T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197595.html",
+      "digest": "ISO发布我国牵头的智能制造仿真技术国际标准，规定异构制造平台仿真协同参考模型与流程。"
+    },
+    {
+      "id": "eb39ee4e47711883cda8bf5999f4a7d9",
+      "title": "速腾聚创亮相2026 APEC系列活动，展现深圳机器人产业创新实践",
+      "source": "OFweek机器人",
+      "time": "2026-11-20T11:52:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8460-30712676.html",
+      "digest": "速腾聚创出席深圳APEC工商领导人峰会，其MARS智能制造基地成为本届活动参观点之一。"
+    },
+    {
+      "id": "4efb1065e9b274ebc74b1401127ce4f5",
+      "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+      "source": "爱范儿",
+      "time": "2026-11-20T10:39:47.000Z",
+      "url": "https://www.ifanr.com/1690596?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "理想汽车自研“马赫M100”芯片已量产上车，并受邀在台积电OIP论坛演讲，成为少数进入该半导体盛会的车企。"
+    },
+    {
+      "id": "40f194dfb856ec182ae2072cbacbbcdc",
+      "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+      "source": "雷峰网",
+      "time": "2026-11-20T10:27:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html",
+      "digest": "无锡灵掌机器人在南京世界智能制造博览会展示9款灵巧手，覆盖工业制造、太空任务与特种作业，采用腱绳驱动路线。"
+    },
+    {
+      "id": "b593de2280fbbd02565bd1265f07d87d",
+      "title": "英伟达AMD押注法国Genesis：5亿美金投给“无腿”机器人",
+      "source": "OFweek机器人",
+      "time": "2026-11-20T10:07:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-12005-30712612.html",
+      "digest": "法国Genesis完成5亿美元A轮融资，英伟达与AMD联手投资这家非人形机器人公司。"
+    },
+    {
+      "id": "07cffe4780a725856907b7d8bc70ec18",
+      "title": "马斯克又定时间表：Optimus机器人去挖矿，这次准吗？",
+      "source": "OFweek机器人",
+      "time": "2026-11-20T10:04:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8460-30712609.html",
+      "digest": "马斯克在奥斯汀峰会称Optimus两个月内演示，并将采矿、冶炼列为优先应用场景。"
+    },
+    {
+      "id": "72307ec456587a4b205f1d7c0637574f",
+      "title": "埃夫特参股的机器人公司，总部基地启航！",
+      "source": "OFweek机器人",
+      "time": "2026-11-20T09:44:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8110-30712608.html",
+      "digest": "埃夫特参股的犀准机器人芜湖总部基地开业，占地2.5万平方米，投产后年产量有望达3000台。"
+    },
+    {
+      "id": "491cce3315d19914a0aee5b65c1f62d0",
+      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+      "source": "极客公园",
+      "time": "2026-11-20T08:24:30.000Z",
+      "url": "http://www.geekpark.net/news/374282",
+      "digest": "贝佐斯出任AI初创公司Prometheus联合创始人兼联席CEO，该公司估值410亿美元、累计融资约145亿美元，瞄准工业领域。"
+    },
+    {
+      "id": "daecee36b374c1bfa1c2dddc3d9109c5",
+      "title": "AI Agent 元年，苹果是最后一个入局的巨头",
+      "source": "爱范儿",
+      "time": "2026-11-20T01:17:16.000Z",
+      "url": "https://www.ifanr.com/1690510?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "苹果官网发布自主式AI Agent相关招聘，要求能操作电脑、跨应用执行任务，彭博社称其正开发此类智能体。"
+    },
+    {
+      "id": "2716d004500786f9404ec34a6207b14b",
+      "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+      "source": "极客公园",
+      "time": "2026-11-20T01:04:08.000Z",
+      "url": "http://www.geekpark.net/news/374235",
+      "digest": "Anthropic在纳斯达克上市，首日收涨17%，市值约1.27万亿美元，募资813亿美元，但仍处高投入未盈利阶段。"
+    },
+    {
+      "id": "1665c12ecf8e295456f871d2eacaa7c2",
+      "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+      "source": "爱范儿",
+      "time": "2026-11-20T00:29:44.000Z",
+      "url": "https://www.ifanr.com/1690473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "Anthropic上市首日收涨17%；曝苹果开发可写代码、控制应用的AI智能体；联想季度营收首超300亿美元。"
+    },
+    {
+      "id": "ca0cc922996e7f72361ee3bc9dc70228",
+      "title": "估值200亿机器人公司, 发不出工资了",
+      "source": "OFweek机器人",
+      "time": "2026-11-19T17:12:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12003-30712564.html",
+      "digest": "美国明星机器人公司Foundatio被曝发不出工资，该公司正冲击30亿美元估值。"
+    },
+    {
+      "id": "b20c8e114c0af2007c32f7dcafd3858b",
+      "title": "深度访谈 | 郭嵩院士、埃斯顿、飞渡科技：物理AI如何驱动具身智能真正走进工厂",
+      "source": "OFweek机器人",
+      "time": "2026-11-19T15:43:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8120-30712546.html",
+      "digest": "MIR睿工业邀请郭嵩院士、埃斯顿总裁吴侃及飞渡科技董事长何文武，探讨物理AI驱动具身智能进工厂。"
+    },
+    {
+      "id": "7f63af047fde67c5e5e4d05abd9027da",
+      "title": "2026年“5G＋工业互联网”融合应用城市试点申报",
+      "source": "智能制造网",
+      "time": "2026-11-19T13:49:08.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197616.html",
+      "digest": "工信部启动2026年“5G+工业互联网”融合应用城市试点申报工作。"
+    },
+    {
+      "id": "80205bc49d84c983f49ba75223b17455",
+      "title": "中石油60%控股！与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商",
+      "source": "OFweek机器人",
+      "time": "2026-11-09T10:14:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8420-30710796.html",
+      "digest": "中石油昆仑制造及昆仑资本与宇树科技、泛界智能合设合营企业，中石油方持股60%，聚焦油气具身机器人。"
+    },
+    {
+      "id": "7e190df79e4e3cbcdbdd1d047ad07fc3",
+      "title": "实力进阶！重庆康明斯获评工信部2026年度卓越级智能工厂",
+      "source": "智能制造网",
+      "time": "2026-11-06T08:47:44.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197626.html",
+      "digest": "重庆康明斯入选工信部2026年度卓越级智能工厂名单，此前2025年获评先进级。"
+    },
+    {
+      "id": "d52254cb7c6cb66e1662f853aa83173c",
+      "title": "关于征集汽车行业智能制造最佳实践的通知",
+      "source": "智能制造网",
+      "time": "2026-04-16T09:21:25.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197596.html",
+      "digest": "相关单位征集汽车行业智能制造最佳实践，拟转化为可复制推广的标准化成果。"
+    },
+    {
+      "id": "3c2cc696ff397b98bf90c3fa03dba2c3",
+      "title": "10月流量仪表招标采购市场解读：工业刚需稳定",
+      "source": "智能制造网",
+      "time": "2022-11-03T16:17:44.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197584.html",
+      "digest": "2026年10月流量仪表招采以炼化、油气管网、计量实验室及水厂改造配套需求为主。"
+    }
+  ]
+}
