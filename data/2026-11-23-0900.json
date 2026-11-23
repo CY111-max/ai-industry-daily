@@ -4,8 +4,48 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-23T03:59:09.776Z",
+  "updatedAt": "2026-11-23T08:11:04.066Z",
   "items": [
+    {
+      "id": "630c836cf72b849195762f4efb6ca478",
+      "title": "海康威视，押宝机器人！",
+      "source": "OFweek机器人",
+      "time": "2026-11-23T14:59:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-12005-30712981.html",
+      "digest": "海康威视布局机器人业务，其轮式双臂机器人已用于全自动仓储搬运，双臂工作站无需重新编程即可切换拣选、包装等作业。"
+    },
+    {
+      "id": "026c06ca596acc4f276037bec8ec0e45",
+      "title": "喜报丨秦川集团荣获2026年度机械工业科学技术奖",
+      "source": "智能制造网",
+      "time": "2026-11-23T13:40:48.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197654.html",
+      "digest": "秦川集团参与的蜂窝芯构件精密加工技术与装备项目获2026年度机械工业科学技术奖技术发明一等奖。"
+    },
+    {
+      "id": "9e18c52bf0556fdeb3b56bce490ea0bc",
+      "title": "机器人的“冰与火”",
+      "source": "OFweek机器人",
+      "time": "2026-11-23T13:37:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8420-30712929.html",
+      "digest": "2026年APEC工商领导人峰会上，宇树科技王兴兴判断机器人行业全球技术突破已接近临界点。"
+    },
+    {
+      "id": "7ab2a61645fd0437a5928845b84b4911",
+      "title": "覆盖种植、养殖、农产品初加工三大领域！55个农业机器人典型应用场景名单公布",
+      "source": "智能制造网",
+      "time": "2026-11-23T13:32:12.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197648.html",
+      "digest": "工信部与农业农村部公布55个农业机器人典型应用场景，覆盖种植、养殖和农产品初加工三大领域。"
+    },
+    {
+      "id": "17370d88e902c08aba19dd05b5240217",
+      "title": "签约订单重新报价！AI服务器厂商要求最高涨价45%",
+      "source": "智能制造网",
+      "time": "2026-11-23T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197663.html",
+      "digest": "戴尔、HPE、联想、超微等AI服务器厂商要求客户对已签订单重新报价，部分涨幅达25%至45%。"
+    },
     {
       "id": "019095649adebaa54e9b78d002f6cea9",
       "title": "京东牵手原力无限，图的是更便宜的机器人",
@@ -79,12 +119,132 @@
       "digest": "均胜电子旗下超平面机器人向宇树科技交付首台机器人高算力大脑背包；禾赛机器人动力模组出货超3.5万套。"
     },
     {
+      "id": "0e5e3bd4e17886187af3483181bc8ae9",
+      "title": "融资周报｜Genesis AI完成33亿元A轮融资；蓝点触控完成数亿元D3轮融资",
+      "source": "智能制造网",
+      "time": "2026-11-23T10:11:55.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197637.html",
+      "digest": "11月14日至20日机器人及具身智能产业链披露12起融资，Genesis AI完成约33亿元A轮，蓝点触控完成数亿元D3轮。"
+    },
+    {
       "id": "70acf17703ded90e2bd7d59edc6c06bd",
       "title": "柯力传感投知行机器人，推进机器人末端感知、执行一体化方案落地",
       "source": "智能制造网",
       "time": "2026-11-23T10:00:20.000Z",
       "url": "https://www.gkzhan.com/news/detail/197640.html",
       "digest": "柯力传感战略投资知行机器人，继参与优理奇Pre-A轮后继续布局机器人末端感知与执行一体化。"
+    },
+    {
+      "id": "93ef41e949729b6b6ad5451e5941d330",
+      "title": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门",
+      "source": "IT之家",
+      "time": "2026-11-23T08:06:21.000Z",
+      "url": "https://www.ithome.com/1/030/938.htm",
+      "digest": "LG U+调整企业业务架构，新设AI基础设施与AI平台部门，分别负责AI数据中心、通信网络及智能体服务。"
+    },
+    {
+      "id": "9b1cb99a73b1d78ecb718060d34efc2c",
+      "title": "AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18",
+      "source": "IT之家",
+      "time": "2026-11-23T08:00:44.000Z",
+      "url": "https://www.ithome.com/1/030/935.htm",
+      "digest": "Arena第47周榜单：谷歌Gemini 4 Neon空降综合第3，阿里Qwen4-Max首登智能体榜第18名。"
+    },
+    {
+      "id": "2703a2e6c3a67b2001407480eae28f2a",
+      "title": "阿里云：AgentLoop 记忆库、经验库及优化任务功能 12 月 7 日起收费，按 AI Credits 实际消耗量计费",
+      "source": "IT之家",
+      "time": "2026-11-23T07:36:19.000Z",
+      "url": "https://www.ithome.com/1/030/926.htm",
+      "digest": "阿里云公告AgentLoop记忆库、经验库及优化任务三项功能自12月7日起按AI Credits实际消耗量收费。"
+    },
+    {
+      "id": "b2b1fd7954c3dc81d52f63342428ac71",
+      "title": "美国加州总检察长起诉 OpenAI，指控其忽视安全风险",
+      "source": "IT之家",
+      "time": "2026-11-23T07:25:21.000Z",
+      "url": "https://www.ithome.com/1/030/921.htm",
+      "digest": "加州总检察长邦塔起诉OpenAI，指控其将增长与速度置于安全之上，未确保模型安全。"
+    },
+    {
+      "id": "5fd389fe667fbdd18a8bb55a0562910e",
+      "title": "黑客利用 AI 工具发现医疗软件零日漏洞，成功控制目标服务器",
+      "source": "IT之家",
+      "time": "2026-11-23T07:20:10.000Z",
+      "url": "https://www.ithome.com/1/030/917.htm",
+      "digest": "黑客滥用自主AI渗透测试平台Cairn，在医学影像软件中发现零日漏洞并攻陷目标服务器。"
+    },
+    {
+      "id": "358f87a66b0729ed032926d71c162842",
+      "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
+      "source": "极客公园",
+      "time": "2026-11-23T07:18:26.000Z",
+      "url": "http://www.geekpark.net/news/374348",
+      "digest": "拼多多三季度营收1083.41亿元同比增0.1%，净利295.41亿元增0.7%，并升级商家售后申诉优赔服务。"
+    },
+    {
+      "id": "075f970c107aadf59af2bdf097687c33",
+      "title": "新款深蓝 L07 车型将于 11 月 27 日广州车展亮相：采用 800V 高压平台、搭载豆包大模型",
+      "source": "IT之家",
+      "time": "2026-11-23T07:04:00.000Z",
+      "url": "https://www.ithome.com/1/030/911.htm",
+      "digest": "深蓝汽车宣布新款L07将于11月27日广州车展亮相，采用800V平台并搭载豆包大模型。"
+    },
+    {
+      "id": "4f555cec8b109d25d3a9a4f6bfa41ccc",
+      "title": "TML 发布循环 Transformer 模型 Inkling 2 Mini，多项表现在 100B 以内领先",
+      "source": "IT之家",
+      "time": "2026-11-23T06:55:25.000Z",
+      "url": "https://www.ithome.com/1/030/907.htm",
+      "digest": "Thinking Machines Lab发布循环Transformer模型Inkling 2 Mini，在智能体编程测试中领先100B以内模型。"
+    },
+    {
+      "id": "c9f4def311d090f8b704dc7f8ee96799",
+      "title": "法国人工智能企业 Mistral AI 在新加坡设立亚太总部，为政府开发定制 AI 模型",
+      "source": "IT之家",
+      "time": "2026-11-23T06:43:36.000Z",
+      "url": "https://www.ithome.com/1/030/904.htm",
+      "digest": "Mistral AI在新加坡设亚太总部，为政府与工业客户开发定制AI模型，计划2027年区域员工超200人。"
+    },
+    {
+      "id": "50bdc5c7bb673d93c75aee41b425c0e5",
+      "title": "谷歌解释 3D Emoji 为何要求 6GB 内存 / 10GB 存储：Google Play 服务安全措施所致",
+      "source": "IT之家",
+      "time": "2026-11-23T06:30:19.000Z",
+      "url": "https://www.ithome.com/1/030/897.htm",
+      "digest": "谷歌回应Noto 3D Emoji的6GB内存、10GB存储要求，称源于Google Play服务安全措施，实际占用不足220MB。"
+    },
+    {
+      "id": "8ec1f506f98dfb5a0c523e48985391b6",
+      "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+      "source": "爱范儿",
+      "time": "2026-11-23T06:07:33.000Z",
+      "url": "https://www.ifanr.com/1690991?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=",
+      "digest": "鸿蒙版醒图新版本上线，新增智能修图、AI对话修图等功能。"
+    },
+    {
+      "id": "75dc535cd3f1ad23eefc382e952f45f5",
+      "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+      "source": "雷峰网",
+      "time": "2026-11-23T05:50:00.000Z",
+      "url": "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html",
+      "digest": "OpenAI发布GPT-6.2 Astra与Sol，前者面向复杂专业任务，官方称Token用量减少22%、API价格降20%。"
+    },
+    {
+      "id": "0b12fbeddd093ffb4436d6161c973080",
+      "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
+      "source": "雷峰网",
+      "time": "2026-11-23T05:36:00.000Z",
+      "url": "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html",
+      "digest": "加州总检察长起诉OpenAI，指控其智能体越界攻击外部系统、忽视安全风险。"
+    },
+    {
+      "id": "4700358a27ed07230a3313f336e262f6",
+      "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
+      "source": "雷峰网",
+      "time": "2026-11-23T04:10:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html",
+      "digest": "蚂蚁CEO韩歆毅在阿福医疗健康生态大会称，阿福已服务1.5亿人管理健康，AI推动健康管理转向个性化。"
     },
     {
       "id": "038817f09a70d6126d20e986fd19f93c",
@@ -109,6 +269,14 @@
       "time": "2026-11-23T03:40:41.000Z",
       "url": "https://www.ithome.com/1/030/798.htm",
       "digest": "Epic发布虚幻引擎5.9预览版2，新增纯蓝图项目Web打包实验特性，AI辅助开发工具集默认开启。"
+    },
+    {
+      "id": "d4aebd11b5a08fc92f96604d0432527e",
+      "title": "国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台",
+      "source": "雷峰网",
+      "time": "2026-11-23T03:38:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html",
+      "digest": "蚂蚁阿福医生版发布PC工作台并接入威科UpToDate，成为国内首个接入该循证医学方案的AI平台。"
     },
     {
       "id": "1ca2157e83e6ce8869f32264ddde3a19",
@@ -149,6 +317,22 @@
       "time": "2026-11-23T02:28:01.000Z",
       "url": "https://www.ithome.com/1/030/779.htm",
       "digest": "海盗船推出WS 3200D RS工作站机箱，基于3200D RS优化，配备安全锁孔与防盗螺丝，面向工作站负载。"
+    },
+    {
+      "id": "4614c741e3ee0c029d7e3b77726d0460",
+      "title": "APEC 时刻，PHAIN 登上央视新闻，展现中国自研实力",
+      "source": "雷峰网",
+      "time": "2026-11-23T02:27:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html",
+      "digest": "PHAIN梵因动力G03 Pro T数据手套亮相央视APEC报道，用于采集手部动作与触觉数据训练灵巧手。"
+    },
+    {
+      "id": "8ca75d851925204bec9e34ace33a6c3e",
+      "title": "中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验",
+      "source": "雷峰网",
+      "time": "2026-11-23T02:26:00.000Z",
+      "url": "https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html",
+      "digest": "阿里云伶鹊与中通快递合作落地智能语音呼入外呼客服，日均服务数十万通，呼入下单转化率提升近20%。"
     },
     {
       "id": "4a8de983584e8bfbc7437d9b2750fa23",
@@ -343,6 +527,22 @@
       "digest": "速腾聚创出席深圳APEC工商领导人峰会，其MARS智能制造基地成为本届活动参观点之一。"
     },
     {
+      "id": "02bfb43d4fb25f111840038402151946",
+      "title": "联想合肥产业基地入选领航级智能工厂名单",
+      "source": "智能制造网",
+      "time": "2026-11-20T11:43:20.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197659.html",
+      "digest": "联想合肥产业基地入选领航级智能工厂名单，合肥前三季度GDP增速6.5%居万亿城市首位。"
+    },
+    {
+      "id": "3aef619df9a4d7de246f01f37489d85b",
+      "title": "超1亿台 我国5G＋工业互联网已覆盖全部工业大类",
+      "source": "智能制造网",
+      "time": "2026-11-20T11:06:47.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197668.html",
+      "digest": "全国5G+工业互联网项目超2.7万个，5G应用融入全部97个国民经济大类，工业互联网覆盖全部41个工业大类。"
+    },
+    {
       "id": "4efb1065e9b274ebc74b1401127ce4f5",
       "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
       "source": "爱范儿",
@@ -445,6 +645,14 @@
       "time": "2026-11-16T11:04:23.000Z",
       "url": "https://www.gkzhan.com/news/detail/197641.html",
       "digest": "核芯光电科技（山东）完成约9600万元A+轮融资，山东省新动能基金、烟台亚通、汇宁投资联合领投，亚通精工入局光电探测赛道。"
+    },
+    {
+      "id": "c68e7f64c058eb867dd3c46a95c03846",
+      "title": "AMD数据中心业务2027年冲80%营收占比",
+      "source": "智能制造网",
+      "time": "2026-11-13T11:10:30.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197661.html",
+      "digest": "AMD公布长期规划，目标2027年数据中心业务占总营收80%，资源大幅倾斜AI算力。"
     },
     {
       "id": "80205bc49d84c983f49ba75223b17455",
