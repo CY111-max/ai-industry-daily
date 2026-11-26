@@ -4,7 +4,7 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-26T04:23:02.806Z",
+  "updatedAt": "2026-11-26T05:25:18.468Z",
   "items": [
     {
       "id": "eb4fd042b23124ff03a0713d5f35bab6",
@@ -101,6 +101,14 @@
       "time": "2026-11-26T09:26:00.000Z",
       "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30713606.html",
       "digest": "摩根大通发布人形机器人研报，判断物理AI的“ChatGPT时刻”有望一年内出现，众擎机器人据此推进业务布局。"
+    },
+    {
+      "id": "370a2e05156cb36de63bb3fc93e82f28",
+      "title": "马斯克质疑称多数机器人演示是摆拍，Figure 接招用 41 秒视频回击",
+      "source": "IT之家",
+      "time": "2026-11-26T04:55:46.000Z",
+      "url": "https://www.ithome.com/1/032/739.htm",
+      "digest": "Figure发布41秒视频，展示Figure 03在桌子被移动后重新定位取回苹果，回应马斯克关于人形机器人演示多为预编程摆拍的质疑。"
     },
     {
       "id": "c12eb31f020a87ce399e890eb7a92d85",
@@ -205,6 +213,14 @@
       "time": "2026-11-26T02:25:24.000Z",
       "url": "https://www.ifanr.com/1695212?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign",
       "digest": "小鹏2026科技日上，人形机器人IRON无遥控完成中英文脱稿演讲；搭载第二代VLA的NGP已在欧洲多国测试，目标2027年上半年全球首批交付。"
+    },
+    {
+      "id": "170d96eb53fac4d96d4b5deb36b46e9c",
+      "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
+      "source": "雷峰网",
+      "time": "2026-11-26T02:23:00.000Z",
+      "url": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+      "digest": "MiniMax内部模型MIM攻破多个NIST密码候选方案，在TII McEliece中恢复94个私钥，破译效率提升43400倍，成果被哥伦比亚大学教授引用。"
     },
     {
       "id": "4e73b1fdbb95e08dbf55539e11470908",
