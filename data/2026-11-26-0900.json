@@ -4,8 +4,64 @@
   "slot": "0900",
   "slotLabel": "09:00",
   "generation": "morning",
-  "updatedAt": "2026-11-26T05:25:18.468Z",
+  "updatedAt": "2026-11-26T08:52:39.086Z",
   "items": [
+    {
+      "id": "8f86dbd8a80611cc63fdc9e74ceb3b4b",
+      "title": "OpenAI拆掉了机器人部门, 小鹏却要把人形机器人送进门店上岗？",
+      "source": "OFweek机器人",
+      "time": "2026-11-26T16:02:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30713755.html",
+      "digest": "《财富》披露OpenAI已拆散独立机器人团队并调整人员，为其第二次关停独立机器人研发线；对比小鹏拟将人形机器人送入门店。"
+    },
+    {
+      "id": "8d67189a8d6193600e767ced290a625e",
+      "title": "吉翼智能首登高交会，新模型、新本体、双场景三箭齐发",
+      "source": "OFweek机器人",
+      "time": "2026-11-26T15:48:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8120-30713756.html",
+      "digest": "吉翼智能首次亮相深圳高交会，全球首秀第三款具身智能机器人“多能家”，并展示新模型与双场景应用。"
+    },
+    {
+      "id": "8874fed402c81d5b4d2fa5d440b54cf7",
+      "title": "人形机器人的 “表演式创业”，落幕了！",
+      "source": "OFweek机器人",
+      "time": "2026-11-26T14:49:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30713744.html",
+      "digest": "世界机器人大会期间，成立不到半年的机器人公司传出停摆消息，行业“表演式创业”模式面临退潮。"
+    },
+    {
+      "id": "b33cd1e405f5f4a411a57bda374b8c73",
+      "title": "机器人开始上产线，10小时就能上手干活：具身模型终于“兑现生产力”",
+      "source": "OFweek机器人",
+      "time": "2026-11-26T14:19:00.000Z",
+      "url": "https://robot.ofweek.com/2026-11/ART-8321202-8420-30713734.html",
+      "digest": "人形机器人价格持续下行，宇树科技招股意向书披露产品均价大幅下降，机器人开始进入产线，10小时即可上手作业。"
+    },
+    {
+      "id": "ce4a766f1259f39ecb986ea5d04a3078",
+      "title": "小鹏的物理AI生意：不只卖车，也卖“机器人的大脑”",
+      "source": "智能制造网",
+      "time": "2026-11-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197779.html",
+      "digest": "小鹏11月25日发布图灵具身智能架构，将汽车与机器人纳入同一智能架构，并推出世界动作模型，对外输出机器人“大脑”。"
+    },
+    {
+      "id": "7b56f59f15b71261b4cc235691286081",
+      "title": "ABB机器人为宝马新一代车型生产提供超1700台机器人",
+      "source": "智能制造网",
+      "time": "2026-11-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197804.html",
+      "digest": "ABB机器人将为宝马新一代NeueKlasse车型生产提供1700多台大型工业机器人，用于慕尼黑和铁西工厂车身车间焊接、涂胶等工序。"
+    },
+    {
+      "id": "b21cacb30063d78f2a96a10d8578e397",
+      "title": "科技发展新篇章！楚环科技战略投资艾吉威机器人",
+      "source": "智能制造网",
+      "time": "2026-11-26T12:00:00.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197800.html",
+      "digest": "废气治理企业楚环科技（001336.SZ）11月18日与苏州艾吉威机器人签署战略投资协议，正式达成合作。"
+    },
     {
       "id": "eb4fd042b23124ff03a0713d5f35bab6",
       "title": "智驾收费、机器人2027年1月量产, 小鹏把底牌都摊开了",
@@ -63,6 +119,14 @@
       "digest": "星衍智能完成数千万元人民币种子轮融资，由纳川资本投资，聚焦机器人抓取环节的感知与操作问题。"
     },
     {
+      "id": "8878c87b194abd4155d528dea0bac3c8",
+      "title": "鞍山10个案例入选辽宁省“人工智能＋制造”典型应用案例",
+      "source": "智能制造网",
+      "time": "2026-11-26T10:15:01.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197607.html",
+      "digest": "鞍山市工信局组织申报的10个案例入选辽宁省“人工智能+制造”典型应用案例，用于标杆示范与经验推广。"
+    },
+    {
       "id": "e26fe6e493b2aa00f90ba3aeb80a0647",
       "title": "小鹏WorldGPT，想用一套模型打通六种本体",
       "source": "智能制造网",
@@ -101,6 +165,110 @@
       "time": "2026-11-26T09:26:00.000Z",
       "url": "https://robot.ofweek.com/2026-11/ART-898890-8420-30713606.html",
       "digest": "摩根大通发布人形机器人研报，判断物理AI的“ChatGPT时刻”有望一年内出现，众擎机器人据此推进业务布局。"
+    },
+    {
+      "id": "169a80653cf1ad9dd065cbdcd4ab1cd0",
+      "title": "成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代",
+      "source": "极客公园",
+      "time": "2026-11-26T08:38:54.000Z",
+      "url": "http://www.geekpark.net/news/374532",
+      "digest": "Sand.ai宣布计划开源480B参数音视频统一模型MAGI-2全量权重，称可提供Seedance 2.5级生成能力。"
+    },
+    {
+      "id": "c1bb5884e084df91603817d9fb0db7c9",
+      "title": "消息称三星电子成立半导体工厂机器人团队，2028 年启动内部部署",
+      "source": "IT之家",
+      "time": "2026-11-26T08:32:20.000Z",
+      "url": "https://www.ithome.com/1/032/931.htm",
+      "digest": "三星电子DS部在全球制造与基础设施总部下新设机器人团队，计划2028年启动半导体工厂内部部署。"
+    },
+    {
+      "id": "e2cb1a663df245382e1440e67842d3f1",
+      "title": "让 Hy4 flash 吐字提速 4.2 倍，腾讯混元开源新一代草稿模型 DFly2",
+      "source": "IT之家",
+      "time": "2026-11-26T08:26:38.000Z",
+      "url": "https://www.ithome.com/1/032/929.htm",
+      "digest": "腾讯混元开源草稿模型DFly2，作为加速组件可在不改变Hy4 flash权重与输出下提升吐字速度4.2倍。"
+    },
+    {
+      "id": "cd88c92e5477687445822094877ef3dd",
+      "title": "降低成本、提高研制效率：京津冀首个卫星 AIT 共享中心正式投入运行",
+      "source": "IT之家",
+      "time": "2026-11-26T08:21:54.000Z",
+      "url": "https://www.ithome.com/1/032/926.htm",
+      "digest": "京津冀首个卫星AIT共享中心雄安卫星AIT中心投入运行，由柔性产线和测试中心组成，服务商业航天企业。"
+    },
+    {
+      "id": "d843490d13039cc03fb8166d5e122102",
+      "title": "JPR 数据：全球 PC GPU 出货量 2026Q3 环比下降 3.6%、同比下降 5.0%",
+      "source": "IT之家",
+      "time": "2026-11-26T08:16:38.000Z",
+      "url": "https://www.ithome.com/1/032/925.htm",
+      "digest": "Jon Peddie Research报告称2026年Q3全球PC GPU出货7280万颗，环比降3.6%、同比降5.0%，英特尔份额升2.6个百分点。"
+    },
+    {
+      "id": "cdbb3cb83f554eef1f49d7c8d8021ce6",
+      "title": "德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难",
+      "source": "IT之家",
+      "time": "2026-11-26T07:56:41.000Z",
+      "url": "https://www.ithome.com/1/032/888.htm",
+      "digest": "德国勃兰登堡消费者保护中心起诉OpenAI，指ChatGPT订阅开通容易但取消流程繁琐。"
+    },
+    {
+      "id": "d1fb84c9c6a13d025eb16c624fd89389",
+      "title": "商汤开源机器人操作视觉语言模型 SenseNova-RoboRSI-27B 正式版，RoboDojo 评测得分超 GPT-6 Astra",
+      "source": "IT之家",
+      "time": "2026-11-26T07:54:28.000Z",
+      "url": "https://www.ithome.com/1/032/887.htm",
+      "digest": "商汤发布机器人操作视觉语言模型SenseNova-RoboRSI-27B正式版，可自主判断调用VLA或代码控制机械臂。"
+    },
+    {
+      "id": "e98c43ecd1abcae36b6c48797427d987",
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "source": "量子位",
+      "time": "2026-11-26T07:36:04.000Z",
+      "url": "https://www.qbitai.com/2026/11/512942.html",
+      "digest": "世界人工智能大会（WAIC）曾举办“Amplified Individual”论坛，聚焦AI浪潮中的个体经历与选择。"
+    },
+    {
+      "id": "2149db47c0696ddf958b53e94472d695",
+      "title": "阿里云联合支付宝推出教师 AI 权益：可领 Qoder 2000 积分，千问 AI 平台与阿里云相关产品提供 5 折优惠",
+      "source": "IT之家",
+      "time": "2026-11-26T07:29:48.000Z",
+      "url": "https://www.ithome.com/1/032/851.htm",
+      "digest": "阿里云联合支付宝面向全国教师推出AI权益，含Qoder 2000积分、千问AI平台与阿里云产品5折优惠。"
+    },
+    {
+      "id": "fdebc769525abaf029654e61cc960ae0",
+      "title": "曝苹果下架 MiniMax AI 聊天应用 Talkie：存在色情内容",
+      "source": "IT之家",
+      "time": "2026-11-26T07:25:17.000Z",
+      "url": "https://www.ithome.com/1/032/835.htm",
+      "digest": "苹果以存在色情内容为由将MiniMax开发的AI聊天应用Talkie从App Store下架。"
+    },
+    {
+      "id": "9f88643bdad43592b6bb768b1ae1ca17",
+      "title": "Epic CEO 斯威尼怒喷 Claude 是垃圾：误判正常研究为模型蒸馏",
+      "source": "IT之家",
+      "time": "2026-11-26T07:21:33.000Z",
+      "url": "https://www.ithome.com/1/032/822.htm",
+      "digest": "Epic CEO斯威尼在X上称Anthropic的Claude为“垃圾”，因该模型中断其编程与集合论研究会话并误指其做模型蒸馏。"
+    },
+    {
+      "id": "95e5d0c97d478b136322ec83bb753366",
+      "title": "微软纳德拉：自研 AI 落后 3~6 个月没关系，“量大管饱”才是硬道理",
+      "source": "IT之家",
+      "time": "2026-11-26T07:11:58.000Z",
+      "url": "https://www.ithome.com/1/032/805.htm",
+      "digest": "微软CEO纳德拉在DealBook峰会称自研MAI模型落后前沿3~6个月无妨，仅用对手5%~20%算力即可接近前沿水平，强调性价比。"
+    },
+    {
+      "id": "ebd7b4e74e53669c33e2506fe8bd9891",
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "source": "量子位",
+      "time": "2026-11-26T06:41:23.000Z",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "digest": "Higgsfield公布视频生成模型效果与价格对比，Sand.ai的MAGI-2在接近最强效果下显著提升性价比。"
     },
     {
       "id": "370a2e05156cb36de63bb3fc93e82f28",
@@ -367,6 +535,14 @@
       "digest": "浙江人形机器人创新中心升级SPIRE 2.0体系，以多模型协同与技能库提升长序列任务作业稳定性。"
     },
     {
+      "id": "283f147419ab93237cd3e6dfb6af48c9",
+      "title": "山东省：大力发展智能农机，鼓励农机制造企业在农机装备出厂前加装北斗导航、传感器等智能化设备",
+      "source": "智能制造网",
+      "time": "2026-11-25T13:22:13.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197765.html",
+      "digest": "山东省政府办公厅印发智慧农业实施意见，提出发展智能农机，鼓励农机制造企业在出厂前加装北斗导航、传感器等智能化设备。"
+    },
+    {
       "id": "17425919e6f5b7bf11e2fbc3ef3459dc",
       "title": "全球首张人形机器人UL3300认证落地",
       "source": "智能制造网",
@@ -421,6 +597,22 @@
       "time": "2026-11-25T11:04:00.000Z",
       "url": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
       "digest": "元材新界联合清华、北大等高校发布材料研发基准FrontierMat，含330道跨尺度真实难题，并推出自研材料大模型。"
+    },
+    {
+      "id": "70ba6e1392d459f2170db63406671b28",
+      "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
+      "source": "爱范儿",
+      "time": "2026-11-25T10:47:45.000Z",
+      "url": "https://www.ifanr.com/1695482?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign",
+      "digest": "蔚来在NIO IN发布NOMI 4.0语音助手，响应0.6秒，李斌称智能电动汽车是Physical AI核心载体。"
+    },
+    {
+      "id": "934657f2754c55e108d7c739772345e8",
+      "title": "爱仕达与智元机器人签署灵犀系列产品千台生产合作协议",
+      "source": "智能制造网",
+      "time": "2026-11-25T10:26:06.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197803.html",
+      "digest": "11月25日，智元机器人CTO彭志辉到访爱仕达上海青浦智能谷，双方签署灵犀系列产品千台生产合作协议。"
     },
     {
       "id": "e5067064033c4d9b02e20dac64b109ee",
@@ -629,6 +821,22 @@
       "time": "2026-11-17T11:40:58.000Z",
       "url": "https://www.gkzhan.com/news/detail/197767.html",
       "digest": "进博会上陶朗展示4C光学分选机，结合深度学习与传统机器学习算法，可识别果壳果梗及玻璃金属塑料等瑕疵。"
+    },
+    {
+      "id": "6db20931925a680aab585f71f43de885",
+      "title": "喜报！绍兴6家企业上榜浙江省工业设计中心",
+      "source": "智能制造网",
+      "time": "2026-11-13T10:27:35.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197686.html",
+      "digest": "2026年度浙江省工业设计中心认定名单公布，绍兴6家企业入选，较去年新增2家，含京华激光、精工钢结构等。"
+    },
+    {
+      "id": "56b59c5edbcb9cdc704e034b9894ddc4",
+      "title": "申报 | 2026年浙江省零碳工厂",
+      "source": "智能制造网",
+      "time": "2026-11-10T11:16:37.000Z",
+      "url": "https://www.gkzhan.com/news/detail/197665.html",
+      "digest": "浙江省组织开展2026年零碳工厂建设工作，要求通过技术创新、结构调整和管理优化推进零碳工厂建设。"
     }
   ]
 }
